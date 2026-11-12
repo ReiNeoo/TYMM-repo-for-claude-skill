@@ -1,0 +1,356 @@
+{
+ "ders": "Türkçe",
+ "sinif": 5,
+ "parca": "konusma",
+ "ciktilar": [
+  {
+   "kod": "T.K.5.1.",
+   "metin": "Konuşma sürecini yönetebilme",
+   "tablo9_sayfa": 45,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Konuşmayı başlatma, sürdürme, sonlandırmayla ilgili selam, hitap vb. kalıp ifadeleri kullanır."
+    },
+    {
+     "harf": "b",
+     "metin": "Söz sırası alır ve/veya verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.10.",
+   "metin": "Konuşmasında karşılaştırma yapabilme",
+   "tablo9_sayfa": 47,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Karşılaştırılabilir unsurlara ilişkin özellikleri belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Özellikler arasındaki benzerlikleri tespit ederek konuşmasında kullanır."
+    },
+    {
+     "harf": "c",
+     "metin": "Özellikler arasındaki farklılıkları tespit ederek konuşmasında kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.11.",
+   "metin": "Konuşmasında sınıflandırma yapabilme",
+   "tablo9_sayfa": 48,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Sınıflandırma ölçütüne karar verir."
+    },
+    {
+     "harf": "b",
+     "metin": "Konuşma içeriğindeki unsurları ölçüte göre ayırır."
+    },
+    {
+     "harf": "c",
+     "metin": "Unsurları ayırt edici özelliklerinden hareketle gruplandırır."
+    },
+    {
+     "harf": "ç",
+     "metin": "Gruplamaları adlandırarak konuşmasında sınıflandırmaya yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.12.",
+   "metin": "Yorumunu sözlü olarak ifade edebilme",
+   "tablo9_sayfa": 48,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yorumlayacağı olay, bilgi, durum vb.ni inceler."
+    },
+    {
+     "harf": "b",
+     "metin": "Olay, bilgi, durum vb.ni bağlamdan kopmadan, farklı bakış açısıyla, genişleterek veya daraltarak dönüştürür."
+    },
+    {
+     "harf": "c",
+     "metin": "Olay, bilgi, durum vb.ni belirlenen bakış açısıyla kendine özgü biçimde konuşmasında yeniden ifade eder."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.13.",
+   "metin": "Sözlü olarak özetleyebilme",
+   "tablo9_sayfa": 48,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Olay, bilgi, durum vb.ni çözümler."
+    },
+    {
+     "harf": "b",
+     "metin": "Çözümlemeden hareketle önemli ve önemsiz bilgileri sınıflandırır."
+    },
+    {
+     "harf": "c",
+     "metin": "Önemli bilgileri kronolojik akışa ve/veya düşünce akışına uygun olarak kendi cümleleriyle ifade eder."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.14.",
+   "metin": "Sözlü olarak tartışabilme",
+   "tablo9_sayfa": 49,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Düşüncelerini savunurken önermelerine yönelik mantıklı temellendirme yapar."
+    },
+    {
+     "harf": "b",
+     "metin": "Varsa söylenenlerdeki tutarsız, geçersiz görüş ve bilgiyi tespit eder."
+    },
+    {
+     "harf": "c",
+     "metin": "Doğru görüş ve bilgiyi kabul eder; tutarsız, geçersiz görüş ve bilgiyi çürütür."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.15.",
+   "metin": "Hazırlıklı konuşmasını yapılandırabilme",
+   "tablo9_sayfa": 49,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Konuşma sürecini planlar."
+    },
+    {
+     "harf": "b",
+     "metin": "Plana uygun hazırlık yapar."
+    },
+    {
+     "harf": "c",
+     "metin": "Konuşma içeriğine yönelik metin veya taslak hazırlar."
+    },
+    {
+     "harf": "ç",
+     "metin": "Dinleyici/izleyici kitlesinden gelebilecek sorulara yönelik tahminde bulunur."
+    },
+    {
+     "harf": "d",
+     "metin": "Konuşmasını yapar."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.16.",
+   "metin": "Düşünceyi geliştirme yollarını kullanarak konuşmasını yapılandırabilme",
+   "tablo9_sayfa": 50,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Kullanacağı düşünceyi geliştirme yollarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Düşünceyi geliştirme yollarını konuşma içeriğiyle uyumlu şekilde kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.17.",
+   "metin": "Konuşmasını zenginleştirecek biçimde söz varlığını kullanabilme",
+   "tablo9_sayfa": 50,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Kullanacağı söz varlığı unsurlarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Söz varlığı unsurlarına bağlama uygun şekilde konuşmasında yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.18.",
+   "metin": "Konuşmasında açık ve örtük ifadeleri kullanabilme",
+   "tablo9_sayfa": 50,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Kullanacağı örtük ileti unsurlarını (söz sanatları, mecaz, deyim, atasözü ve diğer söz varlığı unsurları) belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Konuşmasında açık ve örtük iletilere bağlama uygun şekilde yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.19.",
+   "metin": "Uygun bağlantı ifadelerini kullanabilme",
+   "tablo9_sayfa": 51,
+   "surec_bilesenleri": []
+  },
+  {
+   "kod": "T.K.5.2.",
+   "metin": "Konuşmada yöntem ve teknik seçimlerini yönetebilme",
+   "tablo9_sayfa": 45,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Konuşma türü (sözlü üretim veya sözlü etkileşim), amacı, süresi, ilgi ve ihtiyaçlarını analiz ederek görüş oluşturur."
+    },
+    {
+     "harf": "b",
+     "metin": "Analiz sonuçları doğrultusunda konuşurken kullanacağı yöntemi ve/veya tekniği seçer."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.20.",
+   "metin": "Konuşmasında beden dilini kullanabilme",
+   "tablo9_sayfa": 51,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Dinleyicilerle/izleyicilerle göz teması kurar."
+    },
+    {
+     "harf": "b",
+     "metin": "Baş, el, kol, bacak ve bedenin genel duruşunu içeriğe uygun kullanır."
+    },
+    {
+     "harf": "c",
+     "metin": "İçeriğe uygun olarak yaygın yüz ifadelerini (şaşırma, kızgınlık, mutluluk vb.) kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.21.",
+   "metin": "Konuşma sürecini değerlendirebilme",
+   "tablo9_sayfa": 51,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Konuşma sürecindeki güçlü ve gelişmeye açık yönlerini belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Deneyimlediği süreçteki gelişmeye açık yönlerini destekleyecek tedbirler alıp, güçlü yönlerini sonraki çalışmalara aktararak konuşan kimliğinin gelişimine yön verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.3.",
+   "metin": "Konuşmasında amaç ve içeriğe yönelik seçimlerini yönetebilme",
+   "tablo9_sayfa": 45,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Konuşma amacını, konusunu, türünü ve anlatım biçimini belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Amaç, konu, tür ve anlatım biçimi tercihleri doğrultusunda konuşmasını sürdürür."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.4.",
+   "metin": "İletişimi sürdürmek amacıyla soru sorabilme",
+   "tablo9_sayfa": 46,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Bağlamdaki olay, bilgi, durumu belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Bağlamı ve karşısındakini dikkate alarak soru sorar."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.5.",
+   "metin": "Konuşmasında çoklu ortam ögeleriyle içerik oluşturabilme",
+   "tablo9_sayfa": 46,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Konuşmasında kullanacağı çoklu ortam ögelerini (fotoğraf, resim, tablo, grafik, harita, ses, müzik, video vb.) belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Ögelerin işlevlerini (eş anlam oluşturma, destekleme, tek başına anlam verme) belirler."
+    },
+    {
+     "harf": "c",
+     "metin": "Çoklu ortam ögelerini içerikle ilişkilendirerek konuşmasında kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.6.",
+   "metin": "Yaratıcı konuşma yapabilme",
+   "tablo9_sayfa": 46,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Alışılmışın dışında konu, varlık vb. unsurları belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Kurguladığı unsurları birbirleriyle ilişilendirir."
+    },
+    {
+     "harf": "c",
+     "metin": "Bunları gözlem, deneyim, hayal gücüyle vb. zenginleştirerek özgün bir anlatım oluşturur."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.7.",
+   "metin": "Hazırlıksız konuşma yapabilme",
+   "tablo9_sayfa": 46,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Çıkış noktasından ve ön bilgilerinden hareketle kısa süreli zihinsel planlama yapar."
+    },
+    {
+     "harf": "b",
+     "metin": "Doğaçlama yoluyla bağlama uygun ve doğal bir biçimde konuşur."
+    }
+   ]
+  },
+  {
+   "kod": "T.K.5.8.",
+   "metin": "Konuşmasında sesini uygun şekilde kullanabilme",
+   "tablo9_sayfa": 47,
+   "surec_bilesenleri": []
+  },
+  {
+   "kod": "T.K.5.9.",
+   "metin": "Konuşmasında tahminlerinden yararlanabilme",
+   "tablo9_sayfa": 47,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Konuşmasında ele alacağı olay, bilgi ya da durumu ön bilgileriyle ilişkilendirir."
+    },
+    {
+     "harf": "b",
+     "metin": "İlişkilendirmelerden hareketle olay, bilgi ya da duruma yönelik mantıklı tahminde bulunur."
+    },
+    {
+     "harf": "c",
+     "metin": "Konuşmasında tahminlerine yer verir."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1027 @@
+{
+  "ders": "Matematik",
+  "sinif": 7,
+  "kaynak_pdf": "ortaokul-matematik-dersi_20260902_111111_630 (2).pdf",
+  "not": "sayfa alanları PDF sayfa numarasıdır.",
+  "kaynak_notlari": [],
+  "temalar": [
+    {
+      "islenis_sirasi": 1,
+      "ad": "SAYILAR VE NİCELİKLER (1)",
+      "ders_saati": 35,
+      "sayfa": 115,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.1.1.",
+          "sayfa": 116,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Tam sayıları inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Tam sayıları rasyonel sayılara genişletir ve mutlak değerle sayı doğrusunda açıklar."
+            },
+            {
+              "harf": "c",
+              "metin": "Sayı doğrusu üzerinde her rasyonel sayının bir noktaya karşılık geldiğini açıklar."
+            }
+          ],
+          "metin": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+          "plan_haftalari": [
+            1,
+            2
+          ]
+        },
+        {
+          "kod": "MAT.7.1.2.",
+          "sayfa": 116,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bölme işlemini kullanarak her rasyonel sayının bir ondalık gösterimi olduğunu inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Rasyonel sayıların ondalık gösterimlerinden bazılarının devirli olduğuna dair çıkarım yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Her rasyonel sayının devirli ya da devirsiz ondalık açılımları olduğunu değerlendirir."
+            }
+          ],
+          "metin": "Gerçek yaşam durumlarında rasyonel sayıların ondalık gösterimlerini yansıtabilme",
+          "plan_haftalari": [
+            3,
+            4
+          ]
+        },
+        {
+          "kod": "MAT.7.1.3.",
+          "sayfa": 116,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Paydası 1 olan rasyonel sayılardan (tam sayılardan) başlayarak rasyonel sayıları sayı doğrusunda inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Rasyonel sayıların karşılaştırma ve sıralama ilişkilerini sembolik olarak ifade eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Rasyonel sayıların karşılaştırma ve sıralama ilişkisini sayı doğrusu üzerinde kendi ifadeleriyle açıklar."
+            }
+          ],
+          "metin": "Rasyonel sayıların karşılaştırma ve sıralama ilişkilerini yorumlayabilme",
+          "plan_haftalari": [
+            4,
+            5
+          ]
+        },
+        {
+          "kod": "MAT.7.1.4.",
+          "sayfa": 116,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde sayı ve işlem bileşenlerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde istenenler ve seçilen işlemler arasındaki ilişkileri belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde problem bağlamını uygun temsillere (şekil, sayı doğrusu gibi) dönüştürür."
+            },
+            {
+              "harf": "ç",
+              "metin": "Kullanılan temsil üzerinden problemi kendi ifadeleri ile açıklar."
+            },
+            {
+              "harf": "d",
+              "metin": "Problemlerin çözümü için stratejiler oluşturur."
+            },
+            {
+              "harf": "e",
+              "metin": "Stratejileri işe koşarak problemi çözer."
+            },
+            {
+              "harf": "f",
+              "metin": "Problemin çözümünü kontrol eder."
+            },
+            {
+              "harf": "g",
+              "metin": "Problemlerin olası farklı çözüm stratejilerini inceler."
+            },
+            {
+              "harf": "ğ",
+              "metin": "Çözüme ulaştıran stratejilere uygun genellemeler yapar."
+            },
+            {
+              "harf": "h",
+              "metin": "Genellemelerin geçerliliğini değerlendirir."
+            }
+          ],
+          "metin": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+          "plan_haftalari": [
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 2,
+      "ad": "GEOMETRİK NİCELİKLER (1)",
+      "ders_saati": 19,
+      "sayfa": 142,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.4.1.",
+          "sayfa": 143,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Eş küplerle oluşturulan yapıların farklı yönlerden görünümlerini çizer ve görünümleri verilen yapıları eş küplerle oluşturur."
+            },
+            {
+              "harf": "b",
+              "metin": "Oluşturduğu yapı ile görünümleri arasındaki ilişkileri belirler."
+            }
+          ],
+          "metin": "Eş küplerle oluşturulan yapılar ile görünümleri arasındaki ilişkiyi çözümleyebilme",
+          "plan_haftalari": [
+            8
+          ]
+        },
+        {
+          "kod": "MAT.7.4.2.",
+          "sayfa": 143,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dikdörtgenler prizmasının farklı yüzey açınımlarını inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Dikdörtgenler prizmasının yüzey açınımı ile yüzey alanı arasındaki ilişkileri ifade eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Dikdörtgenler prizmalarının yüzey açınımlarından yararlanarak yüzey alanlarını hesaplar."
+            }
+          ],
+          "metin": "Dikdörtgenler prizmasının yüzey alanını yorumlayabilme",
+          "plan_haftalari": [
+            9
+          ]
+        },
+        {
+          "kod": "MAT.7.4.3.",
+          "sayfa": 143,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dikdörtgenler prizmalarının hacimlerini karşılaştırarak inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Eş nesneler ile doldurulmuş dikdörtgenler prizmasını oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Dikdörtgenler prizmasını oluşturan eş nesnelerin sayısını prizmanın hacmi olarak ifade eder."
+            }
+          ],
+          "metin": "Dikdörtgenler prizmasının hacmini eş nesneler aracılığıyla yorumlayabilme",
+          "plan_haftalari": [
+            9
+          ]
+        },
+        {
+          "kod": "MAT.7.4.4.",
+          "sayfa": 143,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dikdörtgenler prizmasının hacmini belirlemede ölçüt olarak birim küpleri belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Dikdörtgenler prizmasının hacmini belirlemek için prizmaların içine yerleştirilen birim küpleri sayar."
+            },
+            {
+              "harf": "c",
+              "metin": "Toplam birim küp sayısı ile dikdörtgenler prizmasının ayrıt uzunluklarını karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Birim küpleri farklı stratejilerle sayarak dikdörtgenler prizmasının hacmini taban alanı ile yüksekliğin çarpımı olarak ifade eder."
+            }
+          ],
+          "metin": "Dikdörtgenler prizmasının hacim bağıntısını değerlendirebilme",
+          "plan_haftalari": [
+            9,
+            10
+          ]
+        },
+        {
+          "kod": "MAT.7.4.5.",
+          "sayfa": 143,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bir cismin hacmini ölçmede metreküpü ve litreyi ölçüt olarak belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Metreküp ve litreyi kullanarak ölçme yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Hacim ölçme sonuçlarını desimetreküp, santimetreküp ve milimetreküp; sıvı ölçme sonuçlarını desilitre, santilitre ve mililitre ile ilişkilendirerek karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Karşılaştırmalarına ilişkin yargıda bulunur."
+            }
+          ],
+          "metin": "Hacim ölçme birimleri arasındaki ilişkileri değerlendirebilme",
+          "plan_haftalari": [
+            10
+          ]
+        },
+        {
+          "kod": "MAT.7.4.6.",
+          "sayfa": 143,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problemde ilgili matematiksel bileşenleri (şekil, cisim, uzunluk, alan, yükseklik gibi) belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Matematiksel bileşenler arasındaki ilişkileri belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Problem bağlamındaki temsilleri farklı temsillere dönüştürür."
+            },
+            {
+              "harf": "ç",
+              "metin": "Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar."
+            },
+            {
+              "harf": "d",
+              "metin": "Problemin sonucuna ilişkin tahminde bulunarak işlemleri gerçekleştirmek için stratejiler geliştirir."
+            },
+            {
+              "harf": "e",
+              "metin": "Belirlediği stratejileri çözüm için uygular."
+            },
+            {
+              "harf": "f",
+              "metin": "Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir."
+            },
+            {
+              "harf": "g",
+              "metin": "Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir."
+            },
+            {
+              "harf": "ğ",
+              "metin": "Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller."
+            },
+            {
+              "harf": "h",
+              "metin": "Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+            }
+          ],
+          "metin": "Günlük hayat durumlarında dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problem çözebilme",
+          "plan_haftalari": [
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 3,
+      "ad": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "ders_saati": 24,
+      "sayfa": 160,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.6.1.",
+          "sayfa": 161,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kategorik veya nicel (sürekli) veriye dayanan istatistiksel araştırma gerektiren durumları fark eder."
+            },
+            {
+              "harf": "b",
+              "metin": "Kategorik veya nicel (sürekli) veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Kategorik veya nicel (sürekli) veriye ulaşmak için plan yapar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Araştırma sorusuna uygun hazırlanan anket sorularını kullanarak veri toplar veya hazır veriye ulaşır."
+            },
+            {
+              "harf": "d",
+              "metin": "Veri görselleştirme (çizgi grafiği, nokta grafiği gibi) ve özetleme (aritmetik ortalama, ortanca, tepe değer, açıklık ve ortalama mutlak sapma) araçlarını seçme gerekçelerini belirtir."
+            },
+            {
+              "harf": "e",
+              "metin": "Toplanan veriyi uygun araçlarla analiz eder."
+            },
+            {
+              "harf": "f",
+              "metin": "Araştırmada ulaştığı sonuçlara yönelik gerekçeler sunar."
+            },
+            {
+              "harf": "g",
+              "metin": "Araştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar."
+            }
+          ],
+          "metin": "Kategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme",
+          "plan_haftalari": [
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "kod": "MAT.7.6.2.",
+          "sayfa": 161,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder."
+            }
+          ],
+          "metin": "Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme",
+          "plan_haftalari": [
+            15,
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 4,
+      "ad": "DÖNÜŞÜM",
+      "ders_saati": 8,
+      "sayfa": 137,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.3.1.",
+          "sayfa": 138,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Şekillerin yansıma dönüşümleri altındaki görüntülerini oluşturmaya dair varsayımlarda bulunur."
+            },
+            {
+              "harf": "b",
+              "metin": "Şekillerin yansıma dönüşümü altındaki görüntülerini oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Varsayımlarını doğrulamaya yönelik karşılaştırmalar yapar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Bir şekil ile yansıma dönüşümü altındaki görüntüsü arasındaki ilişkilere dair önermeler sunar."
+            },
+            {
+              "harf": "d",
+              "metin": "Önermenin verilen iki eş şeklin bir doğruya göre simetrik olup olmadığını belirlemeye ve simetrik bir şeklin simetri doğrusunu oluşturmaya yönelik katkısını değerlendirir."
+            }
+          ],
+          "metin": "Şekillerin yansıma dönüşümü altındaki görüntülerinin oluşturulmasına dair çıkarım yapabilme",
+          "plan_haftalari": [
+            17,
+            18
+          ]
+        },
+        {
+          "kod": "MAT.7.3.2.",
+          "sayfa": 138,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yansıma dönüşümünde simetri doğrusunun özelliklerini gözden geçirir."
+            },
+            {
+              "harf": "b",
+              "metin": "Simetri doğrusunun özelliklerinden hareketle bir doğru parçasına ait orta dikmenin ve bir açıya ait açıortayın inşasına dair çıkarım yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Çıkarımını farklı örnekler üzerinden değerlendirir."
+            }
+          ],
+          "metin": "Yansıma dönüşümündeki deneyimlerini orta dikme ve açıortay inşasına yansıtabilme",
+          "plan_haftalari": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 5,
+      "ad": "GEOMETRİK ŞEKİLLER",
+      "ders_saati": 6,
+      "sayfa": 156,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.5.1.",
+          "sayfa": 157,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Üçgende kenarortayı, açıortayı ve yüksekliği belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Üçgende kenarortay, açıortay ve yükseklik arasındaki ilişkileri belirler."
+            }
+          ],
+          "metin": "Matematiksel araç ve teknolojiden yararlanarak üçgende kenarortayı, açıortayı ve yüksekliği çözümleyebilme",
+          "plan_haftalari": [
+            19
+          ]
+        },
+        {
+          "kod": "MAT.7.5.2.",
+          "sayfa": 157,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Orta dikme inşasına yönelik deneyimlerini gözden geçirir."
+            },
+            {
+              "harf": "b",
+              "metin": "Üçgende kenarortay inşasına yönelik çıkarım yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Çıkarımını farklı örnekler üzerinden değerlendirir."
+            }
+          ],
+          "metin": "Orta dikme inşasına yönelik deneyimlerini üçgende kenarortay inşasına yansıtabilme",
+          "plan_haftalari": [
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 6,
+      "ad": "SAYILAR VE NİCELİKLER (2)",
+      "ders_saati": 15,
+      "sayfa": 122,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.1.5.",
+          "sayfa": 123,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Gerçek yaşam durumları üzerinden iki niceliğin karşılaştırılmasında toplamsal (mutlak) ve çarpımsal (bağıl) ilişkileri ayırt eder."
+            },
+            {
+              "harf": "b",
+              "metin": "Gerçek yaşam durumları üzerinden oranın iki niceliğin çarpımsal ilişkiler kurularak karşılaştırılması olduğunu belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Çözümlediği gerçek yaşam durumlarının içerdiği oranı birimli ve birimsiz oran olarak ifade eder."
+            },
+            {
+              "harf": "ç",
+              "metin": "Birimli ve birimsiz oranı kendi ifadeleriyle açıklar."
+            },
+            {
+              "harf": "d",
+              "metin": "Yorumladığı gerçek yaşam durumundaki ilişkilere dayalı olarak denk orana ve birim orana ilişkin varsayımlarda bulunur."
+            },
+            {
+              "harf": "e",
+              "metin": "Varsayımındaki örneklere ait ilişkileri inceleyerek denk oran ve birim orana ilişkin genellemeleri belirler."
+            },
+            {
+              "harf": "f",
+              "metin": "Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını çeşitli temsiller (oran tabloları, çubuk diyagramı, çift sayı doğrusu, grafik, somut materyaller) ile sınar."
+            },
+            {
+              "harf": "g",
+              "metin": "Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sunar."
+            },
+            {
+              "harf": "ğ",
+              "metin": "Sunduğu önermenin katkısına yönelik gerekçeler sunar."
+            }
+          ],
+          "metin": "Gerçek yaşam durumları üzerinden oran ilişkileri hakkında muhakeme yapabilme",
+          "plan_haftalari": [
+            20,
+            21
+          ]
+        },
+        {
+          "kod": "MAT.7.1.6.",
+          "sayfa": 123,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Gerçek yaşam durumlarında iki durumun orantılı olup olmadığını inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Orantılı olan iki durumun ilişkisini temsiller ile ifade eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Orantı kavramını kendi ifadeleriyle yeniden açıklar."
+            }
+          ],
+          "metin": "Gerçek yaşam durumları üzerinden orantılı durumları yorumlayabilme",
+          "plan_haftalari": [
+            21
+          ]
+        },
+        {
+          "kod": "MAT.7.1.7.",
+          "sayfa": 123,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Doğru orantılı durumlara ilişkin problemlerde nicelikleri belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Doğru orantılı durumlar arasındaki ilişkileri belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Bu ilişkileri tablo ve grafik temsillerine dönüştürür."
+            },
+            {
+              "harf": "ç",
+              "metin": "Dönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder."
+            },
+            {
+              "harf": "d",
+              "metin": "Elde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için stratejiler oluşturur."
+            },
+            {
+              "harf": "e",
+              "metin": "Belirlediği stratejileri kullanır."
+            },
+            {
+              "harf": "f",
+              "metin": "Elde ettiği çözümü farklı stratejileri kullanarak doğrular."
+            },
+            {
+              "harf": "g",
+              "metin": "Problemin olası farklı çözüm stratejilerini inceler."
+            },
+            {
+              "harf": "ğ",
+              "metin": "Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller."
+            },
+            {
+              "harf": "h",
+              "metin": "Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+            }
+          ],
+          "metin": "Gerçek yaşam durumları üzerinden doğru orantılı durumlara ilişkin problemleri çözebilme",
+          "plan_haftalari": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 7,
+      "ad": "VERİDEN OLASILIĞA",
+      "ders_saati": 9,
+      "sayfa": 168,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.7.1.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bir olayın olasılığını hesaplamaya ilişkin olası tüm çıktıları gözlemler."
+            },
+            {
+              "harf": "b",
+              "metin": "Bir olayın ve tümleyeninin olasılığını hesaplamak için matematiksel ilişkiyi bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Bir olayın ve tümleyeninin olasılığının ilişkisine yönelik genelleme yapar."
+            }
+          ],
+          "metin": "Bir olayın ve tümleyeninin olasılığına ilişkin tümevarımsal akıl yürütebilme",
+          "plan_haftalari": [
+            23
+          ]
+        },
+        {
+          "kod": "MAT.7.7.2.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Eşit olasılıklı olan ve eşit olasılıklı olmayan olaylara ilişkin ölçüt belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Olayların eşit olasılıklı olma veya olmama olasılığına ilişkin hesaplama yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Hesaplama sonuçlarını belirlediği ölçütlerle karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Karşılaştırmalarına ilişkin yargıda bulunur."
+            }
+          ],
+          "metin": "Aynı deneye ait olayların eşit olasılıklı olma durumlarını değerlendirebilme",
+          "plan_haftalari": [
+            23,
+            24
+          ]
+        },
+        {
+          "kod": "MAT.7.7.3.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Olayların ayrık olma ve ayrık olmama durumlarını olaylara ait çıktıların ortak olup olmamasını ölçüt alarak belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Olayları ayrık olma ve ayrık olmama durumuna göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Ayrık olan ve ayrık olmayan olayları tasnif eder."
+            },
+            {
+              "harf": "ç",
+              "metin": "Olayları ayrık olma veya olmama durumuna göre etiketler."
+            }
+          ],
+          "metin": "Olayları ayrık olma ve ayrık olmama durumlarına göre sınıflandırabilme",
+          "plan_haftalari": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 8,
+      "ad": "İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+      "ders_saati": 38,
+      "sayfa": 130,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.2.1.",
+          "sayfa": 131,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Gerçek yaşam durumlarına ya da matematiksel durumlara karşılık gelen cebirsel ifadelerle işlemleri inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Toplama ve çarpma işlemlerinin özelliklerini, cebirsel ifadelerde işlem yaparken kullanır."
+            },
+            {
+              "harf": "c",
+              "metin": "Bu işlemler ve sonuçları arasındaki denkliği açıklar."
+            }
+          ],
+          "metin": "Gerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme",
+          "plan_haftalari": [
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "kod": "MAT.7.2.2.",
+          "sayfa": 131,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Verilen gerçek yaşam problemlerindeki nicelikleri belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Nicelikler arasındaki eşitlik ve eşitsizlik ilişkilerini belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Belirlenen nicelikleri cebirsel olarak ifade eder."
+            },
+            {
+              "harf": "ç",
+              "metin": "Belirlenen nicelikleri ve ilişkileri denklem veya eşitsizlik olarak ifade eder."
+            },
+            {
+              "harf": "d",
+              "metin": "Denklem ve eşitsizliklerin çözümünde bir strateji oluşturur."
+            },
+            {
+              "harf": "e",
+              "metin": "Belirlediği stratejiyi çözüm için uygular."
+            },
+            {
+              "harf": "f",
+              "metin": "Çözümün doğruluğunu uygun örnek ve temsiller ile kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir."
+            },
+            {
+              "harf": "g",
+              "metin": "Problemin çözümü için olası farklı çözüm stratejilerini inceler."
+            },
+            {
+              "harf": "ğ",
+              "metin": "Çözüme ulaştıran stratejilerin uyarlanabileceği uygun genelleme ve sınıflamalar yapar."
+            },
+            {
+              "harf": "h",
+              "metin": "Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+            }
+          ],
+          "metin": "Birinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme",
+          "plan_haftalari": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "kod": "MAT.7.2.3.",
+          "sayfa": 131,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Sayılar ve özellikleriyle ilgili ilişkilere yönelik örneklere ve örüntülere dayalı varsayımlarda bulunur."
+            },
+            {
+              "harf": "b",
+              "metin": "Varsayımına yönelik sayı örüntülerini listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Elde ettiği örüntülerin, varsayımını karşılayıp karşılamadığını sınar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sözel veya cebirsel olarak ifade eder."
+            },
+            {
+              "harf": "d",
+              "metin": "Sunduğu önermenin katkısına yönelik gerekçeler sunar."
+            },
+            {
+              "harf": "e",
+              "metin": "Sayılar ve özelliklerine ilişkin durumlarda cebirsel ispat yöntemlerini seçerek işe koşar."
+            },
+            {
+              "harf": "f",
+              "metin": "Önermeyi gözden geçirerek yeni durumlara uyarlar."
+            }
+          ],
+          "metin": "Sayılar ve özelliklerini içeren ispatlara ilişkin matematiksel muhakeme yapabilme",
+          "plan_haftalari": [
+            30,
+            31
+          ]
+        },
+        {
+          "kod": "MAT.7.2.4.",
+          "sayfa": 131,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki adımları ve ilişkileri açıklar."
+            },
+            {
+              "harf": "b",
+              "metin": "Algoritma ifade yöntemlerini kullanarak incelediği adımlar ve ilişkilerden uyumlu bir bütün oluşturur."
+            }
+          ],
+          "metin": "Temel aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki süreci algoritma ifade yöntemlerini kullanarak yapılandırabilme",
+          "plan_haftalari": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 9,
+      "ad": "GEOMETRİK NİCELİKLER (2)",
+      "ders_saati": 18,
+      "sayfa": 150,
+      "ciktilar": [
+        {
+          "kod": "MAT.7.4.7.",
+          "sayfa": 151,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dikdörtgenin, paralelkenarın alanı ve çemberin uzunluğuna yönelik deneyimlerini gözden geçirir."
+            },
+            {
+              "harf": "b",
+              "metin": "Dikdörtgenin alan bağıntısı ve çemberin uzunluğundan yola çıkarak dairenin alan bağıntısına yönelik çıkarım yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Çıkarımını farklı örnekler üzerinden değerlendirir."
+            }
+          ],
+          "metin": "Dikdörtgenin, paralelkenarın alanına ve çemberin uzunluğuna ilişkin deneyimlerini dairenin alan bağıntısına yansıtabilme",
+          "plan_haftalari": [
+            33
+          ]
+        },
+        {
+          "kod": "MAT.7.4.8.",
+          "sayfa": 151,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Çemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkileri gözlemler."
+            },
+            {
+              "harf": "b",
+              "metin": "Çemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkiyi tespit eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Çemberde merkez açı ve gördüğü yay uzunluğuyla daire ve daire diliminin alanı arasında kurulan ilişkiden hareketle daire diliminin alanına dair çıkarım yapar."
+            }
+          ],
+          "metin": "Çemberde merkez açı ve gördüğü yay uzunluğu arasındaki ilişkiden yola çıkarak daire ve daire diliminin alanları arasındaki ilişkiye yönelik analojik akıl yürütebilme",
+          "plan_haftalari": [
+            33,
+            34
+          ]
+        },
+        {
+          "kod": "MAT.7.4.9.",
+          "sayfa": 151,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dikdörtgen, paralelkenar ve üçgenin alan bağıntısına dair ön bilgisiyle eşkenar dörtgenin ve yamuğun alan hesabına yönelik varsayımda bulunur."
+            },
+            {
+              "harf": "b",
+              "metin": "Eşkenar dörtgeni ve yamuğu parçalayarak veya tamamlayarak oluşturduğu geometrik şekillerin alanlarını belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Oluşturulan geometrik şekillerin alanlarını varsayımlarıyla karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Eşkenar dörtgenin ve yamuğun alan bağıntılarına dair önermeler sunar."
+            },
+            {
+              "harf": "d",
+              "metin": "Çeşitli geometrik şekillerin alanlarının hesaplanmasında eşkenar dörtgenin ve yamuğun alan bağıntılarının katkılarını değerlendirir."
+            }
+          ],
+          "metin": "Eşkenar dörtgen ve yamuğun alan bağıntılarına dair çıkarım yapabilme",
+          "plan_haftalari": [
+            35
+          ]
+        },
+        {
+          "kod": "MAT.7.4.10.",
+          "sayfa": 151,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Günlük hayat durumlarında daire, daire dilimi, eşkenar dörtgen ve yamuğun alanlarına ilişkin problemde ilgili matematiksel bileşenleri (şekil, uzunluk, alan, açı, köşegen, yarıçap, yükseklik gibi) belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Matematiksel bileşenler arasındaki ilişkileri belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Problem bağlamındaki temsilleri farklı temsillere dönüştürür."
+            },
+            {
+              "harf": "ç",
+              "metin": "Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar."
+            },
+            {
+              "harf": "d",
+              "metin": "Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir."
+            },
+            {
+              "harf": "e",
+              "metin": "Belirlenen stratejileri çözüm için uygular."
+            },
+            {
+              "harf": "f",
+              "metin": "Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir."
+            },
+            {
+              "harf": "g",
+              "metin": "Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir."
+            },
+            {
+              "harf": "ğ",
+              "metin": "Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller."
+            },
+            {
+              "harf": "h",
+              "metin": "Genellemenin geçerliliğini matematiksel örneklerle değerlendirir."
+            }
+          ],
+          "metin": "Günlük hayat durumlarında daire, daire dilimi, eşkenar dörtgen ve yamuğun alanına ilişkin problem çözebilme",
+          "plan_haftalari": [
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "kaynak": "MATEMATİK (5-8. SINIF) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+    "sayfa": "7.Sınıf",
+    "haftalar": {
+      "1": "14-18 Eylül",
+      "2": "21-25 Eylül",
+      "3": "28 Eylül-02 Ekim",
+      "4": "05-09 Ekim",
+      "5": "12-16 Ekim",
+      "6": "19-23 Ekim",
+      "7": "26-30 Ekim",
+      "8": "02-06 Kasım",
+      "9": "09-13 Kasım",
+      "10": "23-27 Kasım",
+      "11": "30 Kasım-04 Aralık",
+      "12": "07-11 Aralık",
+      "13": "14-18 Aralık",
+      "14": "21-25 Aralık",
+      "15": "28-31 Aralık",
+      "16": "04-08 Ocak",
+      "17": "11-15 Ocak",
+      "18": "18-22 Ocak",
+      "19": "08-12 Şubat",
+      "20": "15-19 Şubat",
+      "21": "22-26 Şubat",
+      "22": "01-05 Mart",
+      "23": "15-19 Mart",
+      "24": "22-26 Mart",
+      "25": "29 Mart-02 Nisan",
+      "26": "05-09 Nisan",
+      "27": "12-16 Nisan",
+      "28": "19-23 Nisan",
+      "29": "26-30 Nisan",
+      "30": "03-07 Mayıs",
+      "31": "10-14 Mayıs",
+      "32": "20-21 Mayıs",
+      "33": "24-28 Mayıs",
+      "34": "31 Mayıs- 04 Haziran",
+      "35": "7-11 Haziran",
+      "36": "14-18 Haziran",
+      "37": "21-25 Haziran"
+    }
+  }
+}

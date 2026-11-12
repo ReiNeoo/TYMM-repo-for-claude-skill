@@ -1,0 +1,529 @@
+{
+  "ders": "Sosyal Bilgiler",
+  "sinif": 7,
+  "kaynak_pdf": "sosyal-bilgiler-dersi_20260902_111029_619.pdf",
+  "not": "sayfa alanları PDF sayfa numarasıdır.",
+  "kaynak_notlari": [],
+  "temalar": [
+    {
+      "islenis_sirasi": 1,
+      "ad": "BİRLİKTE YAŞAMAK",
+      "ders_saati": 16,
+      "sayfa": 93,
+      "ciktilar": [
+        {
+          "kod": "SB.7.1.1.",
+          "sayfa": 94,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili merak ettiği konuları tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili sorular sorar."
+            },
+            {
+              "harf": "c",
+              "metin": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili bilgi toplar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili topladığı bilgilerin doğruluğunu değerlendirir."
+            },
+            {
+              "harf": "d",
+              "metin": "Yapmış olduğu değerlendirmelerden hareketle olumlu iletişimin önemine yönelik çıkarım yapar."
+            }
+          ],
+          "metin": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemini sorgulayabilme",
+          "plan_haftalari": [
+            1,
+            2
+          ]
+        },
+        {
+          "kod": "SB.7.1.2.",
+          "sayfa": 94,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmenin önemini fark eder."
+            },
+            {
+              "harf": "b",
+              "metin": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik benzer girişimleri inceler."
+            },
+            {
+              "harf": "c",
+              "metin": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik yeni fikirler üretir."
+            }
+          ],
+          "metin": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik fikir üretebilme",
+          "plan_haftalari": [
+            3,
+            4
+          ]
+        },
+        {
+          "kod": "SB.7.1.3.",
+          "sayfa": 94,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin varsayımlarda bulunur."
+            },
+            {
+              "harf": "b",
+              "metin": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin örnekleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışları karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Türk toplumunun oluşabilecek farklı millî meseleler karşısında gösterebileceği tutum ve davranışlara ilişkin önermelerde bulunur."
+            },
+            {
+              "harf": "d",
+              "metin": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışları toplumsal birlikteliğe etkisi açısından değerlendirir."
+            }
+          ],
+          "metin": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin çıkarım yapabilme",
+          "plan_haftalari": [
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 2,
+      "ad": "EVİMİZ DÜNYA",
+      "ders_saati": 10,
+      "sayfa": 98,
+      "ciktilar": [
+        {
+          "kod": "SB.7.2.1.",
+          "sayfa": 99,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi bağlamdan kopmadan dönüştürür."
+            },
+            {
+              "harf": "c",
+              "metin": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+            }
+          ],
+          "metin": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi yorumlayabilme",
+          "plan_haftalari": [
+            6,
+            7
+          ]
+        },
+        {
+          "kod": "SB.7.2.2.",
+          "sayfa": 99,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bölgesel ve küresel sorunların çözümünde ülkemizin rolüne ilişkin çözümleme yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Bölgesel ve küresel sorunların çözümünde ülkemizin rolüne ilişkin sınıflandırma yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Bölgesel ve küresel sorunların çözümünde ülkemizin rolünü yorumlar."
+            }
+          ],
+          "metin": "Bölgesel ve küresel sorunların çözümünde ülkemizin rolünü özetleyebilme",
+          "plan_haftalari": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 3,
+      "ad": "ORTAK MİRASIMIZ",
+      "ders_saati": 25,
+      "sayfa": 102,
+      "ciktilar": [
+        {
+          "kod": "SB.7.3.1.",
+          "sayfa": 103,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikalar hakkında merak ettiği konuyu tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikalar hakkında verilen kaynaklara dayanarak sorular sorar."
+            },
+            {
+              "harf": "c",
+              "metin": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikalar hakkında verilen kaynaklardan bilgi toplar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikalar hakkında topladığı bilgilerin doğruluğunu değerlendirir."
+            },
+            {
+              "harf": "d",
+              "metin": "Edindiği bilgilerden hareketle Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikalar hakkında çıkarım yapar."
+            }
+          ],
+          "metin": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikaları sorgulayabilme",
+          "plan_haftalari": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "kod": "SB.7.3.2.",
+          "sayfa": 103,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yeniliklerin nedenlerini inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yeniliklerin etkilediği unsurları inceler."
+            },
+            {
+              "harf": "c",
+              "metin": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yeniliklerin etkilerini sorgular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yeniliklerin neden ve sonuçlarını elde ettiği bilgilere dayanarak ifade eder."
+            }
+          ],
+          "metin": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yenilikleri neden ve sonuçlarıyla yorumlayabilme",
+          "plan_haftalari": [
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "kod": "SB.7.3.3.",
+          "sayfa": 103,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Osmanlı kültür ve medeniyet unsurlarının temel özelliklerine ilişkin kanıtlara dayanarak çıkarım yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Osmanlı kültür ve medeniyet unsurlarının temel özelliklerine ilişkin kanıtlardaki bilgilerden hareketle görüşünü yansıtan ürün oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Osmanlı kültür ve medeniyet unsurlarının özelliklerine ilişkin görüşlerine dayalı olarak oluşturduğu ürünü paylaşır."
+            }
+          ],
+          "metin": "Osmanlı kültür ve medeniyet unsurlarına ilişkin oluşturduğu ürünü paylaşabilme",
+          "plan_haftalari": [
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 4,
+      "ad": "YAŞAYAN DEMOKRASİMİZ",
+      "ders_saati": 22,
+      "sayfa": 107,
+      "ciktilar": [
+        {
+          "kod": "SB.7.4.1.",
+          "sayfa": 108,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Türkiye Cumhuriyeti’nin temel niteliklerini çözümler."
+            },
+            {
+              "harf": "b",
+              "metin": "Türkiye Cumhuriyeti’nin temel niteliklerini sınıflandırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Türkiye Cumhuriyeti’nin temel niteliklerini yorumlar."
+            }
+          ],
+          "metin": "Türkiye Cumhuriyeti’nin temel niteliklerini özetleyebilme",
+          "plan_haftalari": [
+            18,
+            19
+          ]
+        },
+        {
+          "kod": "SB.7.4.2.",
+          "sayfa": 108,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Türkiye Cumhuriyeti Devleti’nin yönetim yapısını belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Türkiye Cumhuriyeti Devleti’nin yönetim yapısını oluşturan unsurlar arası ilişkileri belirler."
+            }
+          ],
+          "metin": "Türkiye Cumhuriyeti Devleti’nin yönetim yapısını çözümleyebilme",
+          "plan_haftalari": [
+            20,
+            21
+          ]
+        },
+        {
+          "kod": "SB.7.4.3.",
+          "sayfa": 108,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Demokrasinin temel nitelikleri ile ülkemizin demokrasi tarihi arasındaki ilişkiyi görsel/işitsel/dijital tarihî kaynaklardan inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Demokrasinin temel nitelikleri ile ülkemizin demokrasi tarihi arasındaki ilişkiyi nesnel, doğru anlamı değiştirmeyecek bir şekilde yeniden ifade eder."
+            }
+          ],
+          "metin": "Ülkemizdeki demokrasinin gelişimini, demokrasinin temel ilkeleri açısından yorumlayabilme",
+          "plan_haftalari": [
+            22,
+            23
+          ]
+        },
+        {
+          "kod": "SB.7.4.4.",
+          "sayfa": 108,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Demokrasinin uygulama sürecinde karşılaşılabilecek sorunları çözümler."
+            },
+            {
+              "harf": "b",
+              "metin": "Demokrasinin uygulama sürecinde karşılaşılabilecek sorunları sınıflandırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Demokrasinin uygulama sürecinde karşılaşılabilecek sorunları yorumlar."
+            }
+          ],
+          "metin": "Demokrasinin uygulama sürecinde karşılaşılan sorunları özetleyebilme",
+          "plan_haftalari": [
+            24,
+            25,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 5,
+      "ad": "HAYATIMIZDAKİ EKONOMİ",
+      "ders_saati": 12,
+      "sayfa": 112,
+      "ciktilar": [
+        {
+          "kod": "SB.7.5.1.",
+          "sayfa": 113,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Millî kalkınma hamlelerine neden olan unsurları inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Millî kalkınma hamlelerinin etkilediği unsurları inceler."
+            },
+            {
+              "harf": "c",
+              "metin": "Millî kalkınma hamlelerinin etkilerinin niteliğini sorgular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Millî kalkınma hamlelerinin neden ve sonuçlarını bağlamından kopmadan yeniden ifade eder."
+            }
+          ],
+          "metin": "Millî kalkınma hamlelerini neden ve sonuçlarıyla yorumlayabilme",
+          "plan_haftalari": [
+            26,
+            27
+          ]
+        },
+        {
+          "kod": "SB.7.5.2.",
+          "sayfa": 113,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ekonomik gelişmişlik unsurları ile üretim, dağıtım ve tüketim döngüsünü belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Ekonomik gelişmişlik unsurları ile üretim dağıtım ve tüketim arasındaki ilişkiyi belirler."
+            }
+          ],
+          "metin": "Ekonomik gelişmişlik ile üretim, dağıtım ve tüketim döngüsü arasındaki ilişkiyi çözümleyebilme",
+          "plan_haftalari": [
+            28,
+            29,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 6,
+      "ad": "TEKNOLOJİ VE SOSYAL BİLİMLER",
+      "ders_saati": 18,
+      "sayfa": 116,
+      "ciktilar": [
+        {
+          "kod": "SB.7.6.1.",
+          "sayfa": 117,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bilimsel ve teknolojik gelişmelerin günümüzdeki toplumsal hayata etkilerine ilişkin kanıt, gözlem ve deneyimleri ilişkilendirir."
+            },
+            {
+              "harf": "b",
+              "metin": "Bilimsel ve teknolojik gelişmelerin toplumsal hayata etkilerine ilişkin kanıt, gözlem ve deneyimleri ilişkilendirerek geleceğe yönelik çıkarımda bulunur."
+            }
+          ],
+          "metin": "Bilimsel ve teknolojik gelişmelerin gelecekteki toplum hayatına etkilerine ilişkin öngörüde bulunabilme",
+          "plan_haftalari": [
+            30,
+            31
+          ]
+        },
+        {
+          "kod": "SB.7.6.2.",
+          "sayfa": 117,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Örnek metinler üzerinden sosyal bilimlerin çalışma alanlarına dair bilgi toplar."
+            },
+            {
+              "harf": "b",
+              "metin": "Örnek metinler üzerinden sosyal bilimlerin çalışma alanlarının ortak özelliklerini belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Örnek metinler üzerinden sosyal bilimlerin çalışma alanlarının farklılıklarını belirler."
+            },
+            {
+              "harf": "ç",
+              "metin": "Örnek metinler doğrultusunda sosyal bilimlerin çalışma alanlarına dair örüntüler üzerinden önermelerde bulunur."
+            }
+          ],
+          "metin": "Örnek metinler üzerinden sosyal bilimlerin çalışma alanlarına dair genelleme yapabilme",
+          "plan_haftalari": [
+            32,
+            33
+          ]
+        },
+        {
+          "kod": "SB.7.6.3.",
+          "sayfa": 117,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Toplumsal hayatta karşılaşabileceği bir problemi tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Toplumsal hayatta karşılaşabileceği bir problemin çözümüne dair kullanabileceği bir model geliştirir."
+            },
+            {
+              "harf": "c",
+              "metin": "Toplumsal hayatta karşılaşabileceği bir problemin çözümüne yönelik araştırmayı planlar ve gerçekleştirir."
+            },
+            {
+              "harf": "ç",
+              "metin": "Toplumsal hayatta karşılaşabileceği bir problemin çözümüne yönelik verileri analiz eder ve yorumlar."
+            },
+            {
+              "harf": "d",
+              "metin": "Toplumsal hayatta karşılaşabileceği bir problemin çözümüne dair kanıta dayalı açıklama yapar ve probleme çözüm üretir."
+            },
+            {
+              "harf": "e",
+              "metin": "Toplumsal hayatta karşılaşabileceği bir problemin çözümüne dair bilgiyi değerlendirir ve paylaşır."
+            }
+          ],
+          "metin": "Toplumsal hayatta karşılaşabileceği bir probleme yönelik bilimsel sorgulama yapabilme",
+          "plan_haftalari": [
+            34,
+            35,
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "kaynak": "SOSYAL BİLGİLER (4-7. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+    "sayfa": "7. SINIF YILLIK PLAN",
+    "haftalar": {
+      "1": "14-18 Eylül",
+      "2": "21-25 Eylül",
+      "3": "28 Eylül-2 Ekim",
+      "4": "5-9 Ekim",
+      "5": "12-16 Ekim",
+      "6": "19-23 Ekim",
+      "7": "26-30 Ekim",
+      "8": "2-6 Kasım",
+      "9": "9-13 Kasım",
+      "10": "23-27 Kasım",
+      "11": "30 Kasım- 4 Aralık",
+      "12": "7-11 Aralık",
+      "13": "14-18 Aralık",
+      "14": "21-25 Aralık",
+      "15": "28 Aralık-1 Ocak 2027",
+      "16": "4-8 Ocak 2027",
+      "17": "11-15 Ocak",
+      "18": "18-22 Ocak",
+      "19": "8-12 Şubat",
+      "20": "15-19 Şubat",
+      "21": "22-26 Şubat",
+      "22": "1-5 Mart",
+      "23": "15-19 Mart",
+      "24": "22-26 Mart",
+      "25": "29 Mart-2 Nisan\"",
+      "26": "5-9 Nisan",
+      "27": "12-16 Nisan",
+      "28": "19-23 Nisan",
+      "29": "26-30 Nisan",
+      "30": "3-7 Mayıs",
+      "31": "10-14 Mayıs",
+      "32": "17-21 Mayıs",
+      "33": "24-28 Mayıs",
+      "34": "31 Mayıs-4 Haziran",
+      "35": "7-11 Haziran",
+      "36": "14-18 Haziran",
+      "37": "21-25 Haziran"
+    }
+  }
+}

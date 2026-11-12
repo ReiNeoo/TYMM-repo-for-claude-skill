@@ -1,0 +1,563 @@
+{
+  "ders": "Sosyal Bilgiler",
+  "sinif": 5,
+  "kaynak_pdf": "sosyal-bilgiler-dersi_20260902_111029_619.pdf",
+  "not": "sayfa alanları PDF sayfa numarasıdır.",
+  "kaynak_notlari": [],
+  "temalar": [
+    {
+      "islenis_sirasi": 1,
+      "ad": "BİRLİKTE YAŞAMAK",
+      "ders_saati": 16,
+      "sayfa": 39,
+      "ciktilar": [
+        {
+          "kod": "SB.5.1.1.",
+          "sayfa": 40,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dâhil olduğu grupları ve bu gruplardaki rollerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Dâhil olduğu gruplar ile bu gruplardaki rolleri arasındaki ilişkileri belirler."
+            }
+          ],
+          "metin": "Dâhil olduğu gruplar ve bu gruplardaki rolleri arasındaki ilişkileri çözümleyebilme",
+          "plan_haftalari": [
+            1
+          ]
+        },
+        {
+          "kod": "SB.5.1.2.",
+          "sayfa": 40,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini örnekler üzerinden inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yazılı, görsel veya dijital ürünlere dönüştürür."
+            },
+            {
+              "harf": "c",
+              "metin": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini ifade eder."
+            }
+          ],
+          "metin": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme",
+          "plan_haftalari": [
+            2,
+            3
+          ]
+        },
+        {
+          "kod": "SB.5.1.3.",
+          "sayfa": 40,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerini sorgular."
+            },
+            {
+              "harf": "b",
+              "metin": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetleri için sosyal temas oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetleri için grup dinamiğini sağlar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetleri için fikir üretir."
+            },
+            {
+              "harf": "d",
+              "metin": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine ilişkin üretilen fikirleri müzakere eder."
+            },
+            {
+              "harf": "e",
+              "metin": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine ilişkin üretilen fikri eyleme dönüştürür."
+            }
+          ],
+          "metin": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine katkı sağlayabilme",
+          "plan_haftalari": [
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 2,
+      "ad": "EVİMİZ DÜNYA",
+      "ders_saati": 22,
+      "sayfa": 44,
+      "ciktilar": [
+        {
+          "kod": "SB.5.2.1.",
+          "sayfa": 45,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yaşadığı ilin göreceli konum özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Yaşadığı ilin göreceli konum özelliklerini görselleştirir."
+            },
+            {
+              "harf": "c",
+              "metin": "Yaşadığı ilin göreceli konum özelliklerini özetler."
+            }
+          ],
+          "metin": "Yaşadığı ilin göreceli konum özelliklerini algılayabilme",
+          "plan_haftalari": [
+            6,
+            7
+          ]
+        },
+        {
+          "kod": "SB.5.2.2.",
+          "sayfa": 45,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yaşadığı ilde doğal ve beşerî çevrenin değişimine neden olan unsurları inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Yaşadığı ilde doğal ve beşerî çevrenin değişiminden etkilenen unsurları inceler."
+            },
+            {
+              "harf": "c",
+              "metin": "Yaşadığı ilde doğal ve beşerî çevrede meydana gelen değişimin etkilerini sorgular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Yaşadığı ilde doğal ve beşerî çevrede meydana gelen değişimin neden ve sonuçlarını elde ettiği bilgilere dayanarak ifade eder."
+            }
+          ],
+          "metin": "Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme",
+          "plan_haftalari": [
+            8,
+            9
+          ]
+        },
+        {
+          "kod": "SB.5.2.3.",
+          "sayfa": 45,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinliği planı yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik hazırladığı farkındalık etkinliği planını uygular."
+            },
+            {
+              "harf": "c",
+              "metin": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik hazırladığı farkındalık etkinliği planını değerlendirir."
+            }
+          ],
+          "metin": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinliği fikrini eyleme dönüştürebilme",
+          "plan_haftalari": [
+            10,
+            11
+          ]
+        },
+        {
+          "kod": "SB.5.2.4.",
+          "sayfa": 45,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ülkemize kara sınırı olan komşu devletlerle ilgili bilgilere ulaşmak amacıyla kullanacağı kaynakları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Ülkemize kara sınırı olan komşu devletlerle ilgili bilgileri belirlediği kaynaklardan bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Ülkemize kara sınırı olan komşu devletlerle ilgili belirlediği kaynaklardan edindiği bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Ülkemize kara sınırı olan komşu devletlerle ilgili belirlediği kaynaklardan edindiği bilgileri kaydeder."
+            }
+          ],
+          "metin": "Ülkemize kara sınırı olan komşu devletler hakkında bilgi toplayabilme",
+          "plan_haftalari": [
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 3,
+      "ad": "ORTAK MİRASIMIZ",
+      "ders_saati": 18,
+      "sayfa": 49,
+      "ciktilar": [
+        {
+          "kod": "SB.5.3.1.",
+          "sayfa": 50,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yaşadığı ildeki somut ve somut olmayan kültürel miras ögelerinden hareketle ortak mirasın önemi hakkında çıkarım yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Yapılan çıkarımlardan hareketle ortak mirasın önemini açıklayan bir ürün oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Ortak mirasın önemi hakkında çıkarımlarına dayalı olarak oluşturduğu ürünü paylaşır."
+            }
+          ],
+          "metin": "Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme",
+          "plan_haftalari": [
+            14,
+            15
+          ]
+        },
+        {
+          "kod": "SB.5.3.2.",
+          "sayfa": 50,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarını kaynaklardan edindiği bilgiler doğrultusunda yorumlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına ilişkin tarihsel bağlam oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına ilişkin bakış açısını kaynaklar doğrultusunda yapılandırır."
+            }
+          ],
+          "metin": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına yönelik bakış açısı geliştirebilme",
+          "plan_haftalari": [
+            16,
+            17
+          ]
+        },
+        {
+          "kod": "SB.5.3.3.",
+          "sayfa": 50,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarının benzerliklerini listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarının farklılıklarını listeler."
+            }
+          ],
+          "metin": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme",
+          "plan_haftalari": [
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 4,
+      "ad": "YAŞAYAN DEMOKRASİMİZ",
+      "ders_saati": 23,
+      "sayfa": 54,
+      "ciktilar": [
+        {
+          "kod": "SB.5.4.1.",
+          "sayfa": 55,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Demokrasi ve cumhuriyet kavramlarının niteliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi belirler."
+            }
+          ],
+          "metin": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi çözümleyebilme",
+          "plan_haftalari": [
+            20
+          ]
+        },
+        {
+          "kod": "SB.5.4.2.",
+          "sayfa": 55,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Etkin vatandaş olmanın önemine ilişkin varsayımda bulunur."
+            },
+            {
+              "harf": "b",
+              "metin": "Etkin vatandaşın sahip olması gereken özellikleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Etkin olan ve olmayan vatandaş özelliklerini karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Etkin vatandaş davranışlarının toplum düzenine etkisine yönelik önermelerde bulunur."
+            },
+            {
+              "harf": "d",
+              "metin": "Etkin vatandaş olmanın önemini toplum düzeni açısından değerlendirir."
+            }
+          ],
+          "metin": "Toplum düzenine etkisi bakımından etkin vatandaş olmanın önemine yönelik çıkarımda bulunabilme",
+          "plan_haftalari": [
+            21,
+            22
+          ]
+        },
+        {
+          "kod": "SB.5.4.3.",
+          "sayfa": 55,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Temel insan hak ve sorumluluklarının önemine yönelik merak ettiği konuları tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Toplumsal hayatta insan hak ve sorumluluklarının önemine yönelik sorular sorar."
+            },
+            {
+              "harf": "c",
+              "metin": "Temel insan hak ve sorumluluklarının önemine ilişkin bilgi toplar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Temel insan hak ve sorumluluklarının önemine ilişkin topladığı bilgilerin doğruluğunu değerlendirir."
+            },
+            {
+              "harf": "d",
+              "metin": "Temel insan hak ve sorumluluklarının önemine ilişkin topladığı bilgiler doğrultusunda çıkarımlar yapar."
+            }
+          ],
+          "metin": "Temel insan hak ve sorumluluklarının önemini sorgulayabilme",
+          "plan_haftalari": [
+            22,
+            25
+          ]
+        },
+        {
+          "kod": "SB.5.4.4.",
+          "sayfa": 55,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabileceği kaynakları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği kaynaklardan ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkındaki bilgileri bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Belirlediği kaynaklardan ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında ulaştığı bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Belirlediği kaynaklardan ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında ulaştığı bilgileri kaydeder."
+            }
+          ],
+          "metin": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme",
+          "plan_haftalari": [
+            26,
+            27,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 5,
+      "ad": "HAYATIMIZDAKİ EKONOMİ",
+      "ders_saati": 18,
+      "sayfa": 60,
+      "ciktilar": [
+        {
+          "kod": "SB.5.5.1.",
+          "sayfa": 61,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini farklı kaynaklar üzerinden inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkilerine ilişkin bilgileri bağlamdan kopmadan dönüştürür."
+            },
+            {
+              "harf": "c",
+              "metin": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+            }
+          ],
+          "metin": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme",
+          "plan_haftalari": [
+            28,
+            29
+          ]
+        },
+        {
+          "kod": "SB.5.5.2.",
+          "sayfa": 61,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "İhtiyaç ve isteklerini karşılamaya yönelik bütçe için gerekli olan kaynakları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "İhtiyaç ve isteklerini karşılamaya yönelik bütçe için gerekli olan kaynakları temin etme ve etkin kullanmaya ilişkin bir taslak oluşturur."
+            }
+          ],
+          "metin": "İhtiyaç ve isteklerini karşılamak için gerekli bütçe kaynaklarını yönetebilme",
+          "plan_haftalari": [
+            30,
+            31
+          ]
+        },
+        {
+          "kod": "SB.5.5.3.",
+          "sayfa": 61,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yaşadığı ildeki ekonomik faaliyetleri çözümler."
+            },
+            {
+              "harf": "b",
+              "metin": "Yaşadığı ildeki ekonomik faaliyetleri alanlarına göre sınıflandırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Yaşadığı ildeki ekonomik faaliyetleri yorumlar."
+            }
+          ],
+          "metin": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme",
+          "plan_haftalari": [
+            32,
+            33,
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 6,
+      "ad": "TEKNOLOJİ VE SOSYAL BİLİMLER",
+      "ders_saati": 6,
+      "sayfa": 64,
+      "ciktilar": [
+        {
+          "kod": "SB.5.6.1.",
+          "sayfa": 65,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Teknolojik gelişmelerin toplum hayatına etkileri hakkında mantıksal temellendirmeler yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Teknolojik gelişmelerin toplum hayatına etkileri üzerindeki tartışmalarda tutarsızlıkları tespit eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Teknolojik gelişmelerin toplum hayatına etkilerine yönelik görüşleri çürütür veya kabul eder."
+            }
+          ],
+          "metin": "Teknolojik gelişmelerin toplum hayatına etkilerini tartışabilme",
+          "plan_haftalari": [
+            35
+          ]
+        },
+        {
+          "kod": "SB.5.6.2.",
+          "sayfa": 65,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin kanıtlara dayalı çıkarımda bulunur."
+            },
+            {
+              "harf": "b",
+              "metin": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin kendi çıkarımlarına dayalı ürün oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin oluşturulan ürünleri paylaşır."
+            }
+          ],
+          "metin": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin oluşturduğu ürünü paylaşabilme",
+          "plan_haftalari": [
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "kaynak": "SOSYAL BİLGİLER (4-7. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+    "sayfa": "5. SINIF YILLIK PLAN",
+    "haftalar": {
+      "1": "14-18 Eylül",
+      "2": "21-25 Eylül",
+      "3": "28 Eylül-2 Ekim",
+      "4": "5-9 Ekim",
+      "5": "12-16 Ekim",
+      "6": "19-23 Ekim",
+      "7": "26-30 Ekim",
+      "8": "2-6 Kasım",
+      "9": "9-13 Kasım",
+      "10": "23-27 Kasım",
+      "11": "30 Kasım- 4 Aralık",
+      "12": "7-11 Aralık",
+      "13": "14-18 Aralık",
+      "14": "21-25 Aralık",
+      "15": "28 Aralık-1 Ocak 2027",
+      "16": "4-8 Ocak 2027",
+      "17": "11-15 Ocak",
+      "18": "18-22 Ocak",
+      "19": "8-12 Şubat",
+      "20": "15-19 Şubat",
+      "21": "22-26 Şubat",
+      "22": "1-5 Mart",
+      "25": "29 Mart-2 Nisan",
+      "26": "5-9 Nisan",
+      "27": "12-16 Nisan",
+      "28": "19-23 Nisan",
+      "29": "26-30 Nisan",
+      "30": "3-7 Mayıs",
+      "31": "10-14 Mayıs",
+      "32": "17-21 Mayıs",
+      "33": "24-28 Mayıs",
+      "34": "31 Mayıs-4 Haziran",
+      "35": "7-11 Haziran",
+      "36": "14-18 Haziran",
+      "37": "21-25 Haziran"
+    }
+  }
+}

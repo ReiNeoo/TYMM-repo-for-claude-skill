@@ -1,0 +1,739 @@
+{
+  "ders": "Fen Bilimleri",
+  "sinif": 5,
+  "kaynak_pdf": "fen-bilimleri-dersi_20260902_111309_119.pdf",
+  "not": "sayfa alanları PDF sayfa numarasıdır.",
+  "kaynak_notlari": [],
+  "temalar": [
+    {
+      "islenis_sirasi": 1,
+      "ad": "GÖKYÜZÜNDEKİ KOMŞULARIMIZ VE BİZ",
+      "ders_saati": 20,
+      "sayfa": 78,
+      "ciktilar": [
+        {
+          "kod": "FB.5.1.1.",
+          "sayfa": 79,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Güneş’in yapısı ve dönme hareketi ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği araçları kullanarak Güneş’in yapısı ve dönme hareketi hakkında bilgileri bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Güneş’in yapısı ve dönme hareketi hakkında bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Güneş’in yapısı ve dönme hareketi hakkında ulaşılan bilgileri kaydeder."
+            }
+          ],
+          "metin": "Güneş’in yapısı ve dönme hareketi ile ilgili bilgi toplayabilme",
+          "plan_haftalari": [
+            2,
+            3
+          ]
+        },
+        {
+          "kod": "FB.5.1.2.",
+          "sayfa": 79,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ay’ın özellikleri, dönme ve dolanma hareketleri ile ilgili nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Ay’ın özellikleri, dönme ve dolanma hareketleri ile ilgili topladığı verileri kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Ay’ın özellikleri, dönme ve dolanma hareketleri ile ilgili verileri yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Ay’ın özellikleri, dönme ve dolanma hareketleri ile ilgili bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            4
+          ]
+        },
+        {
+          "kod": "FB.5.1.3.",
+          "sayfa": 79,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ay’ın evrelerini temsil eden bir model önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Ay’ın evrelerini temsil eden modelini yeni kanıtlara bağlı olarak yeniler."
+            }
+          ],
+          "metin": "Ay’ın evrelerini temsil eden bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            5
+          ]
+        },
+        {
+          "kod": "FB.5.1.4.",
+          "sayfa": 79,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Güneş, Dünya ve Ay’ın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden bir model önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Güneş, Dünya ve Ay’ın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden modelini yeni kanıtlara göre yeniler."
+            }
+          ],
+          "metin": "Güneş, Dünya ve Ay’ın birbirlerine göre hareketlerini ve hacimsel büyüklüklerini temsil eden bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 2,
+      "ad": "KUVVETİ TANIYALIM",
+      "ders_saati": 22,
+      "sayfa": 83,
+      "ciktilar": [
+        {
+          "kod": "FB.5.2.1.",
+          "sayfa": 84,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kuvvetin niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Kuvvetin büyüklüğünü dinamometre ile ölçer."
+            },
+            {
+              "harf": "c",
+              "metin": "Kuvvetin büyüklüğünü Newton (N) birimi ile tanımlar."
+            }
+          ],
+          "metin": "Kuvveti büyüklüğü ile operasyonel tanımlayabilme",
+          "plan_haftalari": [
+            7,
+            8
+          ]
+        },
+        {
+          "kod": "FB.5.2.2.",
+          "sayfa": 84,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Basit araç gereçle bir dinamometre modeli önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Tasarladığı dinamometre modelini yeni kanıtlara göre yeniler."
+            }
+          ],
+          "metin": "Basit araç gereçle bilimsel bir dinamometre modeli oluşturabilme",
+          "plan_haftalari": [
+            9,
+            10
+          ]
+        },
+        {
+          "kod": "FB.5.2.3.",
+          "sayfa": 84,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kütle ve ağırlığa ilişkin özellikleri belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlenen özelliklere ilişkin benzerlikleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Belirlenen özelliklere ilişkin farklılıkları listeler."
+            }
+          ],
+          "metin": "Kütle ve ağırlık kavramlarını karşılaştırabilme",
+          "plan_haftalari": [
+            10,
+            11
+          ]
+        },
+        {
+          "kod": "FB.5.2.4.",
+          "sayfa": 84,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Sürtünme kuvveti ile ilgili günlük yaşamdan ön bilgilerini kullanarak örüntü oluşturur."
+            },
+            {
+              "harf": "b",
+              "metin": "Sürtünme kuvvetinin çeşitli ortamlardaki etkilerine yönelik genelleme yapar."
+            }
+          ],
+          "metin": "Sürtünme kuvvetinin çeşitli ortamlardaki etkilerine yönelik tümevarımsal akıl yürütebilme",
+          "plan_haftalari": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 3,
+      "ad": "CANLILARIN YAPISINA YOLCULUK",
+      "ders_saati": 26,
+      "sayfa": 88,
+      "ciktilar": [
+        {
+          "kod": "FB.5.3.1.",
+          "sayfa": 89,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bitki ve hayvan hücrelerinin özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Bitki ve hayvan hücrelerinin benzer özelliklerini listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Bitki ve hayvan hücrelerinin farklı özelliklerini listeler."
+            }
+          ],
+          "metin": "Bitki ve hayvan hücrelerini temel kısımları ve özellikleri açısından karşılaştırabilme",
+          "plan_haftalari": [
+            13,
+            14
+          ]
+        },
+        {
+          "kod": "FB.5.3.2.",
+          "sayfa": 89,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Hücre-doku-organ-sistem-organizma kavramlarına ilişkin hiyerarşik ilişkileri ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Hücre-doku-organ-sistem-organizma kavramlarına ilişkin elde ettiği bilgileri uyumlu bir bütün olarak ortaya koyar."
+            }
+          ],
+          "metin": "Hücre-doku-organ-sistem-organizma kavramlarını yapılandırabilme",
+          "plan_haftalari": [
+            15
+          ]
+        },
+        {
+          "kod": "FB.5.3.3.",
+          "sayfa": 89,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Destek ve hareket sistemine ait yapıların niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Destek ve hareket sistemine ait yapıları niteliklerine göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Destek ve hareket sistemine ait yapıları gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Destek ve hareket sistemine ait yapıları etiketler."
+            }
+          ],
+          "metin": "Destek ve hareket sistemine ait yapıları sınıflandırabilme",
+          "plan_haftalari": [
+            16,
+            17
+          ]
+        },
+        {
+          "kod": "FB.5.3.4.",
+          "sayfa": 89,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Destek ve hareket sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği araçları kullanarak destek ve hareket sisteminin sağlığı hakkında bilgiler bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Destek ve hareket sisteminin sağlığı hakkında bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Ulaştığı bilgileri kaydeder."
+            }
+          ],
+          "metin": "Destek ve hareket sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+          "plan_haftalari": [
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 4,
+      "ad": "IŞIĞIN DÜNYASI",
+      "ders_saati": 14,
+      "sayfa": 93,
+      "ciktilar": [
+        {
+          "kod": "FB.5.4.1.",
+          "sayfa": 94,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bir kaynaktan çıkan ışığın izlediği yolu gözlemleyerek niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Gözlemleri sonucunda ışığın izlediği yola ilişkin elde edilen verileri kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Işığın her yönde doğrusal bir yol izlediğini açıklar."
+            }
+          ],
+          "metin": "Bir kaynaktan çıkan ışığın her yönde doğrusal bir yol izlediğini bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            20
+          ]
+        },
+        {
+          "kod": "FB.5.4.2.",
+          "sayfa": 94,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Maddelerin ışığı geçirme durumlarına göre niteliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Maddeleri ışığı geçirme durumlarına göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Maddeleri ışığı geçirme durumlarına göre gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Maddeleri ışığı geçirme durumlarına göre etiketler."
+            }
+          ],
+          "metin": "Maddeleri ışığı geçirme durumlarına göre sınıflandırabilme",
+          "plan_haftalari": [
+            21,
+            22
+          ]
+        },
+        {
+          "kod": "FB.5.4.3.",
+          "sayfa": 94,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Tam gölgenin niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Tam gölgeye ait elde ettiği verileri kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Tam gölgeyi etkileyen değişkenleri açıklar."
+            }
+          ],
+          "metin": "Tam gölgeyi bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 5,
+      "ad": "MADDENİN DOĞASI",
+      "ders_saati": 26,
+      "sayfa": 97,
+      "ciktilar": [
+        {
+          "kod": "FB.5.5.1.",
+          "sayfa": 98,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Maddelerin tanecikli, boşluklu ve hareketli yapısının niteliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Maddeleri tanecikli, boşluklu ve hareketli yapısına göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Maddeleri tanecikli, boşluklu ve hareketli yapısına göre katı, sıvı ve gaz olarak gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Maddeleri tanecikli, boşluklu ve hareketli yapılarına göre farklı gruplar altında etiketler."
+            }
+          ],
+          "metin": "Maddeleri tanecikli, boşluklu ve hareketli yapısına göre sınıflandırabilme",
+          "plan_haftalari": [
+            23,
+            24
+          ]
+        },
+        {
+          "kod": "FB.5.5.2.",
+          "sayfa": 98,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Isı ve sıcaklık kavramlarının özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Isı ve sıcaklık kavramlarının özelliklerine ilişkin benzerlikleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Isı ve sıcaklık kavramlarının özelliklerine ilişkin farklılıkları listeler."
+            }
+          ],
+          "metin": "Isı ve sıcaklık kavramlarını karşılaştırabilme",
+          "plan_haftalari": [
+            25
+          ]
+        },
+        {
+          "kod": "FB.5.5.3.",
+          "sayfa": 98,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Sıvılar arasındaki ısı alışverişinin niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Sıvıların karıştırılmadan önceki ve sonraki sıcaklıklarına dair verileri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Karıştırılan sıvılar arasında ısı alışverişi olduğunu yorumlayarak değerlendirir."
+            }
+          ],
+          "metin": "Sıcaklığı farklı olan sıvıların karıştırılması sonucu ısı alışverişi olduğuna yönelik bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            26
+          ]
+        },
+        {
+          "kod": "FB.5.5.4.",
+          "sayfa": 98,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Maddenin ısı etkisiyle hâl değiştirebileceğine ilişkin ön bilgi ve deneyimlerine dayalı önerme oluşturur."
+            },
+            {
+              "harf": "b",
+              "metin": "Gözleme dayalı olan ve olmayan önermeleri karşılaştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Maddenin ısı etkisiyle hâl değiştirebileceğini temellendirebilmek için gözlem verilerinden sonuç çıkarır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Gözlemlenmemiş duruma ilişkin tahminde bulunur."
+            },
+            {
+              "harf": "d",
+              "metin": "Tahminlerinin geçerliğini sorgular."
+            }
+          ],
+          "metin": "Maddenin ısı etkisiyle hâl değiştirebileceğini bilimsel gözleme dayalı tahmin edebilme",
+          "plan_haftalari": [
+            27,
+            28
+          ]
+        },
+        {
+          "kod": "FB.5.5.5.",
+          "sayfa": 98,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Maddelerin ısı iletimi bakımından niteliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Maddeleri ısı iletkeni veya yalıtkanı olarak ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Maddeleri ısı iletkeni veya yalıtkanı olarak gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Maddeleri ısı iletkeni veya yalıtkanı olarak etiketler."
+            }
+          ],
+          "metin": "Maddeleri ısı iletimi bakımından sınıflandırabilme",
+          "plan_haftalari": [
+            28,
+            29
+          ]
+        },
+        {
+          "kod": "FB.5.5.6.",
+          "sayfa": 98,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Isı yalıtımı ile ilgili model önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Yeni kanıtlarla modeli yeniler."
+            }
+          ],
+          "metin": "Isı yalıtımını gösteren bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 6,
+      "ad": "YAŞAMIMIZDAKİ ELEKTRİK",
+      "ders_saati": 14,
+      "sayfa": 103,
+      "ciktilar": [
+        {
+          "kod": "FB.5.6.1.",
+          "sayfa": 104,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bir elektrik devresindeki elemanların sembollerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Bir elektrik devresindeki elemanların sembollerini niteliklerine göre etiketler."
+            }
+          ],
+          "metin": "Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre sınıflandırabilme",
+          "plan_haftalari": [
+            30,
+            31
+          ]
+        },
+        {
+          "kod": "FB.5.6.2.",
+          "sayfa": 104,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Çizdiği elektrik devresine uygun deney düzeneği tasarlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Deney ile ilgili ölçme ve veri analizi yapar."
+            }
+          ],
+          "metin": "Şemasını çizdiği elektrik devresine uygun deney yapabilme",
+          "plan_haftalari": [
+            31,
+            32
+          ]
+        },
+        {
+          "kod": "FB.5.6.3.",
+          "sayfa": 104,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Elektrik devrelerindeki ampul parlaklığını etkileyen değişkenleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Pil ve ampul sayısını değiştirerek ampul parlaklığındaki değişimi neden-sonuç ilişkisi bağlamında belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Ampul parlaklığındaki bağımlı, bağımsız ve kontrol edilen değişkenleri belirler."
+            },
+            {
+              "harf": "ç",
+              "metin": "Bağımsız değişken olarak pil sayısı ve ampul sayısını kontrol eder."
+            },
+            {
+              "harf": "d",
+              "metin": "Farklı elektrik devreleri üzerinden ampul parlaklığının pil sayısı ve ampul sayısına bağlı olarak değiştiğine yönelik önermelerde bulunur."
+            }
+          ],
+          "metin": "Bir elektrik devresindeki ampul parlaklığını etkileyen değişkenlerin neler olduğuna ilişkin hipotez oluşturabilme",
+          "plan_haftalari": [
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 7,
+      "ad": "SÜRDÜRÜLEBİLİR YAŞAM VE GERİ DÖNÜŞÜM",
+      "ders_saati": 12,
+      "sayfa": 107,
+      "ciktilar": [
+        {
+          "kod": "FB.5.7.1.",
+          "sayfa": 108,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Evsel atıkların niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Evsel atıkları geri dönüştürülebilen ve dönüştürülemeyen olarak ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Evsel atıkları geri dönüştürülebilen ve dönüştürülemeyen olarak gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Evsel atıkları geri dönüştürülebilen ve dönüştürülemeyen olarak etiketler."
+            }
+          ],
+          "metin": "Evsel atıklarda geri dönüştürülebilen ve dönüştürülemeyen maddeleri sınıflandırabilme",
+          "plan_haftalari": [
+            34,
+            35
+          ]
+        },
+        {
+          "kod": "FB.5.7.2.",
+          "sayfa": 108,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kaynakların etkili kullanımı ve geri dönüşüme ait nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Kaynakların etkili kullanımı konusunda geri dönüşümün önemine ilişkin topladığı verileri kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Kaynakların etkili kullanımı konusunda geri dönüşümün önemine ilişkin verileri değerlendirir."
+            }
+          ],
+          "metin": "Kaynakların etkili kullanımı konusunda geri dönüşümün önemli olduğuna yönelik bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            35,
+            36
+          ]
+        },
+        {
+          "kod": "FB.5.7.3.",
+          "sayfa": 108,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yakın çevresinde atık yönetimine ilişkin deneyimlerini gözden geçirir."
+            },
+            {
+              "harf": "b",
+              "metin": "Yakın çevresinde atık yönetimine ilişkin deneyimlerine dayalı çıkarım yapar."
+            },
+            {
+              "harf": "c",
+              "metin": "Yakın çevresinde atık yönetimine ilişkin ulaşılan çıkarımları değerlendirir."
+            }
+          ],
+          "metin": "Yakın çevresinde atık yönetiminin uygulanabilirliğine ilişkin deneyimlerini yansıtabilme",
+          "plan_haftalari": [
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "kaynak": "FEN BİLİMLERİ  (3-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+    "sayfa": "FEN BİLİMLERİ 5 (TYMM)",
+    "haftalar": {
+      "1": "14-18 Eylül",
+      "2": "21-25 Eylü",
+      "3": "28 Eylül-2 Ekim",
+      "4": "5-9 Ekim",
+      "5": "12-16 Ekim",
+      "6": "19-23 Ekim",
+      "7": "26-30 Ekim",
+      "8": "2-6 Kasım",
+      "9": "9-13 Kasım",
+      "10": "23-27 Kasım",
+      "11": "30 Kasım-4 Aralık",
+      "12": "7-11 Aralık",
+      "13": "14-18 Aralık",
+      "14": "21-25 Aralık",
+      "15": "28 Aralık- 1 Ocak",
+      "16": "4-8 Ocak",
+      "17": "11-15 Ocak",
+      "18": "18-22 Ocak",
+      "19": "8-12 Şubat",
+      "20": "15-19 Şubat",
+      "21": "22-26 Şubat",
+      "22": "1-5 Mart",
+      "23": "15-19 Mart",
+      "24": "22-26 Mart",
+      "25": "29 Mart-2 Nisan",
+      "26": "5-9 Nisan",
+      "27": "12-16 Nisan",
+      "28": "19-23 Nisan",
+      "29": "26-30 Nisan",
+      "30": "3-7 Mayıs",
+      "31": "10-14 Mayıs",
+      "32": "17-21 Mayıs",
+      "33": "24-28 Mayıs",
+      "34": "31 Mayıs- 4 Haziran",
+      "35": "7-11 Haziran",
+      "36": "14-18 Haziran",
+      "37": "21-25 Haziran"
+    }
+  }
+}

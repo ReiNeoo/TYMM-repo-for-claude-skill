@@ -1,0 +1,918 @@
+{
+  "ders": "Fen Bilimleri",
+  "sinif": 7,
+  "kaynak_pdf": "fen-bilimleri-dersi_20260902_111309_119.pdf",
+  "not": "sayfa alanları PDF sayfa numarasıdır.",
+  "kaynak_notlari": [],
+  "temalar": [
+    {
+      "islenis_sirasi": 1,
+      "ad": "UZAY ÇAĞI",
+      "ders_saati": 14,
+      "sayfa": 146,
+      "ciktilar": [
+        {
+          "kod": "FB.7.1.1.",
+          "sayfa": 147,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Uzay araştırmaları için geliştirilen teknolojilerin özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Uzay araştırmaları için geliştirilen teknolojilerin özelliklerine göre benzerliklerini listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Uzay araştırmaları için geliştirilen teknolojilerin özelliklerine göre farklılıklarını listeler."
+            }
+          ],
+          "metin": "Uzay araştırmaları için geliştirilen teknolojileri karşılaştırabilme",
+          "plan_haftalari": [
+            1
+          ]
+        },
+        {
+          "kod": "FB.7.1.2.",
+          "sayfa": 147,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Uzay gözlem araçları ile ilgili model önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Uzay gözlem araçları ile ilgili hazırladığı modeli yeni kanıtlara göre yeniler."
+            }
+          ],
+          "metin": "Uzay gözlem araçları ile ilgili bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            2
+          ]
+        },
+        {
+          "kod": "FB.7.1.3.",
+          "sayfa": 147,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Uzay araştırmalarının yol açabileceği problemleri yapılandırır."
+            },
+            {
+              "harf": "b",
+              "metin": "Uzay araştırmalarının yol açabileceği problemleri özetler."
+            },
+            {
+              "harf": "c",
+              "metin": "Uzay araştırmalarının yol açabileceği problemlerin çözümüne yönelik veriye dayalı tahminde bulunur."
+            },
+            {
+              "harf": "ç",
+              "metin": "Uzay araştırmalarının yol açabileceği problemlerin çözümüne yönelik önermeler üzerinden akıl yürütür."
+            },
+            {
+              "harf": "d",
+              "metin": "Uzay araştırmalarının yol açabileceği problemlerin çözümüne ilişkin değerlendirmede bulunur."
+            }
+          ],
+          "metin": "Uzay araştırmalarının yol açabileceği problemleri çözebilme",
+          "plan_haftalari": [
+            2
+          ]
+        },
+        {
+          "kod": "FB.7.1.4.",
+          "sayfa": 147,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yıldızların yaşamını inceleyerek hiyerarşik ilişkileri ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Yıldızların yaşamı ile ilgili elde ettiği ilişkilere dayalı unsurlardan uyumlu bir bütün oluşturur."
+            }
+          ],
+          "metin": "Yıldızların yaşamını açıklayarak yapılandırabilme",
+          "plan_haftalari": [
+            3
+          ]
+        },
+        {
+          "kod": "FB.7.1.5.",
+          "sayfa": 147,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yıldız, galaksi ve evren kavramlarını inceleyerek hiyerarşik ilişkileri ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Yıldız, galaksi ve evren kavramları ile ilgili elde ettiği ilişkilere dayalı unsurlardan uyumlu bir bütün oluşturur."
+            }
+          ],
+          "metin": "Yıldız, galaksi ve evren kavramlarını açıklayarak yapılandırabilme",
+          "plan_haftalari": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 2,
+      "ad": "KUVVET VE ENERJİYİ KEŞFEDELİM",
+      "ders_saati": 20,
+      "sayfa": 151,
+      "ciktilar": [
+        {
+          "kod": "FB.7.2.1.",
+          "sayfa": 152,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Fiziksel anlamda yapılan işin niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Fiziksel anlamda yapılan işin farklı örneklerini gözlemleyerek verileri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Fiziksel anlamda yapılan işin kuvvet ve yer değiştirmeye bağlı olduğunu yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Fiziksel anlamda yapılan işin bağlı olduğu faktörlere ilişkin bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            5,
+            6
+          ]
+        },
+        {
+          "kod": "FB.7.2.2.",
+          "sayfa": 152,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kinetik ve potansiyel enerjinin özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Kinetik ve potansiyel enerjinin benzer özelliklerini listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Kinetik ve potansiyel enerjinin farklı özelliklerini listeler."
+            }
+          ],
+          "metin": "Enerji çeşitlerinden kinetik ve potansiyel enerjiyi karşılaştırabilme",
+          "plan_haftalari": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "kod": "FB.7.2.3.",
+          "sayfa": 152,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kinetik ve potansiyel enerjinin birbirine dönüşümüne yönelik örüntü bulur."
+            },
+            {
+              "harf": "b",
+              "metin": "Enerjinin korunumuna yönelik genelleme yapar."
+            }
+          ],
+          "metin": "Enerji dönüşümünden hareketle enerjinin korunduğuna yönelik tümevarımsal akıl yürütebilme",
+          "plan_haftalari": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 3,
+      "ad": "VÜCUDUMUZDAKİ SİSTEMLER",
+      "ders_saati": 32,
+      "sayfa": 155,
+      "ciktilar": [
+        {
+          "kod": "FB.7.3.1.",
+          "sayfa": 156,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Sindirim sistemini oluşturan yapı ve organların niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Sindirim sistemini oluşturan yapı ve organları model üzerinde inceleyerek gözlem verilerini kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Sindirim sistemini oluşturan yapı ve organların görevlerini açıklar."
+            }
+          ],
+          "metin": "Sindirim sistemini oluşturan yapı ve organların görevlerini model üzerinde bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            10,
+            11
+          ]
+        },
+        {
+          "kod": "FB.7.3.2.",
+          "sayfa": 156,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Sindirim sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği araçları kullanarak sindirim sisteminin sağlığı hakkında bilgiler bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Sindirim sisteminin sağlığı hakkında bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Sindirim sisteminin sağlığı hakkında bulduğu bilgileri kaydeder."
+            }
+          ],
+          "metin": "Sindirim sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+          "plan_haftalari": [
+            11
+          ]
+        },
+        {
+          "kod": "FB.7.3.3.",
+          "sayfa": 156,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dolaşım sistemini oluşturan yapı ve organların niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Dolaşım sistemini oluşturan yapı ve organları model üzerinde inceleyerek gözlem verilerini kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Dolaşım sistemini oluşturan yapı ve organların görevlerini açıklar."
+            }
+          ],
+          "metin": "Dolaşım sistemini oluşturan yapı ve organların görevlerini model üzerinde bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            12,
+            13
+          ]
+        },
+        {
+          "kod": "FB.7.3.4.",
+          "sayfa": 156,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kan bağışının toplumsal dayanışma açısından önemine yönelik mantıksal temellendirme yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Kan bağışının toplumsal dayanışma açısından önemine yönelik mantıksal çelişkileri tespit eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Kan bağışının toplumsal dayanışma açısından önemi konusunda geçerli fikirler oluşturur."
+            }
+          ],
+          "metin": "Kan bağışının toplumsal dayanışma açısından önemini tartışabilme",
+          "plan_haftalari": [
+            13
+          ]
+        },
+        {
+          "kod": "FB.7.3.5.",
+          "sayfa": 156,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dolaşım sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği aracı kullanarak dolaşım sisteminin sağlığı hakkında bilgiler bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Dolaşım sisteminin sağlığı hakkında bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Dolaşım sisteminin sağlığı hakkında bulduğu bilgileri kaydeder."
+            }
+          ],
+          "metin": "Dolaşım sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+          "plan_haftalari": [
+            14
+          ]
+        },
+        {
+          "kod": "FB.7.3.6.",
+          "sayfa": 156,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Solunum sistemini oluşturan yapı ve organların niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Solunum sistemini oluşturan yapı ve organları model üzerinde inceleyerek gözlem verilerini kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Solunum sistemini oluşturan yapı ve organların görevlerini açıklar."
+            }
+          ],
+          "metin": "Solunum sistemini oluşturan yapı ve organların görevlerini model üzerinde bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            14,
+            15
+          ]
+        },
+        {
+          "kod": "FB.7.3.7.",
+          "sayfa": 156,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Solunum sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği aracı kullanarak solunum sisteminin sağlığı hakkında bilgiler bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Solunum sisteminin sağlığı hakkında bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Solunum sisteminin sağlığı hakkında bulduğu bilgileri kaydeder."
+            }
+          ],
+          "metin": "Solunum sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+          "plan_haftalari": [
+            16
+          ]
+        },
+        {
+          "kod": "FB.7.3.8.",
+          "sayfa": 157,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Boşaltım sistemini oluşturan yapı ve organların niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Boşaltım sistemini oluşturan yapı ve organları model üzerinde inceleyerek gözlem verilerini kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Boşaltım sistemini oluşturan yapı ve organların özelliklerini açıklar."
+            }
+          ],
+          "metin": "Boşaltım sistemini oluşturan yapı ve organları model üzerinde bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            16,
+            17
+          ]
+        },
+        {
+          "kod": "FB.7.3.9.",
+          "sayfa": 157,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Boşaltım sisteminin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği aracı kullanarak boşaltım sisteminin sağlığı hakkında bilgiler bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Boşaltım sisteminin sağlığı hakkında bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Boşaltım sisteminin sağlığı hakkında ulaştığı bilgileri kaydeder."
+            }
+          ],
+          "metin": "Boşaltım sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme",
+          "plan_haftalari": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 4,
+      "ad": "IŞIĞIN KIRILMASI VE MERCEKLER",
+      "ders_saati": 14,
+      "sayfa": 164,
+      "ciktilar": [
+        {
+          "kod": "FB.7.4.1.",
+          "sayfa": 165,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Işık ışınlarının kırılmasına yönelik nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Farklı yoğunluklara sahip ortamlarda ışığın kırılmasına yönelik verileri toplayarak kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Az yoğun ortamda ve çok yoğun ortamda ışığın izlediği yolları yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Ortam değiştiren ışığın izlediği yolu gözlemleyerek kırılma olayına yönelik bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            18,
+            19
+          ]
+        },
+        {
+          "kod": "FB.7.4.2.",
+          "sayfa": 165,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Mercek çeşitlerinin niteliklerini deneyerek tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Mercek çeşitlerini kullanarak özelliklerine yönelik veri kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Mercekleri ince ve kalın kenarlı mercek olarak yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Mercek çeşitlerine yönelik bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            20
+          ]
+        },
+        {
+          "kod": "FB.7.4.3.",
+          "sayfa": 165,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Merceklerin kullanım alanlarını belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Merceklerin kullanım alanlarını niteliklerine göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Merceklerin kullanım alanlarını gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Merceklerin kullanım alanlarını niteliklerine göre etiketler."
+            }
+          ],
+          "metin": "Merceklerin günlük hayatta kullanım alanlarını örneklerle sınıflandırabilme",
+          "plan_haftalari": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 5,
+      "ad": "MADDENİN DOĞASINA YOLCULUK",
+      "ders_saati": 34,
+      "sayfa": 168,
+      "ciktilar": [
+        {
+          "kod": "FB.7.5.1.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Atomu oluşturan temel parçacıkları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Atomu oluşturan temel parçacıklar arasındaki ilişkileri belirler."
+            }
+          ],
+          "metin": "Atomun yapısını ve yapısındaki temel parçacıkları çözümleyebilme",
+          "plan_haftalari": [
+            22
+          ]
+        },
+        {
+          "kod": "FB.7.5.2.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Geçmişten günümüze atomun sürecini açıklar."
+            },
+            {
+              "harf": "b",
+              "metin": "Geçmişten günümüze atom ile ilgili sorular sorar."
+            },
+            {
+              "harf": "c",
+              "metin": "Geçmişten günümüze atom ile ilgili bilgi toplar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Toplanan bilgilerin doğruluğunu değerlendirir."
+            },
+            {
+              "harf": "d",
+              "metin": "Toplanan bilgiler üzerinde çıkarım yapar."
+            }
+          ],
+          "metin": "Geçmişten günümüze atom kavramı ile ilgili bilimsel bilgilerin değişebileceğini sorgulayabilme",
+          "plan_haftalari": [
+            22
+          ]
+        },
+        {
+          "kod": "FB.7.5.3.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Aynı veya farklı atomların bir araya gelmesiyle ilgili molekül modeli önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Yeni kanıtlarla modeli yeniler."
+            }
+          ],
+          "metin": "Farklı moleküllere ait bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            23
+          ]
+        },
+        {
+          "kod": "FB.7.5.4.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Saf maddelerin farklı yapıda olduğunu belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Saf maddeleri niteliklerine göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Saf maddeleri element ve bileşik olarak sınıflar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Çevresindeki maddeleri element ve bileşik olarak etiketlendirir."
+            }
+          ],
+          "metin": "Saf maddeleri element ve bileşik olarak sınıflandırabilme",
+          "plan_haftalari": [
+            23,
+            24
+          ]
+        },
+        {
+          "kod": "FB.7.5.5.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Periyodik tablodaki ilk 18 elementin isimlerini ve sembollerini inceleyerek mantıksal ilişkiler ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Konu ile ilgili ön öğrenmelerine bağlı olarak uyumlu bir bütün oluşturur."
+            }
+          ],
+          "metin": "Periyodik tablodaki ilk 18 elementin isimlerini sembolleriyle yapılandırabilme",
+          "plan_haftalari": [
+            25
+          ]
+        },
+        {
+          "kod": "FB.7.5.6.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Periyodik tabloda grup ve periyotlara ilişkin özellikleri belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlenen özelliklere ilişkin benzerlikleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Belirlenen özelliklere ilişkin farklılıkları listeler."
+            }
+          ],
+          "metin": "Periyodik tabloda grup ve periyotları karşılaştırabilme",
+          "plan_haftalari": [
+            26
+          ]
+        },
+        {
+          "kod": "FB.7.5.7.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yaygın kullanılan bileşiklerin formüllerini inceleyerek mantıksal ilişkiler ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Konu ile ilgili ön öğrenmelerine bağlı olarak uyumlu bir bütün oluşturur."
+            }
+          ],
+          "metin": "Bileşiklerin isimlerini formülleriyle yapılandırabilme",
+          "plan_haftalari": [
+            27
+          ]
+        },
+        {
+          "kod": "FB.7.5.8.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Karışımların görünümlerinin farklı yapıda olduğunu belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Farklı görünümlerdeki karışımları niteliklerine göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Karışımları homojen ve heterojen olarak gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Çevresindeki maddeleri homojen ve heterojen karışım olarak etiketler."
+            }
+          ],
+          "metin": "Karışımları homojen ve heterojen olarak sınıﬂandırabilme",
+          "plan_haftalari": [
+            28
+          ]
+        },
+        {
+          "kod": "FB.7.5.9.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Çözünme hızını etkileyen faktörleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Çözünme hızı ile onu etkileyen faktörler arasındaki neden sonuç ilişkilerini belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Çözünme hızını etkileyen değişkenleri belirler."
+            },
+            {
+              "harf": "ç",
+              "metin": "Temas yüzeyi, karıştırma ve sıcaklık değişkenlerini kontrol eder."
+            },
+            {
+              "harf": "d",
+              "metin": "Çözünme hızını etkileyen faktörlere ait önermeler sunar."
+            }
+          ],
+          "metin": "Çözünme hızına etki eden faktörler ile ilgili hipotez oluşturabilme",
+          "plan_haftalari": [
+            29
+          ]
+        },
+        {
+          "kod": "FB.7.5.10.",
+          "sayfa": 169,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Farklı karışımları ayırmak için deney tasarlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Deney ile ilgili ölçme ve veri analizi yapar."
+            }
+          ],
+          "metin": "Karışımları ayırmak için deney yapabilme",
+          "plan_haftalari": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 6,
+      "ad": "ELEKTRİKLENME",
+      "ders_saati": 12,
+      "sayfa": 176,
+      "ciktilar": [
+        {
+          "kod": "FB.7.6.1.",
+          "sayfa": 177,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Elektriklenme ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Belirlediği araçları kullanarak elektriklenme hakkında bilgileri bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Elektriklenme ile ilgili bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Elektriklenme ile ilgili bulduğu bilgileri kaydeder."
+            }
+          ],
+          "metin": "Elektriklenme ile ilgili bilgi toplayabilme",
+          "plan_haftalari": [
+            31
+          ]
+        },
+        {
+          "kod": "FB.7.6.2.",
+          "sayfa": 177,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Elektriklenme çeşitlerini gözlemleyebilecekleri bir deney tasarlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Deneyle ilgili ölçme ve veri analizi yapar."
+            }
+          ],
+          "metin": "Elektriklenme çeşitlerini belirlemeye yönelik deney yapabilme",
+          "plan_haftalari": [
+            32
+          ]
+        },
+        {
+          "kod": "FB.7.6.3.",
+          "sayfa": 177,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Cisimlerin elektrik yüklerinin niteliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Cisimlerin yük durumlarını ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Cisimlerin yük durumlarını gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Cisimlerin yük durumlarını negatif, pozitif ve nötr olarak etiketler."
+            }
+          ],
+          "metin": "Cisimlerin elektrik yüklerini sınıflandırabilme",
+          "plan_haftalari": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 7,
+      "ad": "SÜRDÜRÜLEBİLİR YAŞAM VE ENERJİ",
+      "ders_saati": 12,
+      "sayfa": 180,
+      "ciktilar": [
+        {
+          "kod": "FB.7.7.1.",
+          "sayfa": 181,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Besin zincirindeki canlılar arasındaki nedensel ilişkileri ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Besin zincirini uyumlu bir bütün olarak açıklar."
+            }
+          ],
+          "metin": "Besin zincirindeki canlılar arasındaki ilişkileri yapılandırabilme",
+          "plan_haftalari": [
+            34,
+            35
+          ]
+        },
+        {
+          "kod": "FB.7.7.2.",
+          "sayfa": 181,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kaynakların tasarruflu kullanımı ile ilgili problemi tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Kaynakların tasarruflu kullanımına yönelik çözüm bulmak için model geliştirir."
+            },
+            {
+              "harf": "c",
+              "metin": "Kaynakların tasarruflu kullanımına yönelik planladığı araştırmayı gerçekleştirir."
+            },
+            {
+              "harf": "ç",
+              "metin": "Kaynakların tasarruflu kullanımına yönelik analiz ettiği verileri yorumlar."
+            },
+            {
+              "harf": "d",
+              "metin": "Kaynakların tasarruflu kullanımına yönelik kanıta dayalı çözüm üretir."
+            },
+            {
+              "harf": "e",
+              "metin": "Kaynakların tasarruflu kullanımına yönelik bilgileri değerlendirir ve paylaşır."
+            }
+          ],
+          "metin": "Kaynakların tasarruflu kullanımının önemini sorgulayabilme",
+          "plan_haftalari": [
+            35,
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "kaynak": "FEN BİLİMLERİ  (3-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+    "sayfa": "FEN BİLİMLERİ 7 (TYMM)",
+    "haftalar": {
+      "1": "14-18 Eylül",
+      "2": "21-25 Eylül",
+      "3": "28 Eylül-2 Ekim",
+      "4": "5-9 Ekim",
+      "5": "12-16 Ekim",
+      "6": "19-23 Ekim",
+      "7": "26-30 Ekim",
+      "8": "2-6 Kasım",
+      "9": "9-13 Kasım",
+      "10": "23-27 Kasım",
+      "11": "30 Kasım- 4 Aralık",
+      "12": "7-11 Aralık",
+      "13": "14-18 Aralık",
+      "14": "21-25 Aralık",
+      "15": "28 Aralık- 1 Ocak",
+      "16": "4-8 Ocak",
+      "17": "11-15 Ocak",
+      "18": "18-22 Ocak",
+      "19": "8-12 Şubat",
+      "20": "15-19 Şubat",
+      "21": "22-26 Şubat",
+      "22": "1-5 Mart",
+      "23": "15-19 Mart",
+      "24": "22-26 Mart",
+      "25": "29 Mart-2 Nisan",
+      "26": "5-9 Nisan",
+      "27": "12-16 Nisan",
+      "28": "19-23 Nisan",
+      "29": "26-30 Nisan",
+      "30": "3-7 Mayıs",
+      "31": "10-14 Mayıs",
+      "32": "17-21 Mayıs",
+      "33": "24-28 Mayıs",
+      "34": "31 Mayıs-4 Haziran",
+      "35": "7-11 Haziran",
+      "36": "14-18 Haziran",
+      "37": "21-25 Haziran"
+    }
+  }
+}

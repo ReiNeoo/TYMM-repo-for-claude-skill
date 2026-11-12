@@ -1,0 +1,548 @@
+{
+  "ders": "Sosyal Bilgiler",
+  "sinif": 6,
+  "kaynak_pdf": "sosyal-bilgiler-dersi_20260902_111029_619.pdf",
+  "not": "sayfa alanları PDF sayfa numarasıdır.",
+  "kaynak_notlari": [],
+  "temalar": [
+    {
+      "islenis_sirasi": 1,
+      "ad": "BİRLİKTE YAŞAMAK",
+      "ders_saati": 16,
+      "sayfa": 67,
+      "ciktilar": [
+        {
+          "kod": "SB.6.1.1.",
+          "sayfa": 68,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dâhil olduğu gruplar ve bu gruplardaki rollerinin zaman içerisinde değişebileceğine ilişkin varsayımda bulunur."
+            },
+            {
+              "harf": "b",
+              "metin": "Farklı grupları ve bu gruplardaki rolleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Farklı grupları ve bu gruplardaki rolleri karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Gelecekte dâhil olabileceği gruplar ve roller ile ilgili önermede bulunur."
+            },
+            {
+              "harf": "d",
+              "metin": "Dâhil olduğu grupların ve bu gruplardaki rollerinin zaman içinde değişebileceğini değerlendirir."
+            }
+          ],
+          "metin": "Dâhil olduğu grupların ve bu gruplardaki rollerinin zaman içerisinde değişebileceğine ilişkin çıkarım yapabilme",
+          "plan_haftalari": [
+            1,
+            2
+          ]
+        },
+        {
+          "kod": "SB.6.1.2.",
+          "sayfa": 68,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisine ilişkin edindiği bilgileri bağlamdan kopmadan dönüştürür."
+            },
+            {
+              "harf": "c",
+              "metin": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+            }
+          ],
+          "metin": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini yorumlayabilme",
+          "plan_haftalari": [
+            3
+          ]
+        },
+        {
+          "kod": "SB.6.1.3.",
+          "sayfa": 68,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Toplumsal hayatta karşılaşılan sorunları fark eder."
+            },
+            {
+              "harf": "b",
+              "metin": "Toplumsal hayatta karşılaşılan sorunların nedenlerine yönelik farklı bakış açılarını karşılaştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Toplumsal hayatta karşılaşılan sorunlara yönelik çözüm önerileri geliştirir."
+            },
+            {
+              "harf": "ç",
+              "metin": "Toplumsal hayatta karşılaşılan sorunlara yönelik çözüm önerilerini farklı görüş ve düşünceleri dikkate alarak düzenler."
+            },
+            {
+              "harf": "d",
+              "metin": "Toplumsal hayatta karşılaşılan sorunlara yönelik çözüm önerilerini savunur."
+            }
+          ],
+          "metin": "Toplumsal hayatta karşılaşılan sorunlara yönelik çözüm önerilerini müzakere edebilme",
+          "plan_haftalari": [
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 2,
+      "ad": "EVİMİZ DÜNYA",
+      "ders_saati": 18,
+      "sayfa": 71,
+      "ciktilar": [
+        {
+          "kod": "SB.6.2.1.",
+          "sayfa": 72,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ülkemizin, kıtaların ve okyanusların göreceli konum özellikleri ile ülkemizin mutlak konum özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Ülkemizin, kıtaların ve okyanusların göreceli konum özellikleri ile ülkemizin mutlak konum özelliklerini görselleştirir."
+            },
+            {
+              "harf": "c",
+              "metin": "Ülkemizin, kıtaların ve okyanusların göreceli konum özellikleri ile ülkemizin mutlak konum özelliklerini özetler."
+            }
+          ],
+          "metin": "Ülkemizin, kıtaların ve okyanusların konum özelliklerini algılayabilme",
+          "plan_haftalari": [
+            6,
+            7
+          ]
+        },
+        {
+          "kod": "SB.6.2.2.",
+          "sayfa": 72,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ülkemizdeki doğal ve beşerî çevre özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Ülkemizdeki doğal ve beşerî çevre özellikleri arasındaki ilişkiyi belirler."
+            }
+          ],
+          "metin": "Ülkemizin doğal ve beşerî çevre özellikleri arasındaki ilişkiyi çözümleyebilme",
+          "plan_haftalari": [
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "kod": "SB.6.2.3.",
+          "sayfa": 72,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ülkemizin Türk dünyası ile kültürel iş birliklerini inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Ülkemizin Türk dünyası ile kültürel iş birliklerini bağlamdan kopmadan dönüştürür."
+            },
+            {
+              "harf": "c",
+              "metin": "Ülkemizin Türk dünyasıyla kültürel iş birliklerini nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+            }
+          ],
+          "metin": "Ülkemizin Türk dünyasıyla kültürel iş birliklerini yorumlayabilme",
+          "plan_haftalari": [
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 3,
+      "ad": "ORTAK MİRASIMIZ",
+      "ders_saati": 22,
+      "sayfa": 75,
+      "ciktilar": [
+        {
+          "kod": "SB.6.3.1.",
+          "sayfa": 76,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Türkistan’da kurulan ilk Türk devletlerinin medeniyetimize katkıları hakkında merak ettiği konuyu tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Türkistan’da kurulan ilk Türk devletlerinin medeniyetimize katkıları hakkında verilen kaynaklara dayanarak sorular sorar."
+            },
+            {
+              "harf": "c",
+              "metin": "Türkistan’da kurulan ilk Türk devletlerinin medeniyetimize katkıları hakkında verilen kaynaklardan bilgi toplar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Türkistan’da kurulan ilk Türk devletlerinin medeniyetimize katkıları hakkında topladığı bilgilerin doğruluğunu değerlendirir."
+            },
+            {
+              "harf": "d",
+              "metin": "Türkistan’da kurulan ilk Türk devletlerinin medeniyetimize katkıları hakkında toplanan bilgiler üzerinden çıkarım yapar."
+            }
+          ],
+          "metin": "Türkistan’da kurulan ilk Türk devletlerinin medeniyetimize katkılarını sorgulayabilme",
+          "plan_haftalari": [
+            12,
+            13
+          ]
+        },
+        {
+          "kod": "SB.6.3.2.",
+          "sayfa": 76,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "İslam medeniyetinin insanlığın ortak mirasına katkılarını belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "İslam medeniyetinin insanlığın ortak mirasına yaptığı katkıları eğitim, bilim, hukuk, kültür, sanat ve mimari alanları ile ilişkilendirir."
+            },
+            {
+              "harf": "c",
+              "metin": "İslam medeniyetinin eğitim, bilim, hukuk, kültür, sanat ve mimari alanlarında insanlığın ortak mirasına yaptığı katkılar hakkında çıkarım yapar."
+            }
+          ],
+          "metin": "VII-XIII. yüzyıllar arasında İslam medeniyetinin eğitim, bilim, hukuk, kültür, sanat ve mimari alanlarında insanlığın ortak mirasına katkılarına dair akıl yürütebilme",
+          "plan_haftalari": [
+            14,
+            15
+          ]
+        },
+        {
+          "kod": "SB.6.3.3.",
+          "sayfa": 76,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "İslamiyet’in kabulüyle Türklerin sosyal ve kültürel hayatlarında meydana gelen değişimi kaynaklara dayanarak analiz eder."
+            },
+            {
+              "harf": "b",
+              "metin": "İslamiyet’in kabulüyle Türklerin sosyal ve kültürel hayatlarında meydana gelen değişime ilişkin dönemin koşullarını fark eder."
+            },
+            {
+              "harf": "c",
+              "metin": "İslamiyet’in kabulüyle Türklerin sosyal ve kültürel hayatlarında meydana gelen değişimin sonuçlarını günümüz koşullarıyla karşılaştırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "İslamiyet’in kabulüyle Türklerin sosyal ve kültürel hayatlarında meydana gelen değişimin sonuçlarını dönemin koşulları içinde açıklar."
+            }
+          ],
+          "metin": "İslamiyet’in kabulüyle Türklerin sosyal ve kültürel hayatlarında meydana gelen değişime tarihsel bağlam oluşturabilme",
+          "plan_haftalari": [
+            16,
+            17
+          ]
+        },
+        {
+          "kod": "SB.6.3.4.",
+          "sayfa": 76,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "XI-XIII. yüzyıllar arasında Anadolu’nun Türkleşmesi ve İslamlaşmasına etkide bulunan siyasi faaliyetler ve askerî mücadeleleri çözümler."
+            },
+            {
+              "harf": "b",
+              "metin": "XI-XIII. yüzyıllar arasında Anadolu’nun Türkleşmesi ve İslamlaşmasına etkide bulunan siyasi faaliyetler ve askerî mücadeleleri sınıflandırır."
+            },
+            {
+              "harf": "c",
+              "metin": "XI-XIII. yüzyıllar arasında meydana gelen siyasi faaliyetler ve askerî mücadelelerin Anadolu’nun Türkleşmesi ve İslamlaşmasına etkisini yorumlar."
+            }
+          ],
+          "metin": "XI-XIII. yüzyıllar arasında meydana gelen siyasi faaliyetler ve askerî mücadelelerin Anadolu’nun Türkleşmesi ve İslamlaşmasına etkisini özetleyebilme",
+          "plan_haftalari": [
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 4,
+      "ad": "YAŞAYAN DEMOKRASİMİZ",
+      "ders_saati": 18,
+      "sayfa": 81,
+      "ciktilar": [
+        {
+          "kod": "SB.6.4.1.",
+          "sayfa": 82,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yönetimin karar alma sürecini etkileyen unsurları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Yönetimin karar alma sürecini etkileyen unsurlar arasındaki ilişkiyi belirler."
+            }
+          ],
+          "metin": "Yönetimin karar alma sürecini etkileyen unsurları çözümleyebilme",
+          "plan_haftalari": [
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "kod": "SB.6.4.2.",
+          "sayfa": 82,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Toplumsal düzenin sürdürülmesinde temel hak ve sorumlulukların önemini inceler."
+            },
+            {
+              "harf": "b",
+              "metin": "Toplumsal düzenin sürdürülmesinde temel hak ve sorumlulukların önemini bağlamdan kopmadan dönüştürür."
+            },
+            {
+              "harf": "c",
+              "metin": "Toplumsal düzenin sürdürülmesinde temel hak ve sorumlulukların önemini nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder."
+            }
+          ],
+          "metin": "Toplumsal düzenin sürdürülmesinde temel hak ve sorumlulukların önemini yorumlayabilme",
+          "plan_haftalari": [
+            20,
+            22,
+            23
+          ]
+        },
+        {
+          "kod": "SB.6.4.3.",
+          "sayfa": 82,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Vatandaşlık haklarının kullanımında dijitalleşme ve teknolojik gelişmelerin etkilerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Vatandaşlık haklarının kullanımında dijitalleşme ve teknolojik gelişmelerin etkileri hakkında sorular sorar."
+            },
+            {
+              "harf": "c",
+              "metin": "Vatandaşlık haklarının kullanımında dijitalleşme ve teknolojik gelişmelerin etkileri hakkında bilgi toplar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Vatandaşlık haklarının kullanımında dijitalleşme ve teknolojik gelişmelerin etkileri hakkında topladığı bilgileri güncellik ve bilimsellik açısından değerlendirir."
+            },
+            {
+              "harf": "d",
+              "metin": "Vatandaşlık haklarının kullanımında dijitalleşme ve teknolojik gelişmelerin etkileri hakkında doğruluğunu değerlendirdiği bilgilerden hareketle çıkarımlar yapar."
+            }
+          ],
+          "metin": "Vatandaşlık haklarının kullanımında dijitalleşme ve teknolojik gelişmelerin etkilerini sorgulayabilme",
+          "plan_haftalari": [
+            24,
+            25,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 5,
+      "ad": "HAYATIMIZDAKİ EKONOMİ",
+      "ders_saati": 18,
+      "sayfa": 86,
+      "ciktilar": [
+        {
+          "kod": "SB.6.5.1.",
+          "sayfa": 87,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ülkemizin kaynakları ve ekonomik faaliyetlerin özelliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Ülkemizin kaynakları ve ekonomik faaliyetler arasındaki ilişkileri belirler."
+            }
+          ],
+          "metin": "Ülkemizin kaynakları ile ekonomik faaliyetler arasındaki ilişkiyi çözümleyebilme",
+          "plan_haftalari": [
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "kod": "SB.6.5.2.",
+          "sayfa": 87,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Gözlem ve deneyimlerinden yola çıkarak ekonomik faaliyetler ve meslekleri ilişkilendirir."
+            },
+            {
+              "harf": "b",
+              "metin": "Ekonomik faaliyetlerdeki değişime bağlı olarak gelecekte ortaya çıkabilecek meslekler hakkında çıkarımda bulunur."
+            }
+          ],
+          "metin": "Ekonomik faaliyetler ve meslekler arasındaki ilişki hakkında kanıta dayalı öngörüde bulunabilme",
+          "plan_haftalari": [
+            30,
+            31
+          ]
+        },
+        {
+          "kod": "SB.6.5.3.",
+          "sayfa": 87,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Tasarladığı bir ürün için yatırım ve pazarlama projelerini sorgular."
+            },
+            {
+              "harf": "b",
+              "metin": "Tasarladığı ürünün yatırım ve pazarlama alanlarına ilişkin gözlemlerine dayalı tahminlerde bulunur."
+            },
+            {
+              "harf": "c",
+              "metin": "Olası riskleri değerlendirerek tasarladığı ürünün yatırım ve pazarlama alanlarının belirlenmesine gerekçe sunarak karar verir."
+            },
+            {
+              "harf": "ç",
+              "metin": "Tasarladığı ürünün yatırım ve pazarlama aşaması için gerekli kaynakları yönetir."
+            },
+            {
+              "harf": "d",
+              "metin": "Tasarladığı ürün için yatırım ve pazarlama proje öneri raporu oluşturur."
+            }
+          ],
+          "metin": "Tasarladığı bir ürün için yatırım ve pazarlama proje önerisi hazırlayabilme",
+          "plan_haftalari": [
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 6,
+      "ad": "TEKNOLOJİ VE SOSYAL BİLİMLER",
+      "ders_saati": 11,
+      "sayfa": 90,
+      "ciktilar": [
+        {
+          "kod": "SB.6.6.1.",
+          "sayfa": 91,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşimdeki rolüne yönelik nedensel ilişkileri ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşimdeki rolüne ilişkin anlamlı bir bütün ortaya koyar."
+            }
+          ],
+          "metin": "Ulaşım ve iletişim teknolojilerindeki gelişmelerin kültürel etkileşimdeki rolünü yapılandırabilme",
+          "plan_haftalari": [
+            34,
+            35
+          ]
+        },
+        {
+          "kod": "SB.6.6.2.",
+          "sayfa": 91,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bir ürün veya fikrin patent ve telif haklarıyla ilgili bilgi toplayacağı kaynakları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Bir ürün veya fikrin patent ve telif haklarıyla ilgili bilgileri belirlediği kaynaklardan toplar."
+            },
+            {
+              "harf": "c",
+              "metin": "Bir ürün veya fikrin patent ve telif haklarıyla ilgili topladığı bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Bir ürün veya fikrin patent ve telif haklarıyla ilgili doğruladığı bilgileri kaydeder."
+            }
+          ],
+          "metin": "Bir ürün veya fikrin patent ve telif haklarıyla ilgili bilgi toplayabilme",
+          "plan_haftalari": [
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "kaynak": "SOSYAL BİLGİLER (4-7. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN +++.xlsx",
+    "sayfa": "6. SINIF YILLIK PLAN",
+    "haftalar": {
+      "1": "14-18 Eylül",
+      "2": "21-25 Eylül",
+      "3": "28 Eylül-2 Ekim",
+      "4": "5-9 Ekim",
+      "5": "12-16 Ekim",
+      "6": "19-23 Ekim",
+      "7": "26-30 Ekim",
+      "8": "2-6 Kasım",
+      "9": "9-13 Kasım",
+      "10": "23-27 Kasım",
+      "11": "30 Kasım- 4 Aralık",
+      "12": "7-11 Aralık",
+      "13": "14-18 Aralık",
+      "14": "21-25 Aralık",
+      "15": "28 Aralık-1 Ocak 2027",
+      "16": "4-8 Ocak 2027",
+      "17": "11-15 Ocak",
+      "18": "18-22 Ocak",
+      "19": "8-12 Şubat",
+      "20": "15-19 Şubat",
+      "21": "22-26 Şubat",
+      "22": "1-5 Mart",
+      "23": "15-19 Mart",
+      "24": "22-26 Mart",
+      "25": "29 Mart-2 Nisan",
+      "26": "5-9 Nisan",
+      "27": "12-16 Nisan",
+      "28": "19-23 Nisan",
+      "29": "26-30 Nisan",
+      "30": "3-7 Mayıs",
+      "31": "10-14 Mayıs",
+      "32": "17-21 Mayıs",
+      "33": "24-28 Mayıs",
+      "34": "31 Mayıs-4 Haziran",
+      "35": "7-11 Haziran",
+      "36": "14-18 Haziran",
+      "37": "21-25 Haziran"
+    }
+  }
+}

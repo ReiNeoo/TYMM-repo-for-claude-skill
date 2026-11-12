@@ -1,0 +1,575 @@
+{
+ "ders": "İngilizce",
+ "sinif": 7,
+ "parca": "tema-4",
+ "ciktilar": [
+  {
+   "kod": "ENG.7.4.G1.",
+   "metin": "Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”, after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.",
+   "sayfa": 799,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students listen to, watch, and/or read the audio, visual, and written current content presented in context that introduces the general use of the target language structures in the current theme."
+    },
+    {
+     "harf": "b",
+     "metin": "Students examine example sentences provided by the teacher or instructional materials including target grammatical items to see how the target grammatical structure(s) of the target theme is/are used to construct a meaning or contribute to meaning."
+    },
+    {
+     "harf": "c",
+     "metin": "Students analyse current audio, visual, and/or written content presented in context to identify sentences similar to those provided as examples."
+    },
+    {
+     "harf": "d",
+     "metin": "Students find the commonalities between the sentences identified and those exemplified by the teacher or materials through careful comparison in pairs and/or groups."
+    },
+    {
+     "harf": "e",
+     "metin": "Students discover the characteristics of the commonalities in the sentences in the current content by discussing them in pairs or groups as an awareness/consciousness-raising activity."
+    },
+    {
+     "harf": "f",
+     "metin": "Students formulate rule(s) about the same/target grammar structure(s) of the current theme based on their observations and discussions in pairs or groups."
+    },
+    {
+     "harf": "g",
+     "metin": "Students engage in contextual activities on the use of target grammatical structures (grammaring) of the current theme to explain and justify the grammar rule(s) they have discovered."
+    },
+    {
+     "harf": "h",
+     "metin": "Students practise to consolidate their understanding of the target grammar that they discovered by selecting accurate and meaningful items in meaningful and contextualised activities."
+    },
+    {
+     "harf": "i",
+     "metin": "Students produce accurate and unique verbal or written content by using target grammar consciously and in a natural way, without thinking about the rules."
+    },
+    {
+     "harf": "j",
+     "metin": "Students produce new spoken/written content by using the target grammatical structures efficiently, authentically, automatically, and naturally in context when communicating with others without thinking about rules."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.L1.",
+   "metin": "Students can prepare and get ready for listening (to)/watching about the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 796,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students activate their pre-existing knowledge and experience about the current theme and content to recall their background knowledge by investigating it carefully."
+    },
+    {
+     "harf": "b",
+     "metin": "Students identify significant and necessary relationships and connections between their preexisting knowledge, their past experience and the clues to the current content by responding to meaningful questions about it (without speaking Turkish or using a translation)."
+    },
+    {
+     "harf": "c",
+     "metin": "Students make detailed predictions about the current content by using their pre-existing knowledge and past experience of the content."
+    },
+    {
+     "harf": "d",
+     "metin": "Students make rational predictions about the current content by looking at the supplementary visual elements provided."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.L2.",
+   "metin": "Students can bring together the information in the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 796,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students identify the main topic of the current content in general by listening (to)/watching it as a whole in its context."
+    },
+    {
+     "harf": "b",
+     "metin": "Students recognise the significant details and basic components of the current content within the whole by listening (to) and watching the whole content carefully to notice them."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.L3.",
+   "metin": "Students can make sense of and derive meaning from the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 796,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students check their initial predictions about the current content by being aware of the commonalities between their self-predictions and the clues provided as visuals surrounding the content."
+    },
+    {
+     "harf": "b",
+     "metin": "Students make significant and necessary classifications in the current content that affect the meaning of the generally perceived content."
+    },
+    {
+     "harf": "c",
+     "metin": "Students make significant and necessary comparisons in the generally perceived current content to highlight differences between two or more different things by using visuals, ensuring clarity and meaning."
+    },
+    {
+     "harf": "d",
+     "metin": "Students recognise significant branching, linear or spiral relationships (if any) within the generally perceived current content."
+    },
+    {
+     "harf": "e",
+     "metin": "Students make essential inferences and deductions to understand the meaning of the generally perceived current content better."
+    },
+    {
+     "harf": "f",
+     "metin": "Students strongly recognise the holistic meaning formed by the components, comparisons, classifications, and details related to the current content."
+    },
+    {
+     "harf": "g",
+     "metin": "Students construct a detailed understanding of the meaning of the current content through prior classifications, comparisons, and inferences/deductions."
+    },
+    {
+     "harf": "h",
+     "metin": "Students position, internalise and personalise current content in an individualised, ageappropriate and level-appropriate way."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.L4.",
+   "metin": "Students can reflect on the information, experiences, thoughts, ideas, and feelings related to the listening (to)/watching process about the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” in relation to themselves or others, both individually and/or with others.",
+   "sayfa": 797,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students individually convey their personal knowledge, experiences, thoughts, and feelings that are critically reviewed in relation to the current listening (to)/watching contents and the process."
+    },
+    {
+     "harf": "b",
+     "metin": "Students share their personal verbal and written knowledge, experiences, thoughts, and feelings that they critically review in relation to the current listening (to)/watching content and process with others."
+    },
+    {
+     "harf": "c",
+     "metin": "Students produce new audio/visual products individually by revising their personal work after participating in reflective activities related to the listening (to)/watching process of the current content."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.P1.",
+   "metin": "Students can select and use target phonological aspects such as pronunciation and intonation of target sounds, words, phrases, clauses, and sentences in utterances authentically, naturally, and accurately in the current content about “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” to develop holistic and conscious pronunciation skills after recognising them in context.",
+   "sayfa": 797,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students recognise the target phonological aspects such as pronunciation and intonation of target sounds, words, phrases and sentences in utterances within the current content by listening (to)/ watching it, first as a whole and then with pauses."
+    },
+    {
+     "harf": "b",
+     "metin": "Students repeat utterances, including target sentences, clauses, phrases, and words with target theme-specific sounds by considering phonological aspects such as pronunciation and intonation accurately and naturally in the content several times as a whole class and then in groups and individually."
+    },
+    {
+     "harf": "c",
+     "metin": "Students talk about the current content by taking part in small group conversations by paying attention to select and use accurate phonological aspects such as pronunciation, intonation, stress, and other features as they are understood."
+    },
+    {
+     "harf": "d",
+     "metin": "Students reflect personally on their pronunciation and other target phonological aspects such as intonation after recording and listening to group conversations about the target content."
+    },
+    {
+     "harf": "e",
+     "metin": "Students evaluate feedback from others and their personal feedback and reflection by listening to or watching the audio/visual content again to check for accuracy."
+    },
+    {
+     "harf": "f",
+     "metin": "Students utilise the target phonological aspects such as pronunciation and intonation of utterances including target sounds of the current content, appropriately, effectively, accurately, naturally, automatically, and consciously when communicating with others in different contexts."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.R1.",
+   "metin": "Students can prepare for reading the content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” efficiently and effectively.",
+   "sayfa": 797,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students recall and activate significant pre-existing knowledge and past experiences that can be related to the current theme and content through careful exploration."
+    },
+    {
+     "harf": "b",
+     "metin": "Students recognise significant relationships between pre-existing knowledge, past experiences and clues to current content."
+    },
+    {
+     "harf": "c",
+     "metin": "Students make strong preliminary predictions about the current content based on explored and recognised relationships."
+    },
+    {
+     "harf": "d",
+     "metin": "Students make detailed predictions about the current content by exploring and examining the audio-visual clues in relation to it."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.R2.",
+   "metin": "Students can bring information together about the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” through skimming, scanning and detailed reading.",
+   "sayfa": 798,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students skim the current content by looking very quickly and carefully at the surrounding visual materials to identify its general focus."
+    },
+    {
+     "harf": "b",
+     "metin": "Students scan the current content by reading it silently and quickly to find key and major components."
+    },
+    {
+     "harf": "c",
+     "metin": "Students read the current content again silently and carefully to examine any significant semantic and structural details."
+    },
+    {
+     "harf": "d",
+     "metin": "Students examine the semantic details in the content carefully to check the accuracy of their initial predictions."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.R3.",
+   "metin": "Students can make sense of and derive meaning from the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 798,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students classify significant and necessary elements of the current content in a meaningful way."
+    },
+    {
+     "harf": "b",
+     "metin": "Students compare significant and key elements of the current content with each other or with similar ones in a meaningful way."
+    },
+    {
+     "harf": "c",
+     "metin": "Students recognise significant and basic spiral, causal, and logical relationships in the current content through careful examination and analysis."
+    },
+    {
+     "harf": "d",
+     "metin": "Students make meaningful inferences from information in the current content by examining it critically."
+    },
+    {
+     "harf": "e",
+     "metin": "Students internalise their meaningful inferences from information in the current content in an individualised way appropriate to their age and language level."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.R4.",
+   "metin": "Students can reflect on the information, experiences, thoughts, ideas, and feelings related to the reading process about the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” in relation to themselves or others, both individually and/or with others.",
+   "sayfa": 798,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students convey individually their knowledge, experiences, thoughts, and feelings that they review critically in relation to the current reading-comprehension content and process."
+    },
+    {
+     "harf": "b",
+     "metin": "Students share their personal verbal and written knowledge, experiences, thoughts, and feelings that they review critically in relation to the current reading-comprehension content and process with others."
+    },
+    {
+     "harf": "c",
+     "metin": "Students produce new verbal and written work after participating in reflective activities related to the current reading-comprehension content and process."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.S1.",
+   "metin": "Students can prepare themselves to speak meaningfully, fluently, and efficiently about the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 801,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students relate current content by analysing pre-existing knowledge and experiences from earlier listening, watching, and reading sessions to associate them with the current content."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.S2.",
+   "metin": "Students can analyse and understand the model content related to “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” to support the production of spoken language.",
+   "sayfa": 801,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students grasp what the provided model/example is about with the help of audio, visual, and/ or written elements after listening, watching, and/or reading the current content."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.S3.",
+   "metin": "Students can produce meaningful and accurate spoken content related to the current theme on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 801,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students recognise which form and type of spoken content is expected and assigned based on the model/example about the current theme for both prepared and/or unprepared speaking situations through careful examination."
+    },
+    {
+     "harf": "b",
+     "metin": "Students conduct preliminary research on the expected and assigned content to be produced for prepared and/or unprepared speaking situations."
+    },
+    {
+     "harf": "c",
+     "metin": "Students develop a draft outline in accordance with the assigned prepared and/or unprepared speaking situations as presented in the model/example, appropriate to the age and language level based on the current current."
+    },
+    {
+     "harf": "d",
+     "metin": "Students organise supplementary audio-visual materials in accordance with the assigned task as presented in the model/example for prepared and/or unprepared speaking situations and appropriate to their age and language level."
+    },
+    {
+     "harf": "e",
+     "metin": "Students organise information related to the current content to be presented, appropriate to the model/example for prepared and/or unprepared speaking situations."
+    },
+    {
+     "harf": "f",
+     "metin": "Students critically review their prepared presentation content for accuracy, coherence, and appropriateness to audience and context in prepared and/or unprepared speaking situations."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.S4.",
+   "metin": "Students can construct meaningful spoken content about “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” through efficient and meaningful practice.",
+   "sayfa": 802,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students make spoken content clear and understandable to listeners by selecting and using style and form appropriate to age and language level in prepared and/or unprepared speaking situations."
+    },
+    {
+     "harf": "b",
+     "metin": "Students present their spoken content by selecting and using materials appropriate to the context, age, language level, style, and type of discourse, similar to those presented in the model/example for prepared and/or unprepared speaking situations."
+    },
+    {
+     "harf": "c",
+     "metin": "Students present their spoken content by selecting and using target vocabulary and language structures similar and/or appropriate to those presented in the model/example considering their age, language level, context, style, and type of discourse for prepared and/or unprepared speaking situations."
+    },
+    {
+     "harf": "d",
+     "metin": "Students convey relevant explicit, implicit, and/or complex messages related to the current content clearly in context to the listeners by using appropriate material and body language in prepared and/or unprepared speaking situations."
+    },
+    {
+     "harf": "e",
+     "metin": "Students convey their messages about the current content clearly to the listeners by incorporating all the necessary semantic elements in prepared and/or unprepared speaking situations."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.S5.",
+   "metin": "Students can reconstruct the information about “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” when communicating with others.",
+   "sayfa": 802,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students use the same or similar information presented in the current content in verbal or written forms in different contexts by reorganising it meaningfully, accurately, effectively, efficiently, functionally, and individually as required."
+    },
+    {
+     "harf": "b",
+     "metin": "Students engage in verbal and/or written communication by sharing the reconstructed meaningful information about the current content with others."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.S6.",
+   "metin": "Students can reflect on their experiences, thoughts, ideas, and feelings related to the speaking process about the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” in relation to themselves or others, both individually and/or with others.",
+   "sayfa": 803,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students reveal their knowledge, experiences, thoughts, and feelings that they review critically in relation to the current speaking-expression content and process."
+    },
+    {
+     "harf": "b",
+     "metin": "Students share their personal knowledge, experiences, thoughts, and feelings that they critically review in relation to the current speaking-expression content and process with others."
+    },
+    {
+     "harf": "c",
+     "metin": "Students produce new verbal and written work after participating in reflective activities related to the current speaking-expression content and process."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.V1.",
+   "metin": "Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” after recognising them in context and developing their conscious and inductive vocabulary learning skills.",
+   "sayfa": 798,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students make predictions about the main topic of the current content by identifying “general contextual clues” from the visual, audio, and written preparation materials provided during the “listening/watching for gist” and/or reading for “skimming” sessions."
+    },
+    {
+     "harf": "b",
+     "metin": "Students check the accuracy of the predictions related to the “general contextual clue” by listening to, watching, and/or reading the audio, visual, and/or written content in context."
+    },
+    {
+     "harf": "c",
+     "metin": "Students search the target audio/visual, and/or written content by scanning to find key components of the theme."
+    },
+    {
+     "harf": "d",
+     "metin": "Students listen/watch the content carefully and/or read it silently to identify and underline/ circle target unknown words."
+    },
+    {
+     "harf": "e",
+     "metin": "Students separate target (key-active) words from the other (non-key-passive) words in the target content."
+    },
+    {
+     "harf": "f",
+     "metin": "Students examine relevant target words, phrases, and expressions in the current content to understand how and where they are used."
+    },
+    {
+     "harf": "g",
+     "metin": "Students determine paragraph context clues to identify the topics of the parts/paragraphs containing unknown target words."
+    },
+    {
+     "harf": "h",
+     "metin": "Students discuss the meaning of the target words by finding indirect sentence context clues in the assigned sentences of the parts/paragraphs of the content."
+    },
+    {
+     "harf": "i",
+     "metin": "Students determine the correct meanings of the target words in the current content in pairs or groups by comparing the meanings/definitions proposed."
+    },
+    {
+     "harf": "j",
+     "metin": "Students confirm the accuracy of the meanings/definitions of the target words in the current content by consulting with the teacher, the class and/or by using printed or digital dictionaries."
+    },
+    {
+     "harf": "k",
+     "metin": "Students make use of the target words of the current theme in a range of semantically associated contextual activities and tasks accurately, naturally, authentically, and appropriately."
+    },
+    {
+     "harf": "l",
+     "metin": "Students make use of the target words of the current theme accurately, naturally, appropriately and effectively through careful selection when communicating with others."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.W1.",
+   "metin": "Students can prepare for writing efficiently and accurately based on the current content about “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 800,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students relate pre-existing knowledge and experiences from initial listening, watching, and reading processes to current content by examining and activating them."
+    },
+    {
+     "harf": "b",
+     "metin": "Students understand what the current writing task requires in terms of content and purpose in relation to the current content accurately by applying pre-existing knowledge and experiences, following guided instructions."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.W2.",
+   "metin": "Students can analyse and understand a provided model to guide them in producing similar writing tasks related to the content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 800,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students grasp the significant and basic components of the content in the model/sample provided for the assigned writing task, including word selection and use, grammar selection and use, and other details such as type, style, and meaning as required."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.W3.",
+   "metin": "Students can construct new written content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” based on their understanding of the model(s) provided.",
+   "sayfa": 800,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students share their ideas and thoughts by brainstorming through collaborative discussion to generate ideas for the new (prepared and/or unprepared) writing task related to the current theme."
+    },
+    {
+     "harf": "b",
+     "metin": "Students plan how the knowledge and ideas generated during the brainstorming session can be applied to their new (prepared and/or unprepared) writing task related to the current theme."
+    },
+    {
+     "harf": "c",
+     "metin": "Students conduct preliminary research relevant to the assigned (prepared and/or unprepared) writing task on the current content, considering the type of writing, age appropriateness, and language level."
+    },
+    {
+     "harf": "d",
+     "metin": "Students produce a well-organised and detailed draft relevant to the (prepared and/or unprepared) type of writing and appropriate for the age and language level."
+    },
+    {
+     "harf": "e",
+     "metin": "Students organise and develop contextual materials relevant to the type of the assigned task (prepared and/or unprepared) and appropriate to age and language level."
+    },
+    {
+     "harf": "f",
+     "metin": "Students modify the content they produce for the assigned writing task in a coherent and meaningful way, consistent with the assigned (prepared and/or unprepared) type of writing, and appropriate to the age and language level."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.W4.",
+   "metin": "Students can practise producing written content based on the current theme “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 800,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students present relevant supportive materials appropriate to the assigned (prepared and/ or unprepared) writing task, considering the type of writing and appropriate to the age and language level."
+    },
+    {
+     "harf": "b",
+     "metin": "Students use appropriate discourse forms, styles, and strategies for the assigned (prepared and/or unprepared) writing task, considering its writing type and appropriate to their age and language level."
+    },
+    {
+     "harf": "c",
+     "metin": "Students use target words and grammatical language structures accurately and appropriately in their writing tasks, by selecting necessary and appropriate ones in line with the assigned type of writing and appropriate to the age and language level."
+    },
+    {
+     "harf": "d",
+     "metin": "Students express their messages about the current content clearly to the reader in the assigned (prepared and/or unprepared) writing task."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.W5.",
+   "metin": "Students can engage in the process of writing related to the content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions”.",
+   "sayfa": 801,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students review the feedback from the teacher and/or peers critically on their prepared and/ or unprepared writing task(s)."
+    },
+    {
+     "harf": "b",
+     "metin": "Students revise to reorganise the written content of their prepared and/or unprepared task based on the feedback received from the teacher and/or peers."
+    },
+    {
+     "harf": "c",
+     "metin": "Students refine and develop their written content produced for their prepared/unprepared writing task through the iterative feedback process."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.W6.",
+   "metin": "Students can reconstruct their writing about the current theme on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” to communicate effectively about it.",
+   "sayfa": 801,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students adapt and use individually internalised information in current or similar content by selecting and reorganising it meaningfully in written form as necessary when communicating with other people in different contexts."
+    },
+    {
+     "harf": "b",
+     "metin": "Students exchange information and ideas in written communication by sharing reconstructed meaningful knowledge and content with others."
+    }
+   ]
+  },
+  {
+   "kod": "ENG.7.4.W7.",
+   "metin": "Students can reflect on their experiences, thoughts, ideas, and feelings related to the writing process about the current content on “family life and home with family members’ hobbies (sports, books, films, music, cooking); generation gap in the family: problems and solutions” in relation to themselves or others, both individually and/or with others.",
+   "sayfa": 801,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Students convey individually the knowledge, experiences, thoughts, and feelings they review critically in relation to their current writing-expression content and process."
+    },
+    {
+     "harf": "b",
+     "metin": "Students share their personal verbal and written knowledge, experiences, thoughts, and feelings that they critically review in relation to the current writing-expression content and process with others."
+    },
+    {
+     "harf": "c",
+     "metin": "Students produce their new verbal and written work after participating in reflective activities related to the current writing-expression content and process."
+    }
+   ]
+  }
+ ]
+}

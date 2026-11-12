@@ -1,0 +1,1153 @@
+{
+ "ders": "Türkçe",
+ "sinif": 5,
+ "kaynak_pdf": "ortaokul-turkce-dersi_20260902_111157_977.pdf",
+ "not": "sayfa alanları PDF sayfa numarasıdır. Türkçe'de aynı öğrenme çıktısı birden fazla temada yer alabilir; süreç bileşenleri 9. Tablo'dan alınmıştır. Süreç bileşenleri `bilesen_dosyasi` alanındaki dosyadadır (bu klasöre göre).",
+ "kaynak_notlari": [
+  "T.K.5.19. (Uygun bağlantı ifadelerini kullanabilme): programın 9. Tablosunda süreç bileşeni verilmemiş, yalnızca açıklama var. Eşleştirmede bileşen yazılmaz.",
+  "T.K.5.8. (Konuşmasında sesini uygun şekilde kullanabilme): programın 9. Tablosunda süreç bileşeni verilmemiş, yalnızca açıklama var. Eşleştirmede bileşen yazılmaz.",
+  "T.O.5.2. (Akıcı okuyabilme): programın 9. Tablosunda süreç bileşeni verilmemiş, yalnızca açıklama var. Eşleştirmede bileşen yazılmaz.",
+  "T.Y.5.15. (Uygun bağlantı ifadelerini kullanabilme): programın 9. Tablosunda süreç bileşeni verilmemiş, yalnızca açıklama var. Eşleştirmede bileşen yazılmaz.",
+  "T.Y.5.16. (Yazım ve noktalama işaretleriyle ilgili kuralları uygulayabilme): programın 9. Tablosunda süreç bileşeni verilmemiş, yalnızca açıklama var. Eşleştirmede bileşen yazılmaz."
+ ],
+ "plan": {
+  "kaynak": "TÜRKÇE (5-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+  "sayfa": "TÜRKÇE 5 ÇERÇEVE YILLIK PLANLAR",
+  "haftalar": {
+   "1": "14-18 Eylül",
+   "2": "21-25 Eylül",
+   "3": "28 Eylül-02 Ekim",
+   "4": "05-09 Ekim",
+   "5": "12-16 Ekim",
+   "6": "19-23 Ekim",
+   "7": "26-30 Ekim",
+   "8": "02-06 Kasım",
+   "9": "09-13 Kasım",
+   "10": "23-27 Kasım",
+   "11": "30 Kasım-04 Aralık",
+   "12": "07-11 Aralık",
+   "13": "14-18 Aralık",
+   "14": "21-25 Aralık",
+   "15": "28-31 Aralık",
+   "16": "4-8 Ocak",
+   "17": "11-15 Ocak",
+   "18": "18-22 Ocak",
+   "19": "08-12 Şubat",
+   "20": "15-19 Şubat",
+   "21": "22-26 Şubat",
+   "22": "01-05 Mart",
+   "23": "15-19 Mart",
+   "24": "22-26 Mart",
+   "25": "29 Mart-2 Nisan",
+   "26": "05-09 Nisan",
+   "27": "12-16 Nisan",
+   "28": "19-23 Nisan",
+   "29": "26-30 Nisan",
+   "30": "03-07 Mayıs",
+   "31": "10-14 Mayıs",
+   "32": "20-21 Mayıs",
+   "33": "24-28 Mayıs",
+   "34": "31 Mayıs-4 Haziran",
+   "35": "07-11 Haziran",
+   "36": "14-18 Haziran",
+   "37": "21-25 Haziran"
+  }
+ },
+ "temalar": [
+  {
+   "islenis_sirasi": 1,
+   "ad": "OYUN DÜNYASI",
+   "ders_saati": 34,
+   "sayfa": 57,
+   "kodlar": [
+    "T.D.5.3.",
+    "T.D.5.4.",
+    "T.D.5.5.",
+    "T.D.5.13.",
+    "T.D.5.17.",
+    "T.O.5.2.",
+    "T.O.5.3.",
+    "T.O.5.4.",
+    "T.O.5.5.",
+    "T.O.5.6.",
+    "T.O.5.7.",
+    "T.O.5.15.",
+    "T.O.5.20.",
+    "T.K.5.1.",
+    "T.K.5.7.",
+    "T.K.5.8.",
+    "T.K.5.17.",
+    "T.K.5.20.",
+    "T.Y.5.1.",
+    "T.Y.5.2.",
+    "T.Y.5.3.",
+    "T.Y.5.6.",
+    "T.Y.5.13.",
+    "T.Y.5.16."
+   ]
+  },
+  {
+   "islenis_sirasi": 2,
+   "ad": "ATATÜRK’Ü TANIMAK",
+   "ders_saati": 35,
+   "sayfa": 63,
+   "kodlar": [
+    "T.D.5.1.",
+    "T.D.5.2.",
+    "T.D.5.4.",
+    "T.D.5.5.",
+    "T.D.5.11.",
+    "T.D.5.14.",
+    "T.D.5.17.",
+    "T.O.5.1.",
+    "T.O.5.2.",
+    "T.O.5.3.",
+    "T.O.5.5.",
+    "T.O.5.6.",
+    "T.O.5.17.",
+    "T.O.5.19.",
+    "T.O.5.20.",
+    "T.O.5.22.",
+    "T.K.5.1.",
+    "T.K.5.2.",
+    "T.K.5.3.",
+    "T.K.5.9.",
+    "T.K.5.17.",
+    "T.K.5.19.",
+    "T.Y.5.2.",
+    "T.Y.5.3.",
+    "T.Y.5.13.",
+    "T.Y.5.15.",
+    "T.Y.5.16.",
+    "T.Y.5.17."
+   ]
+  },
+  {
+   "islenis_sirasi": 3,
+   "ad": "DUYGULARIMI TANIYORUM",
+   "ders_saati": 35,
+   "sayfa": 69,
+   "kodlar": [
+    "T.D.5.2.",
+    "T.D.5.4.",
+    "T.D.5.5.",
+    "T.D.5.6.",
+    "T.D.5.17.",
+    "T.D.5.18.",
+    "T.D.5.20.",
+    "T.O.5.1.",
+    "T.O.5.3.",
+    "T.O.5.5.",
+    "T.O.5.6.",
+    "T.O.5.11.",
+    "T.O.5.13.",
+    "T.O.5.16.",
+    "T.O.5.18.",
+    "T.O.5.20.",
+    "T.K.5.2.",
+    "T.K.5.4.",
+    "T.K.5.6.",
+    "T.K.5.16.",
+    "T.K.5.19.",
+    "T.K.5.21.",
+    "T.Y.5.2.",
+    "T.Y.5.3.",
+    "T.Y.5.4.",
+    "T.Y.5.5.",
+    "T.Y.5.8.",
+    "T.Y.5.13.",
+    "T.Y.5.15.",
+    "T.Y.5.16."
+   ]
+  },
+  {
+   "islenis_sirasi": 4,
+   "ad": "GELENEKLERİMİZ",
+   "ders_saati": 34,
+   "sayfa": 74,
+   "kodlar": [
+    "T.D.5.1.",
+    "T.D.5.2.",
+    "T.D.5.4.",
+    "T.D.5.6.",
+    "T.D.5.7.",
+    "T.D.5.9.",
+    "T.D.5.10.",
+    "T.D.5.15.",
+    "T.D.5.17.",
+    "T.O.5.3.",
+    "T.O.5.5.",
+    "T.O.5.8.",
+    "T.O.5.9.",
+    "T.O.5.10.",
+    "T.O.5.20.",
+    "T.O.5.21.",
+    "T.O.5.22.",
+    "T.K.5.2.",
+    "T.K.5.5.",
+    "T.K.5.11.",
+    "T.K.5.12.",
+    "T.K.5.17.",
+    "T.Y.5.2.",
+    "T.Y.5.3.",
+    "T.Y.5.7.",
+    "T.Y.5.10.",
+    "T.Y.5.12.",
+    "T.Y.5.16.",
+    "T.Y.5.17."
+   ]
+  },
+  {
+   "islenis_sirasi": 5,
+   "ad": "İLETİŞİM VE SOSYAL İLİŞKİLER",
+   "ders_saati": 34,
+   "sayfa": 80,
+   "kodlar": [
+    "T.D.5.2.",
+    "T.D.5.4.",
+    "T.D.5.7.",
+    "T.D.5.8.",
+    "T.D.5.16.",
+    "T.D.5.17.",
+    "T.D.5.19.",
+    "T.D.5.20.",
+    "T.O.5.1.",
+    "T.O.5.3.",
+    "T.O.5.5.",
+    "T.O.5.8.",
+    "T.O.5.9.",
+    "T.O.5.12.",
+    "T.O.5.20.",
+    "T.K.5.4.",
+    "T.K.5.10.",
+    "T.K.5.13.",
+    "T.K.5.18.",
+    "T.K.5.19.",
+    "T.K.5.21.",
+    "T.Y.5.2.",
+    "T.Y.5.3.",
+    "T.Y.5.9.",
+    "T.Y.5.13.",
+    "T.Y.5.14.",
+    "T.Y.5.16."
+   ]
+  },
+  {
+   "islenis_sirasi": 6,
+   "ad": "SAĞLIKLI YAŞIYORUM",
+   "ders_saati": 34,
+   "sayfa": 85,
+   "kodlar": [
+    "T.D.5.1.",
+    "T.D.5.4.",
+    "T.D.5.7.",
+    "T.D.5.12.",
+    "T.D.5.17.",
+    "T.D.5.20.",
+    "T.O.5.3.",
+    "T.O.5.5.",
+    "T.O.5.9.",
+    "T.O.5.14.",
+    "T.O.5.20.",
+    "T.O.5.22.",
+    "T.K.5.14.",
+    "T.K.5.15.",
+    "T.K.5.17.",
+    "T.K.5.21.",
+    "T.Y.5.1.",
+    "T.Y.5.2.",
+    "T.Y.5.3.",
+    "T.Y.5.11.",
+    "T.Y.5.13.",
+    "T.Y.5.15.",
+    "T.Y.5.16.",
+    "T.Y.5.17."
+   ]
+  }
+ ],
+ "ciktilar": [
+  {
+   "kod": "T.D.5.1.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlemede/izlemede materyal seçimini yönetebilme",
+   "plan_haftalari": [
+    6,
+    10,
+    19,
+    23,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.10.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğini/izlediğini yorumlayabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.11.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Öyküleyici metinde hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.12.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Bilgilendirici metinde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.13.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğinin/izlediğinin anahtar kelimelerini belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.14.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğinin/izlediğinin bölümlerini belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.15.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.16.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğindeki/izlediğindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.17.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğinden/izlediğinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.18.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Çoklu ortam ögelerine yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.19.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğini/izlediğini özetleyebilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.2.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlemede/izlemede strateji, yöntem ve teknik seçimlerini yönetebilme",
+   "plan_haftalari": [
+    6,
+    10,
+    13,
+    19,
+    23,
+    25
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.20.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinleme/izleme sürecini değerlendirebilme",
+   "plan_haftalari": [
+    13,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.3.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinleyeceğinin/izleyeceğinin içeriğine yönelik tahminde bulunabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.4.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğinde/izlediğinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.5.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğinin/izlediğinin yüzey anlamını belirleyebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.6.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Basit çıkarımlar yoluyla dinlediğinin/izlediğinin derin anlamını belirleyebilme",
+   "plan_haftalari": [
+    13,
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.7.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Üst düzey çıkarımlar yoluyla dinlediğinin/izlediğinin derin anlamını belirleyebilme",
+   "plan_haftalari": [
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.8.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediklerini/izlediklerini karşılaştırabilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.D.5.9.",
+   "beceri_alani": "Dinleme/İzleme",
+   "metin": "Dinlediğindeki/izlediğindeki unsurları sınıflandırabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/dinleme-izleme.json"
+  },
+  {
+   "kod": "T.K.5.1.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşma sürecini yönetebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.10.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında karşılaştırma yapabilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.11.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında sınıflandırma yapabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.12.",
+   "beceri_alani": "Konuşma",
+   "metin": "Yorumunu sözlü olarak ifade edebilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.13.",
+   "beceri_alani": "Konuşma",
+   "metin": "Sözlü olarak özetleyebilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.14.",
+   "beceri_alani": "Konuşma",
+   "metin": "Sözlü olarak tartışabilme",
+   "plan_haftalari": [
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.15.",
+   "beceri_alani": "Konuşma",
+   "metin": "Hazırlıklı konuşmasını yapılandırabilme",
+   "plan_haftalari": [
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.16.",
+   "beceri_alani": "Konuşma",
+   "metin": "Düşünceyi geliştirme yollarını kullanarak konuşmasını yapılandırabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.17.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasını zenginleştirecek biçimde söz varlığını kullanabilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    19,
+    23,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.18.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında açık ve örtük ifadeleri kullanabilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.19.",
+   "beceri_alani": "Konuşma",
+   "metin": "Uygun bağlantı ifadelerini kullanabilme",
+   "plan_haftalari": [
+    6,
+    10,
+    13,
+    25
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.2.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmada yöntem ve teknik seçimlerini yönetebilme",
+   "plan_haftalari": [
+    6,
+    10,
+    13,
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.20.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında beden dilini kullanabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.21.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşma sürecini değerlendirebilme",
+   "plan_haftalari": [
+    13,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.3.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında amaç ve içeriğe yönelik seçimlerini yönetebilme",
+   "plan_haftalari": [
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.4.",
+   "beceri_alani": "Konuşma",
+   "metin": "İletişimi sürdürmek amacıyla soru sorabilme",
+   "plan_haftalari": [
+    13,
+    25
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.5.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında çoklu ortam ögeleriyle içerik oluşturabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.6.",
+   "beceri_alani": "Konuşma",
+   "metin": "Yaratıcı konuşma yapabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.7.",
+   "beceri_alani": "Konuşma",
+   "metin": "Hazırlıksız konuşma yapabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.8.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında sesini uygun şekilde kullanabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.K.5.9.",
+   "beceri_alani": "Konuşma",
+   "metin": "Konuşmasında tahminlerinden yararlanabilme",
+   "plan_haftalari": [
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/konusma.json"
+  },
+  {
+   "kod": "T.O.5.1.",
+   "beceri_alani": "Okuma",
+   "metin": "Okumada materyal seçimini yönetebilme",
+   "plan_haftalari": [
+    6,
+    10,
+    13,
+    25
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.10.",
+   "beceri_alani": "Okuma",
+   "metin": "Okuduklarını karşılaştırabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.11.",
+   "beceri_alani": "Okuma",
+   "metin": "Metindeki unsurları sınıflandırabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.12.",
+   "beceri_alani": "Okuma",
+   "metin": "Metni yorumlayabilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.13.",
+   "beceri_alani": "Okuma",
+   "metin": "Öyküleyici metinde hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.14.",
+   "beceri_alani": "Okuma",
+   "metin": "Bilgilendirici metinde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.15.",
+   "beceri_alani": "Okuma",
+   "metin": "Metnin anahtar kelimelerini belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.16.",
+   "beceri_alani": "Okuma",
+   "metin": "Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.17.",
+   "beceri_alani": "Okuma",
+   "metin": "Şiirin biçim özelliklerini belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.18.",
+   "beceri_alani": "Okuma",
+   "metin": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.19.",
+   "beceri_alani": "Okuma",
+   "metin": "Metindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.2.",
+   "beceri_alani": "Okuma",
+   "metin": "Akıcı okuyabilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.20.",
+   "beceri_alani": "Okuma",
+   "metin": "Metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.21.",
+   "beceri_alani": "Okuma",
+   "metin": "Okuduğunu özetleyebilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.22.",
+   "beceri_alani": "Okuma",
+   "metin": "Okuma sürecini değerlendirebilme",
+   "plan_haftalari": [
+    6,
+    10,
+    19,
+    23,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.3.",
+   "beceri_alani": "Okuma",
+   "metin": "Okumada strateji, yöntem ve teknik seçimlerini yönetebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.4.",
+   "beceri_alani": "Okuma",
+   "metin": "Okuyacağı metnin içeriğine yönelik tahminde bulunabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.5.",
+   "beceri_alani": "Okuma",
+   "metin": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.6.",
+   "beceri_alani": "Okuma",
+   "metin": "Metnin yüzey anlamını belirleyebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.7.",
+   "beceri_alani": "Okuma",
+   "metin": "Görselle iletilen anlamı belirleyebilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.8.",
+   "beceri_alani": "Okuma",
+   "metin": "Basit çıkarımlar yoluyla metnin derin anlamını belirleyebilme",
+   "plan_haftalari": [
+    19,
+    23,
+    25
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.O.5.9.",
+   "beceri_alani": "Okuma",
+   "metin": "Üst düzey çıkarımlar yoluyla metnin derin anlamını belirleyebilme",
+   "plan_haftalari": [
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/okuma.json"
+  },
+  {
+   "kod": "T.Y.5.1.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazma sürecini yönetebilme",
+   "plan_haftalari": [
+    1,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.10.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazılı olarak özetleyebilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.11.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazılı üretiminde ve yazılı etkileşiminde tartışabilme",
+   "plan_haftalari": [
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.12.",
+   "beceri_alani": "Yazma",
+   "metin": "Düşünceyi geliştirme yollarını kullanarak metni yapılandırabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.13.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazısını zenginleştirecek biçimde söz varlığını kullanabilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.14.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazısında açık ve örtük ifadeleri kullanabilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.15.",
+   "beceri_alani": "Yazma",
+   "metin": "Uygun bağlantı ifadelerini kullanabilme",
+   "plan_haftalari": [
+    6,
+    10,
+    13,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.16.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazım ve noktalama işaretleriyle ilgili kuralları uygulayabilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.17.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazma sürecini değerlendirebilme",
+   "plan_haftalari": [
+    6,
+    10,
+    19,
+    23,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.2.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazmada strateji, yöntem ve teknik seçimlerini yönetebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.3.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme",
+   "plan_haftalari": [
+    1,
+    6,
+    10,
+    13,
+    19,
+    23,
+    25,
+    31,
+    32
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.4.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazısında çoklu ortam ögeleriyle içerik oluşturabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.5.",
+   "beceri_alani": "Yazma",
+   "metin": "Yaratıcı yazı yazabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.6.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazılı üretim ve yazılı etkileşiminde tahminlerinden yararlanabilme",
+   "plan_haftalari": [
+    1
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.7.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazısında karşılaştırma yapabilme",
+   "plan_haftalari": [
+    19,
+    23
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.8.",
+   "beceri_alani": "Yazma",
+   "metin": "Yazısında sınıflandırma yapabilme",
+   "plan_haftalari": [
+    13
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  },
+  {
+   "kod": "T.Y.5.9.",
+   "beceri_alani": "Yazma",
+   "metin": "Yorumunu yazılı olarak ifade edebilme",
+   "plan_haftalari": [
+    25
+   ],
+   "bilesen_dosyasi": "5/yazma.json"
+  }
+ ]
+}

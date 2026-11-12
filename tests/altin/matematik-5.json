@@ -1,0 +1,43 @@
+{
+  "aciklama": "Doğrulanmış soru-eşleştirme örnekleri (altın set). Soru görselleri repoda tutulmaz; yalnızca kısa özet saklanır.",
+  "ders": "Matematik",
+  "sinif": 5,
+  "kaynaklar": [
+    {
+      "ad": "Süreç Değerlendirme 1 - A",
+      "deneme": "5. Sınıf / Süreç Değerlendirme - 1 (Matematik Testi, 15 soru)",
+      "kitapcik": "A",
+      "dogrulama": "Yayınevi kazanım tablosu (kullanıcı sağladı), 2026-11-12. Tabloda soru başına tek süreç bileşeni var.",
+      "sorular": [
+        {"no": 1, "ozet": "Okunuşu verilen doğru, doğru parçası, ışınlardan hangisinin çizimi değildir.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"]},
+        {"no": 2, "ozet": "Eşyalardan kaçında cetvelle ölçülebilecek doğru parçası modeli vardır.", "cikti": "MAT.5.3.1.", "bilesenler": ["a"]},
+        {"no": 3, "ozet": "Logoyu aynı ölçülerde çizmek için hangi araçlar yeterlidir (cetvel ve pergel).", "cikti": "MAT.5.3.1.", "bilesenler": ["b"]},
+        {"no": 4, "ozet": "Cetvelle ölçülen uzunluğun sembolle gösterimi (|AB| = 5 cm) seçenekler arasından seçiliyor.", "cikti": "MAT.5.3.1.", "bilesenler": ["b"], "ilk_tahmin": "MAT.5.3.1. c"},
+        {"no": 5, "ozet": "Çizgeç yerine kullanılamayacak eşya.", "cikti": "MAT.5.3.1.", "bilesenler": ["a"]},
+        {"no": 6, "ozet": "Kolları TK ve TS, köşesi T olan açının çizimi.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"]},
+        {"no": 7, "ozet": "Açıların sembolle gösterimlerinden hangisi yanlıştır.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"]},
+        {"no": 8, "ozet": "Açıölçer üzerinde MSR açısının ölçüsü.", "cikti": "MAT.5.3.3.", "bilesenler": ["c"]},
+        {"no": 9, "ozet": "Cetvel üzerinde açıklığı gösterilen pergelle çizilebilecek çember.", "cikti": "MAT.5.3.1.", "bilesenler": ["c"]},
+        {"no": 10, "ozet": "Ev cephesinin kenarlarından geçen doğrular için paralellik/diklik ifadelerinden hangisi yanlıştır.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"], "ilk_tahmin": "MAT.5.3.4. b"},
+        {"no": 11, "ozet": "Pergelle ışın üzerinde ardışık eşit doğru parçaları; uzunluklardan hangisi yanlıştır.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"]},
+        {"no": 12, "ozet": "Gönye ile doğruya dışındaki noktadan çizilen dikmelerden hangileri doğrudur.", "cikti": "MAT.5.3.1.", "bilesenler": ["c"]},
+        {"no": 13, "ozet": "Görev kartları (uzunluk ölçme, açı ölçme, çizgi çizme, dikme çizme) ile araç eşleştirme.", "cikti": "MAT.5.3.1.", "bilesenler": ["b"]},
+        {"no": 14, "ozet": "Nokta, doğru parçası ve çemberle yapılan isim tasarımında hangi şeklin kullanıldığı söylenemez.", "cikti": "MAT.5.3.2.", "bilesenler": ["a"], "ilk_tahmin": "MAT.5.3.2. b"},
+        {"no": 15, "ozet": "İsim tasarımında hangi harflerde birbirine dik doğru parçaları kullanılmamıştır.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"], "ilk_tahmin": "MAT.5.3.4. b"}
+      ]
+    },
+    {
+      "ad": "Süreç Değerlendirme 1 - B (ilk 4 soru)",
+      "deneme": "5. Sınıf / Süreç Değerlendirme - 1 (Matematik Testi)",
+      "kitapcik": "B",
+      "dogrulama": "Kullanıcı, 2026-11-12; A kitapçığı yayınevi tablosuyla tek bileşene indirildi.",
+      "not": "A kitapçığı karşılıkları: B1=A5, B2=A6, B3=A1, B4=A2.",
+      "sorular": [
+        {"no": 1, "ozet": "Çizgeç yerine kullanılamayacak eşya.", "cikti": "MAT.5.3.1.", "bilesenler": ["a"]},
+        {"no": 2, "ozet": "Kolları TK ve TS, köşesi T olan açının çizimi.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"]},
+        {"no": 3, "ozet": "Okunuşu verilen doğru, doğru parçası, ışınlardan hangisinin çizimi değildir.", "cikti": "MAT.5.3.2.", "bilesenler": ["b"]},
+        {"no": 4, "ozet": "Eşyalardan kaçında cetvelle ölçülebilecek doğru parçası modeli vardır.", "cikti": "MAT.5.3.1.", "bilesenler": ["a"], "ilk_tahmin": "MAT.5.3.2. b"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "ders": "Fen Bilimleri",
+  "sinif": 6,
+  "kaynak_pdf": "fen-bilimleri-dersi_20260902_111309_119.pdf",
+  "not": "sayfa alanları PDF sayfa numarasıdır.",
+  "kaynak_notlari": [],
+  "temalar": [
+    {
+      "islenis_sirasi": 1,
+      "ad": "GÜNEŞ SİSTEMİ VE TUTULMALAR",
+      "ders_saati": 12,
+      "sayfa": 111,
+      "ciktilar": [
+        {
+          "kod": "FB.6.1.1.",
+          "sayfa": 112,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Güneş sistemindeki gezegenlerin niteliklerini belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Güneş sistemindeki gezegenleri niteliklerine göre ayrıştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Güneş sistemindeki gezegenleri niteliklerine göre gruplandırır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Güneş sistemindeki gezegenleri niteliklerine göre etiketler."
+            }
+          ],
+          "metin": "Güneş sistemindeki gezegenleri niteliklerine göre sınıflandırabilme",
+          "plan_haftalari": [
+            1
+          ]
+        },
+        {
+          "kod": "FB.6.1.2.",
+          "sayfa": 112,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Güneş sistemi ile ilgili bir model önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Güneş sistemi ile ilgili hazırladığı modelini yeni kanıtlarla yeniler."
+            }
+          ],
+          "metin": "Güneş sistemi ile ilgili bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            2
+          ]
+        },
+        {
+          "kod": "FB.6.1.3.",
+          "sayfa": 112,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Güneş ve Ay tutulmasının niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Güneş ve Ay tutulması ile ilgili veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Güneş ve Ay tutulmasını değerlendirir."
+            }
+          ],
+          "metin": "Güneş ve Ay tutulması ile ilgili bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            2,
+            3
+          ]
+        },
+        {
+          "kod": "FB.6.1.4.",
+          "sayfa": 112,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Güneş ve Ay tutulması ile ilgili model önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Güneş ve Ay tutulması ile ilgili modelini yeni kanıtlarla yeniler."
+            }
+          ],
+          "metin": "Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 2,
+      "ad": "KUVVETİN ETKİSİNDE HAREKET",
+      "ders_saati": 14,
+      "sayfa": 115,
+      "ciktilar": [
+        {
+          "kod": "FB.6.2.1.",
+          "sayfa": 116,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bir cisme etki eden aynı doğrultudaki kuvvetleri inceleyerek aralarındaki mantıksal ilişkileri ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri bileşke kuvveti olarak açıklar."
+            }
+          ],
+          "metin": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme",
+          "plan_haftalari": [
+            4
+          ]
+        },
+        {
+          "kod": "FB.6.2.2.",
+          "sayfa": 116,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Dengelenmiş ve dengelenmemiş kuvvetlerin bir cismin hareketine etkisini gösteren deney düzeneği tasarlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Deney ile ilgili ölçme ve veri analizi yapar."
+            }
+          ],
+          "metin": "Dengelenmiş ve dengelenmemiş kuvvetlerin etkisi altındaki bir cismin hareketine yönelik deney yapabilme",
+          "plan_haftalari": [
+            5
+          ]
+        },
+        {
+          "kod": "FB.6.2.3.",
+          "sayfa": 116,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Sürat ve hız kavramlarına ilişkin özellikleri belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Sürat ve hız kavramlarına ilişkin benzerlikleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Sürat ve hız kavramlarına ilişkin farklılıkları listeler."
+            }
+          ],
+          "metin": "Sürat ve hız kavramlarını karşılaştırabilme",
+          "plan_haftalari": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 3,
+      "ad": "CANLILARDA SİSTEMLER",
+      "ders_saati": 22,
+      "sayfa": 119,
+      "ciktilar": [
+        {
+          "kod": "FB.6.3.1.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Eşeyli ve eşeysiz üreme ile ilgili özellikleri belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Eşeyli ve eşeysiz üreme ile benzerlikleri listeler."
+            },
+            {
+              "harf": "c",
+              "metin": "Eşeyli ve eşeysiz üreme ile ilgili farklılıkları listeler."
+            }
+          ],
+          "metin": "Eşeyli ve eşeysiz üremeyi karşılaştırabilme",
+          "plan_haftalari": [
+            7
+          ]
+        },
+        {
+          "kod": "FB.6.3.2.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ait nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin verileri yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Bitkilerde üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            8
+          ]
+        },
+        {
+          "kod": "FB.6.3.3.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Tohumun çimlenmesine etki eden faktörleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Tohumun çimlenmesine etki eden faktörlerin neden sonuç ilişkilerini belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Tohumun çimlenmesine etki eden faktörlere ait değişkenleri belirler."
+            },
+            {
+              "harf": "ç",
+              "metin": "Tohumun çimlenmesine etki eden faktörlere ait belirlediği değişkenleri kontrol eder."
+            },
+            {
+              "harf": "d",
+              "metin": "Tohumun çimlenmesine etki eden faktörlere ait önerme sunar."
+            }
+          ],
+          "metin": "Tohumun çimlenmesine etki eden faktörlere ilişkin hipotez oluşturabilme",
+          "plan_haftalari": [
+            9
+          ]
+        },
+        {
+          "kod": "FB.6.3.4.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Hayvanlarda üreme, büyüme ve gelişmeye etki eden temel faktörlere ait nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Hayvanlarda üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Hayvanlarda üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin verileri yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Hayvanlarda üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            10
+          ]
+        },
+        {
+          "kod": "FB.6.3.5.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "İnsanda üremeyi sağlayan yapı ve organları poster/şema üzerinde belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri belirler."
+            }
+          ],
+          "metin": "İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme",
+          "plan_haftalari": [
+            10
+          ]
+        },
+        {
+          "kod": "FB.6.3.6.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Sinir sisteminin özelliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Sinir sistemini model üzerinde inceler."
+            },
+            {
+              "harf": "c",
+              "metin": "Sinir sisteminin görevlerini açıklar."
+            }
+          ],
+          "metin": "Sinir sisteminin görevlerini model üzerinde bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            11
+          ]
+        },
+        {
+          "kod": "FB.6.3.7.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "İç salgı bezlerini inceleyerek mantıksal ilişkiler ortaya koyar."
+            },
+            {
+              "harf": "b",
+              "metin": "İç salgı bezlerinin vücut için önemini uyumlu bir bütün olarak açıklar."
+            }
+          ],
+          "metin": "İç salgı bezlerinin vücut için önemini yapılandırabilme",
+          "plan_haftalari": [
+            12
+          ]
+        },
+        {
+          "kod": "FB.6.3.8.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Çocukluktan ergenliğe geçişte oluşan değişimler hakkında bilgi toplar."
+            },
+            {
+              "harf": "b",
+              "metin": "Çocukluktan ergenliğe geçişte oluşan değişimlerden ortak olanları belirler."
+            },
+            {
+              "harf": "c",
+              "metin": "Çocukluktan ergenliğe geçişte oluşan değişimlerden ortak olmayanları belirler."
+            },
+            {
+              "harf": "ç",
+              "metin": "Çocukluktan ergenliğe geçişte oluşan değişimlerle ilgili örüntüler üzerinden genellemede bulunur."
+            }
+          ],
+          "metin": "Çocukluktan ergenliğe geçişte oluşan bedensel ve ruhsal değişimleri genelleyebilme",
+          "plan_haftalari": [
+            12
+          ]
+        },
+        {
+          "kod": "FB.6.3.9.",
+          "sayfa": 120,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Denetleyici ve düzenleyici sistemlerin sağlığı ile ilgili bilgiye ulaşmak için kullanacağı araçları belirler."
+            },
+            {
+              "harf": "b",
+              "metin": "Denetleyici ve düzenleyici sağlığı hakkında bilgiler bulur."
+            },
+            {
+              "harf": "c",
+              "metin": "Denetleyici ve düzenleyici sağlığı konusunda bulduğu bilgileri doğrular."
+            },
+            {
+              "harf": "ç",
+              "metin": "Denetleyici ve düzenleyici sağlığı konusunda ulaştığı bilgileri kaydeder."
+            }
+          ],
+          "metin": "Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme",
+          "plan_haftalari": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 4,
+      "ad": "IŞIĞIN YANSIMASI VE RENKLER",
+      "ders_saati": 22,
+      "sayfa": 126,
+      "ciktilar": [
+        {
+          "kod": "FB.6.4.1.",
+          "sayfa": 127,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Işığın farklı yüzeylerdeki yansıma olaylarının niteliklerini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Işığın farklı yüzeylerdeki yansıma olayları ile ilgili veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Işığın farklı yüzeylerdeki yansımasını düzgün ve dağınık yansıma olarak yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Işığın farklı yüzeylerdeki yansıma olaylarına ilişkin bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            13
+          ]
+        },
+        {
+          "kod": "FB.6.4.2.",
+          "sayfa": 127,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Işığın yansımasına ilişkin deneysel verileri kaydeder."
+            },
+            {
+              "harf": "b",
+              "metin": "Işığın yansımasına ilişkin veri setleri oluşturur."
+            },
+            {
+              "harf": "c",
+              "metin": "Işığın yansımasına dair topladığı verilere dayalı açıklama yapar."
+            }
+          ],
+          "metin": "Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki ilişki ile ilgili kanıt kullanabilme",
+          "plan_haftalari": [
+            14
+          ]
+        },
+        {
+          "kod": "FB.6.4.3.",
+          "sayfa": 127,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ayna çeşitlerinin niteliklerini deneyerek tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Ayna çeşitlerini kullanarak özelliklerine yönelik veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Günlük yaşamdaki aynaları düz, çukur ve tümsek ayna olarak özelliklerine göre yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Günlük hayattaki ayna çeşitlerine ilişkin bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            15
+          ]
+        },
+        {
+          "kod": "FB.6.4.4.",
+          "sayfa": 127,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Işığın madde ile etkileşimine yönelik nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Işığın madde ile etkileşimine yönelik topladığı verileri kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Işığın madde tarafından soğurulabileceğini elde ettiği veriler doğrultusunda açıklar."
+            }
+          ],
+          "metin": "Işığın madde ile etkileşimi sonucunda soğurulabileceğini bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            16
+          ]
+        },
+        {
+          "kod": "FB.6.4.5.",
+          "sayfa": 127,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Beyaz ışığı oluşturan nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Beyaz ışığın oluşumuna ilişkin topladığı verileri kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Beyaz ışığın oluşumuna dair verileri yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Beyaz ışığın tüm ışık renklerinin bileşiminden oluştuğuna ilişkin bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            17
+          ]
+        },
+        {
+          "kod": "FB.6.4.6.",
+          "sayfa": 127,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Cisimlerin siyah, beyaz ve renkli görünmesine yönelik nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Cisimlerin siyah, beyaz ve renkli görünmesine yönelik veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Cisimlerin siyah, beyaz ve renkli görünmesine yönelik verileri açıklar."
+            }
+          ],
+          "metin": "Cisimlerin siyah, beyaz ve renkli görünmesini bilimsel olarak gözlemleyebilme",
+          "plan_haftalari": [
+            18
+          ]
+        },
+        {
+          "kod": "FB.6.4.7.",
+          "sayfa": 127,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Güneş enerjisinin günlük yaşam ve teknolojideki yenilikçi uygulamalarına ilişkin fikirleri sorgular."
+            },
+            {
+              "harf": "b",
+              "metin": "Güneş enerjisinin günlük yaşam ve teknolojideki yenilikçi uygulamalarına ilişkin akıl yürütür."
+            },
+            {
+              "harf": "c",
+              "metin": "Güneş enerjisinin günlük yaşam ve teknolojideki yenilikçi uygulamalarına ilişkin ulaştığı çıkarımları yansıtır."
+            }
+          ],
+          "metin": "Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme",
+          "plan_haftalari": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 5,
+      "ad": "MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "ders_saati": 32,
+      "sayfa": 131,
+      "ciktilar": [
+        {
+          "kod": "FB.6.5.1.",
+          "sayfa": 132,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Ön bilgi ve deneyimiyle maddelerin genleşip büzüleceğine yönelik önerme oluşturur."
+            },
+            {
+              "harf": "b",
+              "metin": "Gözleme dayalı olan ve olmayan günlük yaşam ile ilişkili önermeleri karşılaştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Tahminlerini temellendirmek için gözlem verilerinden sonuç çıkarır."
+            },
+            {
+              "harf": "ç",
+              "metin": "Günlük yaşam ile ilişkili gözlemlenmemiş duruma ilişkin tahminde bulunur."
+            },
+            {
+              "harf": "d",
+              "metin": "Tahminlerin geçerliğini sorgular."
+            }
+          ],
+          "metin": "Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı tahmin edebilme",
+          "plan_haftalari": [
+            19,
+            20
+          ]
+        },
+        {
+          "kod": "FB.6.5.2.",
+          "sayfa": 132,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Maddelerin erime, donma ve kaynama noktasını gösteren deney tasarlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Deney ile ilgili ölçme ve veri analizi yapar."
+            }
+          ],
+          "metin": "Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme",
+          "plan_haftalari": [
+            21,
+            22
+          ]
+        },
+        {
+          "kod": "FB.6.5.3.",
+          "sayfa": 132,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yoğunluğa ilişkin verilere veya ön bilgilerine dayalı önerme oluşturur."
+            },
+            {
+              "harf": "b",
+              "metin": "Yoğunluğa ilişkin veriye dayalı ve dayalı olmayan önermeleri karşılaştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Yoğunluğa ilişkin hesaplama ve tahmin yapar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Tahminlerin geçerliğini sorgular."
+            }
+          ],
+          "metin": "Yoğunluğa ilişkin hesaplamalar yaparak bilimsel veriye dayalı tahmin edebilme",
+          "plan_haftalari": [
+            23,
+            24
+          ]
+        },
+        {
+          "kod": "FB.6.5.4.",
+          "sayfa": 132,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Çeşitli maddelerin yoğunluklarına ilişkin hipotezler kurarak test eder."
+            },
+            {
+              "harf": "b",
+              "metin": "Geçerli hipotezleri yeni durumları açıklamak için kullanır."
+            }
+          ],
+          "metin": "Deneyler sonucunda çeşitli maddelerin yoğunluklarına ilişkin tümdengelimsel akıl yürütebilme",
+          "plan_haftalari": [
+            25
+          ]
+        },
+        {
+          "kod": "FB.6.5.5.",
+          "sayfa": 132,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Suyun katı ve sıvı hâlleri ile ilgili nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Suyun katı ve sıvı hâllerine ait yoğunlukları ile ilgili veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Suyun katı ve sıvı hâllerine ait yoğunluk farkının canlılar için önemli olduğunu yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme",
+          "plan_haftalari": [
+            26
+          ]
+        },
+        {
+          "kod": "FB.6.5.6.",
+          "sayfa": 132,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yoğunluk ile ilgili model önerir."
+            },
+            {
+              "harf": "b",
+              "metin": "Yeni kanıtlarla modeli yeniler."
+            }
+          ],
+          "metin": "Yoğunluk ile ilgili bilimsel model oluşturabilme",
+          "plan_haftalari": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 6,
+      "ad": "ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+      "ders_saati": 18,
+      "sayfa": 137,
+      "ciktilar": [
+        {
+          "kod": "FB.6.6.1.",
+          "sayfa": 138,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Maddelerin iletme durumlarını test etmek için elektrik devresi tasarlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Deney ile ilgili ölçme ve veri analizi yapar."
+            }
+          ],
+          "metin": "Maddelerin elektriği iletme durumlarını gösteren deney yapabilme",
+          "plan_haftalari": [
+            27,
+            28
+          ]
+        },
+        {
+          "kod": "FB.6.6.2.",
+          "sayfa": 138,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirleyebilecek bir deney tasarlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Deney ile ilgili ölçme ve veri analizi yapar."
+            }
+          ],
+          "metin": "Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme",
+          "plan_haftalari": [
+            29,
+            30
+          ]
+        },
+        {
+          "kod": "FB.6.6.3.",
+          "sayfa": 138,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Reosta kullanarak elektriksel dirence ait nitelikleri tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Direncin değişkenliğini dikkate alarak veri toplar ve kaydeder."
+            },
+            {
+              "harf": "c",
+              "metin": "Ampulün parlaklığı üzerinde elektriksel direncin etkili olduğunu yorumlar ve değerlendirir."
+            }
+          ],
+          "metin": "Ayarlanabilir direncin ampulün parlaklığına etkilerine yönelik bilimsel çıkarım yapabilme",
+          "plan_haftalari": [
+            31,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "islenis_sirasi": 7,
+      "ad": "SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+      "ders_saati": 18,
+      "sayfa": 141,
+      "ciktilar": [
+        {
+          "kod": "FB.6.7.1.",
+          "sayfa": 142,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Biyoçeşitliliğin doğal yaşam için önemini tanımlar."
+            },
+            {
+              "harf": "b",
+              "metin": "Biyoçeşitliliğin doğal yaşam için önemine ilişkin sorular sorar."
+            },
+            {
+              "harf": "c",
+              "metin": "Biyoçeşitliliğin doğal yaşam için önemi konusunda bilgi toplar."
+            },
+            {
+              "harf": "ç",
+              "metin": "Biyoçeşitliliğin doğal yaşam için önemi konusunda toplanan bilgilerin doğruluğunu değerlendirir."
+            },
+            {
+              "harf": "d",
+              "metin": "Biyoçeşitliliğin doğal yaşam için önemi konusunda toplanan bilgiler üzerinde çıkarım yapar."
+            }
+          ],
+          "metin": "Biyoçeşitliliğin doğal yaşam için önemini sorgulayabilme",
+          "plan_haftalari": [
+            32,
+            33
+          ]
+        },
+        {
+          "kod": "FB.6.7.2.",
+          "sayfa": 142,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Biyoçeşitliliği tehdit eden faktörler konusunda ön bilgilere dayalı önerme oluşturur."
+            },
+            {
+              "harf": "b",
+              "metin": "Biyoçeşitliliği tehdit eden faktörler konusunda veriye dayalı olan ve dayalı olmayan önermeleri karşılaştırır."
+            },
+            {
+              "harf": "c",
+              "metin": "Biyoçeşitliliği tehdit eden faktörler konusunda tahminde bulunur."
+            },
+            {
+              "harf": "ç",
+              "metin": "Biyoçeşitliliği tehdit eden faktörler konusunda tahminlerin geçerliğini sorgular."
+            }
+          ],
+          "metin": "Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme",
+          "plan_haftalari": [
+            33,
+            34
+          ]
+        },
+        {
+          "kod": "FB.6.7.3.",
+          "sayfa": 142,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Isınma amaçlı yakıt kullanımının insan ve çevre üzerine etkisine yönelik mantıksal temellendirme yapar."
+            },
+            {
+              "harf": "b",
+              "metin": "Isınma amaçlı yakıt kullanımının insan ve çevre üzerine etkisine yönelik mantıksal çelişkileri tespit eder."
+            },
+            {
+              "harf": "c",
+              "metin": "Isınma amaçlı yakıt kullanımının insan ve çevre üzerine etkisi konusunda geçerli fikirleri kabul eder."
+            }
+          ],
+          "metin": "Isınma amaçlı yakıt kullanımının insan ve çevre üzerine etkilerini tartışabilme",
+          "plan_haftalari": [
+            35
+          ]
+        },
+        {
+          "kod": "FB.6.7.4.",
+          "sayfa": 142,
+          "surec_bilesenleri": [
+            {
+              "harf": "a",
+              "metin": "Yakın çevresindeki veya ülkemizdeki bir çevre sorununu yapılandırır."
+            },
+            {
+              "harf": "b",
+              "metin": "Yakın çevresindeki veya ülkemizdeki bir çevre sorununu özetler."
+            },
+            {
+              "harf": "c",
+              "metin": "Yakın çevresindeki veya ülkemizdeki bir çevre sorununun çözümüne yönelik veriye dayalı tahmin eder."
+            },
+            {
+              "harf": "ç",
+              "metin": "Yakın çevresindeki veya ülkemizdeki bir çevre sorununa yönelik önermeler üzerinden akıl yürütür."
+            },
+            {
+              "harf": "d",
+              "metin": "Yakın çevresindeki veya ülkemizdeki bir çevre sorununun çözümüne ilişkin değerlendirme yapar."
+            }
+          ],
+          "metin": "Yakın çevresindeki veya ülkemizdeki bir çevre problemini çözebilme",
+          "plan_haftalari": [
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "plan": {
+    "kaynak": "FEN BİLİMLERİ  (3-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx",
+    "sayfa": "FEN BİLİMLERİ 6 (TYMM)",
+    "haftalar": {
+      "1": "14-18 Eylül",
+      "2": "21-25 Eylül",
+      "3": "28 Eylül-2 Ekim",
+      "4": "5-9 Ekim",
+      "5": "12-16 Ekim",
+      "6": "19-23 Ekim",
+      "7": "26-30 Ekim",
+      "8": "2-6 Kasım",
+      "9": "9-13 Kasım",
+      "10": "23-27 Kasım",
+      "11": "30 Kasım- 4 Aralık",
+      "12": "7-11 Aralık",
+      "13": "14-18 Aralık",
+      "14": "21-25 Aralık",
+      "15": "28 Aralık-1 Ocak",
+      "16": "4-8 Ocak",
+      "17": "11-15 Ocak",
+      "18": "18-22 Ocak",
+      "19": "8-12 Şubat",
+      "20": "15-19 Şubat",
+      "21": "22-26 Şubat",
+      "22": "1-5 Mart",
+      "23": "15-19 Mart",
+      "24": "22-26 Mart",
+      "25": "29 Mart-2 Nisan",
+      "26": "5-9 Nisan",
+      "27": "12-16 Nisan",
+      "28": "19-23 Nisan",
+      "29": "26-30 Nisan",
+      "30": "3-7 Mayıs",
+      "31": "10-14 Mayıs",
+      "32": "17-21 Mayıs",
+      "33": "24-28 Mayıs",
+      "34": "31 Mayıs-4 Haziran",
+      "35": "7-11 Haziran",
+      "36": "14-18 Haziran",
+      "37": "21-25 Haziran"
+    }
+  }
+}

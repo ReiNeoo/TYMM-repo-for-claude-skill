@@ -1,0 +1,356 @@
+{
+ "ders": "Türkçe",
+ "sinif": 5,
+ "parca": "okuma",
+ "ciktilar": [
+  {
+   "kod": "T.O.5.1.",
+   "metin": "Okumada materyal seçimini yönetebilme",
+   "tablo9_sayfa": 38,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Amacı, ilgi ve ihtiyaçları, materyalin özellikleri, faaliyetin süresi ve bilgiye erişim olanaklarını analiz ederek görüş oluşturur."
+    },
+    {
+     "harf": "b",
+     "metin": "Analiz sonuçları doğrultusunda metin ve diğer yardımcı materyalleri (sözlük, genel ağ, çalışma kâğıdı, grafik organize edici vb.) seçer."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.10.",
+   "metin": "Okuduklarını karşılaştırabilme",
+   "tablo9_sayfa": 40,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Karşılaştırılabilir unsurlara ilişkin özellikleri belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Belirlediği özelliklerdeki benzerlikleri listeler."
+    },
+    {
+     "harf": "c",
+     "metin": "Belirlediği özelliklerdeki farklılıkları listeler."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.11.",
+   "metin": "Metindeki unsurları sınıflandırabilme",
+   "tablo9_sayfa": 40,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Sınıflandırma ölçütüne karar verir."
+    },
+    {
+     "harf": "b",
+     "metin": "Metni ölçüte göre inceler."
+    },
+    {
+     "harf": "c",
+     "metin": "Metindeki unsurları ölçüte göre gruplandırır."
+    },
+    {
+     "harf": "ç",
+     "metin": "Oluşturulan grupları adlandırır."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.12.",
+   "metin": "Metni yorumlayabilme",
+   "tablo9_sayfa": 40,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metindeki olay, bilgi, durum vb.ni inceler."
+    },
+    {
+     "harf": "b",
+     "metin": "Metindeki olay, bilgi, durum vb.ni yazarın, okurun veya bunların dışında bir başkasının bakış açısını dikkate alıp genişleterek veya daraltarak dönüştürür."
+    },
+    {
+     "harf": "c",
+     "metin": "Metindeki olay, bilgi, durum vb.ni seçilen bakış açısıyla kendine özgü bir biçimde yeniden ifade eder."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.13.",
+   "metin": "Öyküleyici metinde hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 40,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Şahıs ve/veya varlık kadrosunu, mekânı, zamanı ve olay örgüsünü belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Hikâye unsurları arasındaki ilişkiyi belirler."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.14.",
+   "metin": "Bilgilendirici metinde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 41,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metin yapısından hareketle önemli bilgileri belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Bilgiler arasındaki ilişkiyi ortaya koyar."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.15.",
+   "metin": "Metnin anahtar kelimelerini belirlemeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 41,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metnin içeriğini yansıtan anahtar kelimeleri belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Anahtar kelimelerin metinle ilişkisini ortaya koyar."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.16.",
+   "metin": "Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 41,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metnin türüne uygun olarak giriş, gelişme, sonuç veya serim, düğüm, çözüm bölümlerini belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Metnin bölümlerinin birbirleriyle bağlantısını belirler."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.17.",
+   "metin": "Şiirin biçim özelliklerini belirlemeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 41,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Okuduğu şiirin biçim özelliklerini belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Şiirin biçim özelliklerinin birbirleriyle ve şiirsel söyleyişle ilişkisini ortaya koyar."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.18.",
+   "metin": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 41,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yazarın başvurduğu düşünceyi geliştirme yollarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Düşünceyi geliştirme yollarının içerikle ilişkisini ortaya koyar."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.19.",
+   "metin": "Metindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 42,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Okuduğundaki söz sanatlarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Söz sanatlarının metnin anlatımıyla ilişkisini ortaya koyar."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.2.",
+   "metin": "Akıcı okuyabilme",
+   "tablo9_sayfa": 38,
+   "surec_bilesenleri": []
+  },
+  {
+   "kod": "T.O.5.20.",
+   "metin": "Metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme",
+   "tablo9_sayfa": 42,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metnin temayla ilgili söz varlığı unsurlarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Söz varlığı unsurlarının anlam ilişkilerini inceler."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.21.",
+   "metin": "Okuduğunu özetleyebilme",
+   "tablo9_sayfa": 42,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metinde sunulan bilgileri çözümler."
+    },
+    {
+     "harf": "b",
+     "metin": "Çözümlemeden hareketle önemli ve önemsiz bilgileri sınıflandırır."
+    },
+    {
+     "harf": "c",
+     "metin": "Metindeki önemli bilgileri kronolojik akışa ve/veya düşünce akışına uygun olarak kendi cümleleriyle ifade eder."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.22.",
+   "metin": "Okuma sürecini değerlendirebilme",
+   "tablo9_sayfa": 44,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Okuma sürecindeki güçlü ve gelişmeye açık yönlerini belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Deneyimlediği süreçteki gelişmeye açık yönlerini destekleyecek tedbirler alıp, güçlü yönlerini sonraki çalışmalara aktararak okur kimliğinin gelişimine yön verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.3.",
+   "metin": "Okumada strateji, yöntem ve teknik seçimlerini yönetebilme",
+   "tablo9_sayfa": 38,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Amacı, ilgi ve ihtiyaçları, materyalin özellikleri, faaliyetin süresi ve bilgiye erişim olanaklarını analiz ederek görüş oluşturur."
+    },
+    {
+     "harf": "b",
+     "metin": "Analiz sonuçları doğrultusunda okurken kullanacağı strateji ve/veya yöntemi/tekniği seçer."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.4.",
+   "metin": "Okuyacağı metnin içeriğine yönelik tahminde bulunabilme",
+   "tablo9_sayfa": 39,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Okuyacağı metnin başlık, görsel ve/veya belirli bir bölümünden hareketle içerikle ilgili ipuçlarını belirleyip ön bilgileriyle ilişkilendirir."
+    },
+    {
+     "harf": "b",
+     "metin": "Metnin içeriği veya sonraki bölümleriyle ilgili mantıklı tahminde bulunur."
+    },
+    {
+     "harf": "c",
+     "metin": "Tahminine yönelik gerekçelendirme yapar."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.5.",
+   "metin": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "tablo9_sayfa": 39,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metnin bağlamından söz varlığı unsurlarının anlamıyla ilgili ipuçlarını belirleyip ön bilgileriyle ilişkilendirir."
+    },
+    {
+     "harf": "b",
+     "metin": "Söz varlığı unsurlarının anlamına ilişkin mantıklı tahminde bulunur."
+    },
+    {
+     "harf": "c",
+     "metin": "Tahminin doğruluğunu kaynaklardan (sözlük, başvuru kitapları, genel ağ vb.), ebeveyn veya öğretmenden yardım alarak kontrol edip yargıya ulaşır."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.6.",
+   "metin": "Metnin yüzey anlamını belirleyebilme",
+   "tablo9_sayfa": 39,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metin ve varsa ona eşlik eden görsellerden hareketle bağlama dair ipuçlarını bulur."
+    },
+    {
+     "harf": "b",
+     "metin": "Metinde doğrudan verilen bilgileri (tanımı verilen kavram, düşünce, yönerge, iletilmek istenen mesaj, açıkça ifade edilen ana fikir vb.) belirler."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.7.",
+   "metin": "Görselle iletilen anlamı belirleyebilme",
+   "tablo9_sayfa": 39,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Görseldeki unsurlardan hareketle anlama ilişkin ipuçlarını bulur."
+    },
+    {
+     "harf": "b",
+     "metin": "Ön bilgileri ve ipuçlarından hareketle açık ve/veya örtük olarak iletilen mesajı belirler."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.8.",
+   "metin": "Basit çıkarımlar yoluyla metnin derin anlamını belirleyebilme",
+   "tablo9_sayfa": 39,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metnin sınırlı bir bölümünden ve varsa görselden yararlanarak bağlama dair ipuçlarını bulur."
+    },
+    {
+     "harf": "b",
+     "metin": "Ön bilgileri ve ipuçlarından hareketle anlamı belirler."
+    }
+   ]
+  },
+  {
+   "kod": "T.O.5.9.",
+   "metin": "Üst düzey çıkarımlar yoluyla metnin derin anlamını belirleyebilme",
+   "tablo9_sayfa": 39,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Metnin bütününden ve varsa görselden yararlanarak bağlama dair ipuçlarını bulur."
+    },
+    {
+     "harf": "b",
+     "metin": "Ön bilgileri ve ipuçlarından hareketle anlamı belirler."
+    }
+   ]
+  }
+ ]
+}

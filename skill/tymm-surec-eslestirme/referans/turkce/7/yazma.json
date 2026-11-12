@@ -1,0 +1,349 @@
+{
+ "ders": "Türkçe",
+ "sinif": 7,
+ "parca": "yazma",
+ "ciktilar": [
+  {
+   "kod": "T.Y.7.1.",
+   "metin": "Yazma sürecini yönetebilme",
+   "tablo9_sayfa": 52,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yazma şekli (yazılı üretim ve yazılı etkileşim), amacı, bağlamı ve olanakları doğrultusunda yazma içeriğini, hedef kitlesini, yazma ortamını ve araçlarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Yazılı etkileşiminde yazışmayı başlatma, sürdürme, sonlandırmayla ilgili selam, hitap vb. kalıp ifadeleri kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.10.",
+   "metin": "Yazılı olarak özetleyebilme",
+   "tablo9_sayfa": 53,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Olay, bilgi, durum vb.ni çözümler."
+    },
+    {
+     "harf": "b",
+     "metin": "Çözümlemeden hareketle önemli ve önemsiz bilgileri sınıflandırır."
+    },
+    {
+     "harf": "c",
+     "metin": "Önemli bilgileri kronolojik akışa ve/veya düşünce akışına uygun olarak kendi cümleleriyle ifade eder."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.11.",
+   "metin": "Değerlendirmesini yazılı olarak ifade edebilme",
+   "tablo9_sayfa": 54,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Değerlendirme ölçütüne karar verir."
+    },
+    {
+     "harf": "b",
+     "metin": "Olay, bilgi, durum vb.ni ölçüte göre inceler."
+    },
+    {
+     "harf": "c",
+     "metin": "İnceleme sonuçlarını belirlediği ölçütle karşılaştırır."
+    },
+    {
+     "harf": "ç",
+     "metin": "Karşılaştırma sonucunda ulaştığı yargıya yazısında yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.12.",
+   "metin": "Yazılı üretiminde ve yazılı etkileşiminde tartışabilme",
+   "tablo9_sayfa": 54,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Düşüncelerini savunurken önermelerine yönelik mantıklı temellendirme yapar."
+    },
+    {
+     "harf": "b",
+     "metin": "Varsa içerikteki tutarsız, geçersiz görüş ve bilgiyi tespit eder."
+    },
+    {
+     "harf": "c",
+     "metin": "Doğru görüş ve bilgiyi kabul eder; tutarsız, geçersiz görüş ve bilgiyi çürütür."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.13.",
+   "metin": "Eleştirisini yazılı olarak ifade edebilme",
+   "tablo9_sayfa": 54,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Eleştireceği olay, bilgi, problem, durum vb.ni sorgular."
+    },
+    {
+     "harf": "b",
+     "metin": "Sorgulanan olay, bilgi, problem, durum vb.ne ilişkin akıl yürüterek olumlu ve/veya olumsuz yargıya ulaşır."
+    },
+    {
+     "harf": "c",
+     "metin": "Ulaştığı yargıya yazısında yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.14.",
+   "metin": "Problem çözümüne yönelik yazabilme",
+   "tablo9_sayfa": 54,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Olay, bilgi, durum vb.ndeki problemi tanımlar."
+    },
+    {
+     "harf": "b",
+     "metin": "Problemi özetler."
+    },
+    {
+     "harf": "c",
+     "metin": "Ön bilgi, gözlem ve veriye dayanarak probleme çözümler üretir."
+    },
+    {
+     "harf": "ç",
+     "metin": "Akıl yürüterek en uygun çözümü belirler."
+    },
+    {
+     "harf": "d",
+     "metin": "Problem çözme sürecini değerlendirir."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.15.",
+   "metin": "Düşünceyi geliştirme yollarını kullanarak metni yapılandırabilme",
+   "tablo9_sayfa": 54,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Kullanacağı düşünceyi geliştirme yollarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Düşünceyi geliştirme yollarını yazısının içeriğiyle uyumlu şekilde kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.16.",
+   "metin": "Yazısını zenginleştirecek biçimde söz varlığını kullanabilme",
+   "tablo9_sayfa": 55,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Kullanacağı söz varlığı unsurlarını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Söz varlığı unsurlarını bağlama uygun şekilde yazısında kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.17.",
+   "metin": "Yazısında açık ve örtük ifadeleri kullanabilme",
+   "tablo9_sayfa": 55,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Kullanacağı örtük ileti unsurlarını (söz sanatları, mecaz, deyim, atasözü ve diğer söz varlığı unsurları) belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Yazısında açık ve örtük iletilere bağlama uygun şekilde yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.18.",
+   "metin": "Uygun bağlantı ifadelerini kullanabilme",
+   "tablo9_sayfa": 55,
+   "surec_bilesenleri": []
+  },
+  {
+   "kod": "T.Y.7.19.",
+   "metin": "Yazım ve noktalama işaretleriyle ilgili kuralları uygulayabilme",
+   "tablo9_sayfa": 56,
+   "surec_bilesenleri": []
+  },
+  {
+   "kod": "T.Y.7.2.",
+   "metin": "Yazmada strateji, yöntem ve teknik seçimlerini yönetebilme",
+   "tablo9_sayfa": 52,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yazma şekli (yazılı üretim ve yazılı etkileşim), amacı, bağlamı ve olanaklarını analiz ederek görüş oluşturur."
+    },
+    {
+     "harf": "b",
+     "metin": "Analiz sonuçları doğrultusunda yazarken kullanacağı strateji ve/veya yöntemi/tekniği seçer."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.20.",
+   "metin": "Yazma sürecini değerlendirebilme",
+   "tablo9_sayfa": 56,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yazma sürecindeki güçlü ve gelişmeye açık yönlerini belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Gelişmeye açık yönlerini destekleyecek tedbirler alıp, güçlü yönlerini sonraki yazma çalışmalarına aktararak yazar kimliğinin gelişimine yön verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.3.",
+   "metin": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme",
+   "tablo9_sayfa": 52,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yazma amacına uygun paragraf türü ve/veya metin yapısını belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Seçtiği paragraf türünü ve/veya metin yapısını yazısında uygun biçimde kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.4.",
+   "metin": "Yazısında çoklu ortam ögeleriyle içerik oluşturabilme",
+   "tablo9_sayfa": 52,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yazısında kullanacağı çoklu ortam ögelerini (fotoğraf, resim, tablo, grafik, harita, ses, müzik, video vb.) belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Ögelerin işlevlerini (eş anlam oluşturma, destekleme, tek başına anlam verme) belirler."
+    },
+    {
+     "harf": "c",
+     "metin": "Çoklu ortam ögelerini içerikle ilişkilendirerek yazısında kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.5.",
+   "metin": "Yaratıcı yazı yazabilme",
+   "tablo9_sayfa": 53,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Alışılmışın dışında konu, varlık vb. unsurları belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Kurguladığı unsurları birbirleriyle ilişilendirir."
+    },
+    {
+     "harf": "c",
+     "metin": "Bunları gözlem, deneyim, hayal gücüyle vb. zenginleştirerek özgün bir metin oluşturur."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.6.",
+   "metin": "Yazılı üretim ve yazılı etkileşiminde tahminlerinden yararlanabilme",
+   "tablo9_sayfa": 53,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yazısında ele alacağı olay, bilgi ya da durumu ön bilgileriyle ilişkilendirir."
+    },
+    {
+     "harf": "b",
+     "metin": "İlişkilendirmelerden hareketle olay, bilgi ya da duruma yönelik mantıklı tahminde bulunur."
+    },
+    {
+     "harf": "c",
+     "metin": "Yazısında tahminlerine yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.7.",
+   "metin": "Yazısında karşılaştırma yapabilme",
+   "tablo9_sayfa": 53,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Karşılaştırılabilir unsurlara ilişkin özellikleri belirler."
+    },
+    {
+     "harf": "b",
+     "metin": "Özellikler arasındaki benzerlikleri tespit ederek yazısında kullanır."
+    },
+    {
+     "harf": "c",
+     "metin": "Özellikler arasındaki farklılıkları tespit ederek yazısında kullanır."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.8.",
+   "metin": "Yazısında sınıflandırma yapabilme",
+   "tablo9_sayfa": 53,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Sınıflandırma ölçütüne karar verir."
+    },
+    {
+     "harf": "b",
+     "metin": "Yazısının içeriğindeki unsurları ölçüte göre ayırır."
+    },
+    {
+     "harf": "c",
+     "metin": "Unsurları ayırt edici özelliklerinden hareketle gruplandırır."
+    },
+    {
+     "harf": "ç",
+     "metin": "Gruplamaları adlandırarak yazısında sınıflandırmaya yer verir."
+    }
+   ]
+  },
+  {
+   "kod": "T.Y.7.9.",
+   "metin": "Yorumunu yazılı olarak ifade edebilme",
+   "tablo9_sayfa": 53,
+   "surec_bilesenleri": [
+    {
+     "harf": "a",
+     "metin": "Yorumlayacağı olay, bilgi, durum vb.ni inceler."
+    },
+    {
+     "harf": "b",
+     "metin": "Olay, bilgi, durum vb.ni bağlamdan kopmadan, farklı bakış açısıyla, genişleterek veya daraltarak dönüştürür."
+    },
+    {
+     "harf": "c",
+     "metin": "Olay, bilgi, durum vb.ni belirlenen bakış açısıyla kendine özgü biçimde yazısında yeniden ifade eder."
+    }
+   ]
+  }
+ ]
+}

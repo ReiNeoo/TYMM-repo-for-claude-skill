@@ -1,0 +1,15 @@
+# Geçici çalışma klasörleri (zip çıktıları, PDF metin dönüşümleri vb.)
+tmp/
+
+# Office geçici/kilit dosyaları
+~$*
+
+# İşletim sistemi ve editör dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
