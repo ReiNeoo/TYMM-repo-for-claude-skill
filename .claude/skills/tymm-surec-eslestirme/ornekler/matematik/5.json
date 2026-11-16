@@ -1,0 +1,223 @@
+{
+ "ders": "matematik",
+ "sinif": 5,
+ "kaynaklar": [
+  {
+   "id": "eksen-5-sd1-a",
+   "deneme": "5. Sınıf Süreç Değerlendirme 1",
+   "yayinevi": "Eksen",
+   "sinif": 5,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "data.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "eksen-5-sd1-a-01",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 1,
+   "ozet": "Okunuşu verilen doğru, doğru parçası, ışınlardan hangisinin çizimi değildir.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar.",
+   "gorsel": "gorsel/eksen-5-sd1-a-01.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-02",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 2,
+   "ozet": "Eşyalardan kaçında cetvelle ölçülebilecek doğru parçası modeli vardır.",
+   "cikti": "MAT.5.3.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Nokta, doğru, doğru parçası, ışın, açı, çember ve dikme çiziminde gerekli araç ve teknolojileri tanır.",
+   "ipucu": "Nesnenin ölçme/çizme işlevini tanıma (a); uygun aracı bir görev için seçme değil.",
+   "gorsel": "gorsel/eksen-5-sd1-a-02.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-03",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 3,
+   "ozet": "Logoyu aynı ölçülerde çizmek için hangi araçlar yeterlidir (cetvel ve pergel).",
+   "cikti": "MAT.5.3.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Nokta, doğru, doğru parçası, ışın, açı, çember ve dikmeyi oluşturmak için uygun olan araç ve teknolojileri belirler.",
+   "ipucu": "Bir göreve (logoyu aynı ölçülerde çizme) uygun araçları seçme → b.",
+   "gorsel": "gorsel/eksen-5-sd1-a-03.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-04",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 4,
+   "ozet": "Cetvelle ölçülen uzunluğun sembolle gösterimi (|AB| = 5 cm) seçenekler arasından seçiliyor.",
+   "cikti": "MAT.5.3.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Nokta, doğru, doğru parçası, ışın, açı, çember ve dikmeyi oluşturmak için uygun olan araç ve teknolojileri belirler.",
+   "ipucu": "Cetvelle ölçülen uzunluğun doğru sembolle gösterimini seçme → MAT.5.3.1 b (c 'kullanır' değil).",
+   "gorsel": "gorsel/eksen-5-sd1-a-04.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-05",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 5,
+   "ozet": "Çizgeç yerine kullanılamayacak eşya.",
+   "cikti": "MAT.5.3.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Nokta, doğru, doğru parçası, ışın, açı, çember ve dikme çiziminde gerekli araç ve teknolojileri tanır.",
+   "ipucu": "Bir eşyanın çizgeç işlevini görüp göremeyeceğini tanıma → a.",
+   "gorsel": "gorsel/eksen-5-sd1-a-05.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-06",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 6,
+   "ozet": "Kolları TK ve TS, köşesi T olan açının çizimi.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar.",
+   "gorsel": "gorsel/eksen-5-sd1-a-06.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-07",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 7,
+   "ozet": "Açıların sembolle gösterimlerinden hangisi yanlıştır.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar.",
+   "gorsel": "gorsel/eksen-5-sd1-a-07.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-08",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 8,
+   "ozet": "Açıölçer üzerinde MSR açısının ölçüsü.",
+   "cikti": "MAT.5.3.3.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Açı ölçmek için uygun araç ve teknolojiyi kullanır.",
+   "gorsel": "gorsel/eksen-5-sd1-a-08.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-09",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 9,
+   "ozet": "Cetvel üzerinde açıklığı gösterilen pergelle çizilebilecek çember.",
+   "cikti": "MAT.5.3.1.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Nokta, doğru, doğru parçası, ışın, açı, çember ve dikmeyi oluşturmak için uygun araç ve teknolojileri kullanır.",
+   "ipucu": "Aracın fiilen kullanımının sonucu (pergel açıklığı → çember) → c.",
+   "gorsel": "gorsel/eksen-5-sd1-a-09.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-10",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 10,
+   "ozet": "Ev cephesinin kenarlarından geçen doğrular için paralellik/diklik ifadelerinden hangisi yanlıştır.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar.",
+   "ipucu": "Paralellik/diklik ifadesi doğru mu → MAT.5.3.2 b; MAT.5.3.4 yalnızca kesişen doğruların oluşturduğu açılar sorulunca.",
+   "gorsel": "gorsel/eksen-5-sd1-a-10.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-11",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 11,
+   "ozet": "Pergelle ışın üzerinde ardışık eşit doğru parçaları; uzunluklardan hangisi yanlıştır.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar.",
+   "ipucu": "Pergelle yapılmış inşa üzerinden uzunluk çıkarımı → MAT.5.3.2 b (araç sorusu değil).",
+   "gorsel": "gorsel/eksen-5-sd1-a-11.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-12",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 12,
+   "ozet": "Gönye ile doğruya dışındaki noktadan çizilen dikmelerden hangileri doğrudur.",
+   "cikti": "MAT.5.3.1.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Nokta, doğru, doğru parçası, ışın, açı, çember ve dikmeyi oluşturmak için uygun araç ve teknolojileri kullanır.",
+   "ipucu": "Gönye ile çizilmiş dikmelerin doğruluğunu değerlendirme (araç kullanım sonucu) → MAT.5.3.1 c.",
+   "gorsel": "gorsel/eksen-5-sd1-a-12.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-13",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 13,
+   "ozet": "Görev kartları (uzunluk ölçme, açı ölçme, çizgi çizme, dikme çizme) ile araç eşleştirme.",
+   "cikti": "MAT.5.3.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Nokta, doğru, doğru parçası, ışın, açı, çember ve dikmeyi oluşturmak için uygun olan araç ve teknolojileri belirler.",
+   "ipucu": "Görev kartı ↔ araç eşleştirme → MAT.5.3.1 b.",
+   "gorsel": "gorsel/eksen-5-sd1-a-13.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-14",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 14,
+   "ozet": "Nokta, doğru parçası ve çemberle yapılan isim tasarımında hangi şeklin kullanıldığı söylenemez.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Temel geometrik çizimlere dayalı deneyimlerini gözden geçirir.",
+   "ipucu": "Yapılmış tasarımda hangi temel şekillerin kullanıldığını gözden geçirme → MAT.5.3.2 a (b değil).",
+   "gorsel": "gorsel/eksen-5-sd1-a-14.png"
+  },
+  {
+   "id": "eksen-5-sd1-a-15",
+   "kaynak": "eksen-5-sd1-a",
+   "no": 15,
+   "ozet": "İsim tasarımında hangi harflerde birbirine dik doğru parçaları kullanılmamıştır.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar.",
+   "ipucu": "Harflerde dik doğru parçası var mı (çizimin özelliğinden çıkarım) → MAT.5.3.2 b; MAT.5.3.4 değil.",
+   "gorsel": "gorsel/eksen-5-sd1-a-15.png"
+  }
+ ]
+}

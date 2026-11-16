@@ -274,7 +274,7 @@ def main():
         "kaynak_notlari": sorted(notlar),
         "temalar": cikti_temalar,
     }
-    cikis = os.path.join(kok, "skill", "tymm-surec-eslestirme", "referans", "turkce", f"{sinif}.json")
+    cikis = os.path.join(kok, ".claude", "skills", "tymm-surec-eslestirme", "referans", "turkce", f"{sinif}.json")
     os.makedirs(os.path.dirname(cikis), exist_ok=True)
     with open(cikis, "w", encoding="utf-8") as f:
         json.dump(veri, f, ensure_ascii=False, indent=2)

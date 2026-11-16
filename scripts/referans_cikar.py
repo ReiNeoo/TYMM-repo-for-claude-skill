@@ -7,7 +7,7 @@ Kullanım:
     .venv/Scripts/python.exe -I scripts/referans_cikar.py <ders> <sınıf>
     ör.: ... scripts/referans_cikar.py fen-bilimleri 5
 
-Çıktı: skill/tymm-surec-eslestirme/referans/<ders>/<sınıf>.json
+Çıktı: .claude/skills/tymm-surec-eslestirme/referans/<ders>/<sınıf>.json
 Mevcut dosyada `plan_haftalari`/`plan` varsa korunmaz; ardından scripts/plan_haftalari.py çalıştırılır.
 """
 import json
@@ -282,7 +282,7 @@ def main():
             for t in temalar
         ],
     }
-    cikis = os.path.join(kok, "skill", "tymm-surec-eslestirme", "referans", ders, f"{sinif}.json")
+    cikis = os.path.join(kok, ".claude", "skills", "tymm-surec-eslestirme", "referans", ders, f"{sinif}.json")
     os.makedirs(os.path.dirname(cikis), exist_ok=True)
     with open(cikis, "w", encoding="utf-8") as f:
         json.dump(veri, f, ensure_ascii=False, indent=2)

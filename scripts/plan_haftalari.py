@@ -60,7 +60,7 @@ def main():
     xlsx = dosyalar[0]
     ws = sayfa_sec(openpyxl.load_workbook(xlsx, data_only=True), sinif)
 
-    json_yolu = os.path.join(kok, "skill", "tymm-surec-eslestirme", "referans", ders, f"{sinif}.json")
+    json_yolu = os.path.join(kok, ".claude", "skills", "tymm-surec-eslestirme", "referans", ders, f"{sinif}.json")
     veri = json.load(open(json_yolu, encoding="utf-8"))
     kodlar = sorted({c["kod"] for t in veri["temalar"] for c in t["ciktilar"]})
     desenler = {k: kod_deseni(k) for k in kodlar}

@@ -13,3 +13,9 @@ Thumbs.db
 __pycache__/
 *.pyc
 .venv/
+
+/uygunmu
+
+# Örnek bankası soru görselleri (yayınevi içeriği; git'e girmez — yalnızca etiket JSON'ları commit'lenir)
+.claude/skills/tymm-surec-eslestirme/ornekler/**/gorsel/
+.claude/settings.local.json

@@ -34,7 +34,7 @@ def main():
     if ders not in ("turkce", "ingilizce"):
         return
     kok = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    ref = os.path.join(kok, "skill", "tymm-surec-eslestirme", "referans", ders)
+    ref = os.path.join(kok, ".claude", "skills", "tymm-surec-eslestirme", "referans", ders)
     ana_yol = os.path.join(ref, f"{sinif}.json")
     veri = json.load(open(ana_yol, encoding="utf-8"))
     if any("ciktilar" not in t for t in veri["temalar"]):
