@@ -1,0 +1,452 @@
+{
+ "ders": "matematik",
+ "sinif": 6,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-6-gi1-a",
+   "deneme": "6. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-6-si2-a",
+   "deneme": "6. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-6-gi1-a-01",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 1,
+   "ozet": "Rakam kartlarıyla kurulan 5000'den büyük sayılardan 6 ile kalansız bölünenlerin sayısı bulunuyor.",
+   "cikti": "MAT.6.1.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin çıkarım yapabilme",
+   "yayinevi_kodu": "6.21.2.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-02",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 2,
+   "ozet": "Çevresi ve alanı verilen dikdörtgenler birleştirilince uzun kenarın alamayacağı değer bulunuyor.",
+   "cikti": "MAT.6.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme",
+   "yayinevi_kodu": "6.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-03",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 3,
+   "ozet": "Banyo zemini için boşluksuz döşenemeyecek kare fayans ölçüsü (ortak bölen) bulunuyor.",
+   "cikti": "MAT.6.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Günlük hayat problemleri ya da matematiksel durumlar üzerinden ortak kat ve ortak böleni yorumlayabilme",
+   "yayinevi_kodu": "6.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-04",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 4,
+   "ozet": "Kefelerdeki sayıların EKOK'u kütleye eşit olacak şekilde terazide '?' yerine gelecek sayı bulunuyor.",
+   "cikti": "MAT.6.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Günlük hayat problemleri ya da matematiksel durumlar üzerinden ortak kat ve ortak böleni yorumlayabilme",
+   "yayinevi_kodu": "6.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-05",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 5,
+   "ozet": "Hedef bölgelerindeki sayıların farklı asal çarpanları toplamı eşit olan iki bölge bulunuyor.",
+   "cikti": "MAT.6.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bir doğal sayının asal olma durumunu ve asal çarpanlarını çözümleyebilme",
+   "yayinevi_kodu": "6.21.3.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-06",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 6,
+   "ozet": "120 gramlık peynirin 15 gramdan ağır eşit dilimlere ayrılabileceği değer sayısı (bölenler) bulunuyor.",
+   "cikti": "MAT.6.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme",
+   "yayinevi_kodu": "6.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-07",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 7,
+   "ozet": "Aralıklı dizilen taşlardan 100 cm'deki direğe en yakın taşın uzaklığı (katlar) bulunuyor.",
+   "cikti": "MAT.6.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme",
+   "yayinevi_kodu": "6.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-08",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 8,
+   "ozet": "Dörtlü setlerle dizilen ve 20-40 arasında olan kitap sayılarının toplamı bulunuyor.",
+   "cikti": "MAT.6.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Günlük hayat problemleri ya da matematiksel durumlar üzerinden ortak kat ve ortak böleni yorumlayabilme",
+   "yayinevi_kodu": "6.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-09",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 9,
+   "ozet": "On günlük satış tablosunda 42 tablet satılma olayının deneysel olasılığı yüzde olarak bulunuyor.",
+   "cikti": "MAT.6.6.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bir olayın olasılığını gözleme dayalı tahmin edebilme",
+   "yayinevi_kodu": "6.26.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-10",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 10,
+   "ozet": "Yeni gün eklenince iki olayın deneysel olasılıkları eşitleniyor; eklenen satış sayısı bulunuyor.",
+   "cikti": "MAT.6.6.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bir olayın olasılığını gözleme dayalı tahmin edebilme",
+   "yayinevi_kodu": "6.26.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-11",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 11,
+   "ozet": "Yanlış kaydedilen veri sonrası olayların deneysel olasılıklarındaki değişim belirleniyor.",
+   "cikti": "MAT.6.6.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bir olayın olasılığını gözleme dayalı tahmin edebilme",
+   "yayinevi_kodu": "6.26.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-12",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 12,
+   "ozet": "Ondalık fiyattaki rakamların basamak değerleri kadar indirim/zamla yeni fiyat bulunuyor.",
+   "cikti": "MAT.6.1.5.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesirlerden yararlanarak yorumlayabilme",
+   "yayinevi_kodu": "6.21.5.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-13",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 13,
+   "ozet": "Ondalık mesafeler toplanıp gidiş-dönüş toplamı onda birler basamağına yuvarlanıyor.",
+   "cikti": "MAT.6.1.7.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam durumlarında karşılaşılan kesir, ondalık ve yüzde gösterimleri ile ilgili dört işlem gerektiren problemleri çözebilme",
+   "yayinevi_kodu": "6.21.8.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-14",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 14,
+   "ozet": "7 litre limonatanın 8 sürahiye bölünmesiyle bir sürahideki miktarın ondalık gösterimi bulunuyor.",
+   "cikti": "MAT.6.1.6.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kesir ve bölme işlemi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+   "yayinevi_kodu": "6.21.6.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-15",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 15,
+   "ozet": "Hesap makinelerindeki bölme işlemlerinden sonucu devirli ondalık olanlar belirleniyor.",
+   "cikti": "MAT.6.1.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kesir ve bölme işlemi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+   "yayinevi_kodu": "6.21.6.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-15.png"
+  },
+  {
+   "id": "yargi-6-si2-a-01",
+   "kaynak": "yargi-6-si2-a",
+   "no": 1,
+   "ozet": "Karışık kesirle verilen sıvı miktarının devirli ondalık gösterimi seçiliyor.",
+   "cikti": "MAT.6.1.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Devirli Ondalık Gösterimler",
+   "yayinevi_kodu": "6.21.24",
+   "not": "Yayınevi etiketi 'Devirli Ondalık Gösterimler'.",
+   "gorsel": "gorsel/yargi-6-si2-a-01.png"
+  },
+  {
+   "id": "yargi-6-si2-a-02",
+   "kaynak": "yargi-6-si2-a",
+   "no": 2,
+   "ozet": "48 kalem ve 60 silginin eşit paketlere ayrılmasında paketteki ürün sayısının olabileceği değer bulunuyor.",
+   "cikti": "MAT.6.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Ortak Kat ve Ortak Bölen Problemleri",
+   "yayinevi_kodu": "6.21.14",
+   "not": "Yayınevi etiketi 'Ortak Kat ve Ortak Bölen Problemleri'.",
+   "gorsel": "gorsel/yargi-6-si2-a-02.png"
+  },
+  {
+   "id": "yargi-6-si2-a-03",
+   "kaynak": "yargi-6-si2-a",
+   "no": 3,
+   "ozet": "3 ve 4 ile bölünebilen 35A2 sayısında A rakamı bulunuyor.",
+   "cikti": "MAT.6.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Bir doğal sayının katlarını veya basamak değerlerini dikkate alarak 2, 3, 4, 5, 6, 9 ve 10’a tam bölünebilme kriterleri ile ilgili varsayımlarda bulunur. | Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilmesindeki kriterlerin farklı durumlarda kullanışlılığını değerlendirir.",
+   "yayinevi_kodu": "6.21.2.1.1, 6.21.2.1.5",
+   "gorsel": "gorsel/yargi-6-si2-a-03.png"
+  },
+  {
+   "id": "yargi-6-si2-a-04",
+   "kaynak": "yargi-6-si2-a",
+   "no": 4,
+   "ozet": "Kendisi hariç en büyük çarpanları verilen kitap sayfa sayıları üzerinden çarpan-kat muhakemesi yapılıyor.",
+   "cikti": "MAT.6.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Karşılaştığı durumlarda bir doğal sayının çarpan ve katlarına yönelik varsayımlarda bulunur. | Varsayımına yönelik örnek durumların içerdiği ilişkileri inceleyerek bir doğal sayının çarpan ve katlarına ilişkin genellemeleri belirler.",
+   "yayinevi_kodu": "6.21.1.1.1, 6.21.1.1.2",
+   "gorsel": "gorsel/yargi-6-si2-a-04.png"
+  },
+  {
+   "id": "yargi-6-si2-a-05",
+   "kaynak": "yargi-6-si2-a",
+   "no": 5,
+   "ozet": "Kumbara kilidinin bölünebilme şartlarına göre 4a3b sayısındaki rakamlar bulunuyor.",
+   "cikti": "MAT.6.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Bir doğal sayının katlarını veya basamak değerlerini dikkate alarak 2, 3, 4, 5, 6, 9 ve 10’a tam bölünebilme kriterleri ile ilgili varsayımlarda bulunur. | Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilmesindeki kriterlerin farklı durumlarda kullanışlılığını değerlendirir.",
+   "yayinevi_kodu": "6.21.2.1.1, 6.21.2.1.5",
+   "gorsel": "gorsel/yargi-6-si2-a-05.png"
+  },
+  {
+   "id": "yargi-6-si2-a-06",
+   "kaynak": "yargi-6-si2-a",
+   "no": 6,
+   "ozet": "Kenarları katlanan dikdörtgen kartonda kesirli uzunluklarla bölgelerin ölçüsü bulunuyor.",
+   "cikti": "MAT.6.1.7.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kesir, ondalık ve yüzde gösterimleri ile ilgili dört işlem problemlerinde problem bağlamına uygun temsilleri (şekil, tablo, diyagram gibi) kullanır.",
+   "yayinevi_kodu": "6.21.8.1.3",
+   "gorsel": "gorsel/yargi-6-si2-a-06.png"
+  },
+  {
+   "id": "yargi-6-si2-a-07",
+   "kaynak": "yargi-6-si2-a",
+   "no": 7,
+   "ozet": "Kesirli ayrıtlı dikdörtgenler prizmalarıyla kesir problemi çözülüyor.",
+   "cikti": "MAT.6.1.7.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kesirlerle Dört İşlem İçeren Problem Çözme | Kesir, ondalık ve yüzde gösterimleri ile ilgili dört işlem problemlerinde problem bağlamına uygun temsilleri (şekil, tablo, diyagram gibi) kullanır.",
+   "yayinevi_kodu": "6.21.8, 6.21.8.1.3",
+   "gorsel": "gorsel/yargi-6-si2-a-07.png"
+  },
+  {
+   "id": "yargi-6-si2-a-08",
+   "kaynak": "yargi-6-si2-a",
+   "no": 8,
+   "ozet": "Yüzlük tablolarla modellenen ondalık gösterimin paydası 10 ve 100 olan kesirlerle çözümlenmesi seçiliyor.",
+   "cikti": "MAT.6.1.5.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Ondalık gösterimlerin basamak değerlerini paydası 10, 100 ve 1000 olan kesirlerin toplamlarını kullanarak yeniden ifade eder.",
+   "yayinevi_kodu": "6.21.5.1.2",
+   "gorsel": "gorsel/yargi-6-si2-a-08.png"
+  },
+  {
+   "id": "yargi-6-si2-a-09",
+   "kaynak": "yargi-6-si2-a",
+   "no": 9,
+   "ozet": "8 g ve 12 g'lık topların eşit kütleli kutulara yerleştirilmesinde kutu sayıları (ortak kat) bulunuyor.",
+   "cikti": "MAT.6.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Ortak Kat ve Ortak Bölen Problemleri",
+   "yayinevi_kodu": "6.21.14",
+   "not": "Yayınevi etiketi 'Ortak Kat ve Ortak Bölen Problemleri'.",
+   "gorsel": "gorsel/yargi-6-si2-a-09.png"
+  },
+  {
+   "id": "yargi-6-si2-a-10",
+   "kaynak": "yargi-6-si2-a",
+   "no": 10,
+   "ozet": "Ondalık fiyatlı defter ve kalem kutusu siparişinde indirimli tutarın bir taksiti hesaplanıyor.",
+   "cikti": "MAT.6.1.7.",
+   "bilesenler": [
+    "g"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Problemlerin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir. | Ondalık Gösterimlerle Dört İşlem Problemleri",
+   "yayinevi_kodu": "6.21.8.1.8, 6.21.30",
+   "gorsel": "gorsel/yargi-6-si2-a-10.png"
+  },
+  {
+   "id": "yargi-6-si2-a-11",
+   "kaynak": "yargi-6-si2-a",
+   "no": 11,
+   "ozet": "25 halka atışının nokta grafiğinden bir çubuğa isabetin deneysel olasılığı bulunuyor.",
+   "cikti": "MAT.6.6.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Deneysel Olasılık Hesaplama",
+   "yayinevi_kodu": "6.26.12",
+   "not": "Yayınevi etiketi 'Deneysel Olasılık Hesaplama'.",
+   "gorsel": "gorsel/yargi-6-si2-a-11.png"
+  },
+  {
+   "id": "yargi-6-si2-a-12",
+   "kaynak": "yargi-6-si2-a",
+   "no": 12,
+   "ozet": "Mükemmel sayı tanımından bölenler toplamıyla hazine sandığının şifresi bulunuyor.",
+   "cikti": "MAT.6.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme | Asal Sayılar ve Asal Çarpanlar",
+   "yayinevi_kodu": "6.21.1.1, 6.21.3",
+   "gorsel": "gorsel/yargi-6-si2-a-12.png"
+  },
+  {
+   "id": "yargi-6-si2-a-13",
+   "kaynak": "yargi-6-si2-a",
+   "no": 13,
+   "ozet": "20 öğrencinin kan grubu tablosundan göreli sıklıklara dair doğru ifade seçiliyor.",
+   "cikti": "MAT.6.6.1.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Çıkarımlardan hareketle olasılık değerini belirleme için göreli sıklığın kullanımına yönelik yargıda bulunur.",
+   "yayinevi_kodu": "6.26.1.1.3",
+   "gorsel": "gorsel/yargi-6-si2-a-13.png"
+  },
+  {
+   "id": "yargi-6-si2-a-14",
+   "kaynak": "yargi-6-si2-a",
+   "no": 14,
+   "ozet": "Kesirle verilen iki parkurun toplam uzunluğunun ondalık gösterimi bulunuyor.",
+   "cikti": "MAT.6.1.7.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Kesirlerle Dört İşlem İçeren Problem Çözme | Kesirleri Ondalık Gösterime Dönüştürme",
+   "yayinevi_kodu": "6.21.8, 6.21.22",
+   "not": "Yayınevi etiketi 'Kesirlerle Dört İşlem… | Kesirleri Ondalık Gösterime…'.",
+   "gorsel": "gorsel/yargi-6-si2-a-14.png"
+  },
+  {
+   "id": "yargi-6-si2-a-15",
+   "kaynak": "yargi-6-si2-a",
+   "no": 15,
+   "ozet": "Kesirle verilen parkur uzunlukları ondalık gösterimle karşılaştırılıp doğru ifade seçiliyor.",
+   "cikti": "MAT.6.1.5.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Ondalık Gösterimleri Karşılaştırma",
+   "yayinevi_kodu": "6.21.19",
+   "not": "Yayınevi etiketi 'Ondalık Gösterimleri Karşılaştırma'.",
+   "gorsel": "gorsel/yargi-6-si2-a-15.png"
+  }
+ ]
+}

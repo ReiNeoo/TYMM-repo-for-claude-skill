@@ -1,0 +1,310 @@
+{
+ "ders": "sosyal-bilgiler",
+ "sinif": 6,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-6-gi1-a",
+   "deneme": "6. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-6-si2-a",
+   "deneme": "6. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-6-gi1-a-01",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 1,
+   "ozet": "Aile, kurumsal ve mesleki gruplarla üstlenilen rollerin eşleştirmesi yapılıyor.",
+   "cikti": "SB.6.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dâhil olduğu grupların ve bu gruplardaki rollerinin zaman içerisinde değişebileceğine ilişkin çıkarım yapabilme",
+   "yayinevi_kodu": "6.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-02",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 2,
+   "ozet": "Atatürk'ün sözü ve görselden Türk dilinin millî kimlikteki yerine dair söylenebilecek ifade seçiliyor.",
+   "cikti": "SB.6.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini yorumlayabilme",
+   "yayinevi_kodu": "6.21.2.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-03",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 3,
+   "ozet": "Ayşe'nin hayatı boyunca değişen rollerine dair ulaşılabilecek yargılar seçiliyor.",
+   "cikti": "SB.6.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplar ve bu gruplardaki rollerinin zaman içerisinde değişebileceğine ilişkin varsayımda bulunur.",
+   "yayinevi_kodu": "6.21.1.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-04",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 4,
+   "ozet": "Geleneksel el sanatları projesinde öğretmenin amaçları belirleniyor.",
+   "cikti": "SB.6.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisine ilişkin edindiği bilgileri bağlamdan kopmadan dönüştürür.",
+   "yayinevi_kodu": "6.21.2.1.2",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-05",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 5,
+   "ozet": "Avrupa'daki su kıtlığı raporundan su kaynaklarına dair ulaşılabilecek yargılar seçiliyor.",
+   "cikti": "SB.6.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini yorumlayabilme",
+   "yayinevi_kodu": "6.21.2.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-06",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 6,
+   "ozet": "Mevlâna'nın sözlerinden düşünce yapısına dair söylenebilecek ifade seçiliyor.",
+   "cikti": "SB.6.1.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini nesnel, doğru ve anlamı değiştirmeyecek şekilde yeniden ifade eder.",
+   "yayinevi_kodu": "6.21.2.1.3",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-07",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 7,
+   "ozet": "Hak ve sorumluluk tanımlarından hareketle diğerlerinden farklı öğrenci davranışı bulunuyor.",
+   "cikti": "SB.6.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplar ve bu gruplardaki rollerinin zaman içerisinde değişebileceğine ilişkin varsayımda bulunur.",
+   "yayinevi_kodu": "6.21.1.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-08",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 8,
+   "ozet": "Bayram geleneklerinin toplumsal hayata katkıları arasında gösterilemeyecek ifade bulunuyor.",
+   "cikti": "SB.6.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel Bağlarımızın ve Millî Değerlerimizin Toplumsal Birlikteliğe Etkisi",
+   "yayinevi_kodu": "6.21.2.",
+   "yakin_ifade": "programda: 'Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini inceler.' (benzerlik 0.90)",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-09",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 9,
+   "ozet": "Türkiye haritasından matematik konumla ilgili yanlış bilgi bulunuyor.",
+   "cikti": "SB.6.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ülkemizin, kıtaların ve okyanusların konum özelliklerini algılayabilme",
+   "yayinevi_kodu": "6.22.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-10",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 10,
+   "ozet": "Türkiye'nin göreceli konumunun sonuçlarından olmayan ifade bulunuyor.",
+   "cikti": "SB.6.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ülkemizin, kıtaların ve okyanusların konum özelliklerini algılayabilme",
+   "yayinevi_kodu": "6.22.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-10.png"
+  },
+  {
+   "id": "yargi-6-si2-a-01",
+   "kaynak": "yargi-6-si2-a",
+   "no": 1,
+   "ozet": "Ailede başlayan rollerin zamanla değişimine dair metinden yapılamayacak yorum bulunuyor.",
+   "cikti": "SB.6.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplar ve bu gruplardaki rollerinin zaman içerisinde değişebileceğine ilişkin varsayımda bulunur.",
+   "yayinevi_kodu": "6.21.1.1.1",
+   "gorsel": "gorsel/yargi-6-si2-a-01.png"
+  },
+  {
+   "id": "yargi-6-si2-a-02",
+   "kaynak": "yargi-6-si2-a",
+   "no": 2,
+   "ozet": "TF-2000 muhribi haberinden Türkiye'nin konumunun stratejik önemine dair hedefler belirleniyor.",
+   "cikti": "SB.6.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ülkemizin, kıtaların ve okyanusların konum özelliklerini algılayabilme",
+   "yayinevi_kodu": "6.22.1.1",
+   "gorsel": "gorsel/yargi-6-si2-a-02.png"
+  },
+  {
+   "id": "yargi-6-si2-a-03",
+   "kaynak": "yargi-6-si2-a",
+   "no": 3,
+   "ozet": "Bayram geleneklerinin toplumsal birlik ve dayanışmaya katkısı belirleniyor.",
+   "cikti": "SB.6.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini inceler.",
+   "yayinevi_kodu": "6.21.2.1.1",
+   "gorsel": "gorsel/yargi-6-si2-a-03.png"
+  },
+  {
+   "id": "yargi-6-si2-a-04",
+   "kaynak": "yargi-6-si2-a",
+   "no": 4,
+   "ozet": "İki şehirdeki iftar saati farkından mutlak konumun sonuçlarına dair ulaşılabilecek bilgi seçiliyor.",
+   "cikti": "SB.6.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Ülkemizin göreceli ve mutlak konum özellikleri ile kıtaların ve okyanusların göreceli konum özelliklerini görselleştirir.",
+   "yayinevi_kodu": "6.22.1.1.2",
+   "not": "Yayınevi metni SB.6.2.1 b'ye yakın ('… görselleştirir').",
+   "gorsel": "gorsel/yargi-6-si2-a-04.png"
+  },
+  {
+   "id": "yargi-6-si2-a-05",
+   "kaynak": "yargi-6-si2-a",
+   "no": 5,
+   "ozet": "Yunus Emre'nin dizelerinden toplumsal birliğe katkı sağlayan değerler çıkarılıyor.",
+   "cikti": "SB.6.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisine ilişkin edindiği bilgileri bağlamdan kopmadan dönüştürür.",
+   "yayinevi_kodu": "6.21.2.1.2",
+   "gorsel": "gorsel/yargi-6-si2-a-05.png"
+  },
+  {
+   "id": "yargi-6-si2-a-06",
+   "kaynak": "yargi-6-si2-a",
+   "no": 6,
+   "ozet": "Türkiye'nin jeopolitik özelliklerinden hangi alanlarda etkili olduğu belirleniyor.",
+   "cikti": "SB.6.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Ülkemizin göreceli ve mutlak konum özellikleri ile kıtaların ve okyanusların göreceli konum özelliklerini belirler.",
+   "yayinevi_kodu": "6.22.1.1.1",
+   "not": "Yayınevi metni SB.6.2.1 b'ye yakın ('… görselleştirir').",
+   "gorsel": "gorsel/yargi-6-si2-a-06.png"
+  },
+  {
+   "id": "yargi-6-si2-a-07",
+   "kaynak": "yargi-6-si2-a",
+   "no": 7,
+   "ozet": "Türkiye'nin göreceli konum özelliklerinden biri olamayacak ifade bulunuyor.",
+   "cikti": "SB.6.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Ülkemizin göreceli ve mutlak konum özellikleri ile kıtaların ve okyanusların göreceli konum özelliklerini özetler.",
+   "yayinevi_kodu": "6.22.1.1.3",
+   "not": "Yayınevi metni SB.6.2.1 b'ye yakın ('… görselleştirir').",
+   "gorsel": "gorsel/yargi-6-si2-a-07.png"
+  },
+  {
+   "id": "yargi-6-si2-a-08",
+   "kaynak": "yargi-6-si2-a",
+   "no": 8,
+   "ozet": "Kuzey Afrika'daki yangın ve sel haberinden toplumsal sorunlar ve çözüm önerileri değerlendiriliyor.",
+   "cikti": "SB.6.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Toplumsal hayatta karşılaşılan sorunlara yönelik çözüm önerilerini müzakere edebilme",
+   "yayinevi_kodu": "6.21.3.1.",
+   "gorsel": "gorsel/yargi-6-si2-a-08.png"
+  },
+  {
+   "id": "yargi-6-si2-a-09",
+   "kaynak": "yargi-6-si2-a",
+   "no": 9,
+   "ozet": "Hava olayları ve hava durumu metninden doğal çevre özelliklerine dair çıkarım yapılıyor.",
+   "cikti": "SB.6.2.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ülkemizin doğal ve beşerî çevre özellikleri arasındaki ilişkiyi çözümleyebilme",
+   "yayinevi_kodu": "6.22.2.1",
+   "gorsel": "gorsel/yargi-6-si2-a-09.png"
+  },
+  {
+   "id": "yargi-6-si2-a-10",
+   "kaynak": "yargi-6-si2-a",
+   "no": 10,
+   "ozet": "Hava durumu metninden doğal ve beşerî çevre ilişkisine dair yorum yapılıyor.",
+   "cikti": "SB.6.2.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ülkemizin doğal ve beşerî çevre özellikleri arasındaki ilişkiyi çözümleyebilme",
+   "yayinevi_kodu": "6.22.2.1",
+   "gorsel": "gorsel/yargi-6-si2-a-10.png"
+  }
+ ]
+}

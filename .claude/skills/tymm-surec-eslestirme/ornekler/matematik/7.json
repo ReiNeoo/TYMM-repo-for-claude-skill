@@ -1,0 +1,592 @@
+{
+ "ders": "matematik",
+ "sinif": 7,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-7-gi1-a",
+   "deneme": "7. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-7-si2-a",
+   "deneme": "7. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-7-gi1-a-01",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 1,
+   "ozet": "Kesirli kenarlı kare karton katlanıp kesilince kalan parçanın çevresi hesaplanıyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-02",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 2,
+   "ozet": "Kesirli kenarlı dikdörtgen kâğıt köşelerinden katlanınca mavi bölgenin alanı hesaplanıyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-03",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 3,
+   "ozet": "Kesirli kenarlı 16 özdeş levhayla oluşturulan dikdörtgenin çevresi hesaplanıyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-04",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 4,
+   "ozet": "Kesirli yarıçaplı tekerleğin 25 turda aldığı yol hesaplanıyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-05",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 5,
+   "ozet": "İki tahtadan kesirli kısımlar kesilince kalan uzunlukların toplamı bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-06",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 6,
+   "ozet": "Ürünlerin gelirdeki rasyonel paylar tablosunda eksik pay (L) bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-07",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 7,
+   "ozet": "Pay tablosu ve fiyat farkından bir ürünün fiyatı (K) bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-08",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 8,
+   "ozet": "Deniz seviyesine göre yunusun konumları tam sayılarla ifade edilip yorumlanıyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-09",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 9,
+   "ozet": "Kartlardaki ifadelerden hem tam sayı hem rasyonel sayı belirtenler seçiliyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-10",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 10,
+   "ozet": "Sayı doğrusuna yerleştirilen kartonun köşesinin karşılık geldiği tam sayı bulunuyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-11",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 11,
+   "ozet": "Devirli ondalık gösterimlerin rasyonel sayı karşılıklarından doğru olanlar seçiliyor.",
+   "cikti": "MAT.7.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam durumlarında rasyonel sayıların ondalık gösterimlerini yansıtabilme",
+   "yayinevi_kodu": "7.21.2.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-12",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 12,
+   "ozet": "Mutlak değeri 5'ten küçük/büyük sayılı küplerle kurulan kulelerin yükseklik farkı bulunuyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-13",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 13,
+   "ozet": "Yazıcıların harcadığı rasyonel mürekkep miktarlarına göre kalan miktarlar sıralanıyor.",
+   "cikti": "MAT.7.1.3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayıların karşılaştırma ve sıralama ilişkilerini yorumlayabilme",
+   "yayinevi_kodu": "7.21.3.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-14",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 14,
+   "ozet": "Koli kulelerinden mavi etiketin yerden yüksekliğinin alabileceği rasyonel değer bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-15",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 15,
+   "ozet": "Üslü tam sayı ifadeleriyle verilen basınç değişimleri küçükten büyüğe sıralanıyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-15.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-16",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 16,
+   "ozet": "Deniz seviyesine göre canlıların konumlarıyla mutlak değerli ifadelerin en küçüğü bulunuyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-16.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-17",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 17,
+   "ozet": "Kartlardaki tam sayıların çarpımı ve toplamıyla elde edilebilecek en küçük toplam bulunuyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-17.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-18",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 18,
+   "ozet": "Kare, küp ve terslerini temsil eden oklarla verilen işlemin sonucu bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-18.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-19",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 19,
+   "ozet": "1 – 2 + 3 – 4 + … – 100 işleminin sonucu bulunuyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-19.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-20",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 20,
+   "ozet": "Kesirli oranlarla zıplayan iki topun üçüncü zıplamadan sonraki yükseklikleri karşılaştırılıyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-20.png"
+  },
+  {
+   "id": "yargi-7-si2-a-01",
+   "kaynak": "yargi-7-si2-a",
+   "no": 1,
+   "ozet": "Parantezli rasyonel sayı işleminin sonucu bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde sayı ve işlem bileşenlerini belirler.",
+   "yayinevi_kodu": "7.21.4.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-01.png"
+  },
+  {
+   "id": "yargi-7-si2-a-02",
+   "kaynak": "yargi-7-si2-a",
+   "no": 2,
+   "ozet": "Özdeş küplerle oluşturulan yapıda kullanılan küp sayısı bulunuyor.",
+   "cikti": "MAT.7.4.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Eş küplerle oluşturulan yapılar ile görünümleri arasındaki ilişkiyi çözümleyebilme",
+   "yayinevi_kodu": "7.24.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-02.png"
+  },
+  {
+   "id": "yargi-7-si2-a-03",
+   "kaynak": "yargi-7-si2-a",
+   "no": 3,
+   "ozet": "Mutlak değeri 4'ten küçük olan rasyonel sayı seçiliyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Tam sayıları rasyonel sayılara genişletir ve mutlak değerle sayı doğrusunda açıklar.",
+   "yayinevi_kodu": "7.21.1.1.2",
+   "gorsel": "gorsel/yargi-7-si2-a-03.png"
+  },
+  {
+   "id": "yargi-7-si2-a-04",
+   "kaynak": "yargi-7-si2-a",
+   "no": 4,
+   "ozet": "Birim küplerle doldurulan şeffaf prizmanın hacmi birimküp olarak bulunuyor.",
+   "cikti": "MAT.7.4.3.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dikdörtgenler prizmasının hacmini eş nesneler aracılığıyla yorumlayabilme",
+   "yayinevi_kodu": "7.24.3.1",
+   "gorsel": "gorsel/yargi-7-si2-a-04.png"
+  },
+  {
+   "id": "yargi-7-si2-a-05",
+   "kaynak": "yargi-7-si2-a",
+   "no": 5,
+   "ozet": "Maden asansörünün yer seviyesine göre son konumunu veren tam sayı işlemi seçiliyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde problem bağlamını uygun temsillere (şekil, sayı doğrusu gibi) dönüştürür.",
+   "yayinevi_kodu": "7.21.4.1.3",
+   "gorsel": "gorsel/yargi-7-si2-a-05.png"
+  },
+  {
+   "id": "yargi-7-si2-a-06",
+   "kaynak": "yargi-7-si2-a",
+   "no": 6,
+   "ozet": "Sayı doğrusunda gösterilen rasyonel sayılarla çok adımlı işlemin sonucu bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Rasyonel Sayılarla Çok Adımlı İşlemler",
+   "yayinevi_kodu": "7.21.21",
+   "not": "Yayınevi etiketi 'Rasyonel Sayılarla Çok Adımlı İşlemler'.",
+   "gorsel": "gorsel/yargi-7-si2-a-06.png"
+  },
+  {
+   "id": "yargi-7-si2-a-07",
+   "kaynak": "yargi-7-si2-a",
+   "no": 7,
+   "ozet": "Rasyonel sayılarla verilen sıvı özkütleleri sıralanıp kaptaki diziliş bulunuyor.",
+   "cikti": "MAT.7.1.3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Tam Sayıların Gerçek Yaşamda Kullanımı",
+   "yayinevi_kodu": "7.21.8",
+   "not": "Yayınevi etiketi 'Tam Sayıların Gerçek Yaşamda Kullanımı'; soru rasyonel sayı sıralaması.",
+   "gorsel": "gorsel/yargi-7-si2-a-07.png"
+  },
+  {
+   "id": "yargi-7-si2-a-08",
+   "kaynak": "yargi-7-si2-a",
+   "no": 8,
+   "ozet": "Her bölümde boyu yarıya inen oyun karakterinin 4. bölümdeki boyu bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/yargi-7-si2-a-08.png"
+  },
+  {
+   "id": "yargi-7-si2-a-09",
+   "kaynak": "yargi-7-si2-a",
+   "no": 9,
+   "ozet": "Kesirli uzunluktaki üç çubuk birleştirilip bölünerek parça uzunluğu bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/yargi-7-si2-a-09.png"
+  },
+  {
+   "id": "yargi-7-si2-a-10",
+   "kaynak": "yargi-7-si2-a",
+   "no": 10,
+   "ozet": "Devirli ondalık kenarlı kare karolardan oluşan motifin çevresi hesaplanıyor.",
+   "cikti": "MAT.7.1.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Her rasyonel sayının devirli ya da devirsiz ondalık açılımları olduğunu değerlendirir.",
+   "yayinevi_kodu": "7.21.2.1.3",
+   "gorsel": "gorsel/yargi-7-si2-a-10.png"
+  },
+  {
+   "id": "yargi-7-si2-a-11",
+   "kaynak": "yargi-7-si2-a",
+   "no": 11,
+   "ozet": "Akvaryuma eklenen kumla su yüksekliğinin değişimi hacimden hesaplanıyor.",
+   "cikti": "MAT.7.4.6.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Dikdörtgenler Prizmasının Hacmi",
+   "yayinevi_kodu": "7.24.3",
+   "not": "Yayınevi etiketi 'Dikdörtgenler Prizmasının Hacmi'.",
+   "gorsel": "gorsel/yargi-7-si2-a-11.png"
+  },
+  {
+   "id": "yargi-7-si2-a-12",
+   "kaynak": "yargi-7-si2-a",
+   "no": 12,
+   "ozet": "Kesirli kenarlı çerçevenin sayı doğrusundaki konumundan bir köşenin karşılık geldiği sayı bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde problem bağlamını uygun temsillere (şekil, sayı doğrusu gibi) dönüştürür.",
+   "yayinevi_kodu": "7.21.4.1.3",
+   "gorsel": "gorsel/yargi-7-si2-a-12.png"
+  },
+  {
+   "id": "yargi-7-si2-a-13",
+   "kaynak": "yargi-7-si2-a",
+   "no": 13,
+   "ozet": "Renkli dikdörtgenler prizması açınımından oluşacak hediye kutusu seçiliyor.",
+   "cikti": "MAT.7.4.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dikdörtgenler prizmasının farklı yüzey açınımlarını inceler.",
+   "yayinevi_kodu": "7.24.2.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-13.png"
+  },
+  {
+   "id": "yargi-7-si2-a-14",
+   "kaynak": "yargi-7-si2-a",
+   "no": 14,
+   "ozet": "Kuvvet sonucunun işaretine göre açılan kasa şifresinde doğru sayılar belirleniyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+   "yayinevi_kodu": "7.21.4.1",
+   "gorsel": "gorsel/yargi-7-si2-a-14.png"
+  },
+  {
+   "id": "yargi-7-si2-a-15",
+   "kaynak": "yargi-7-si2-a",
+   "no": 15,
+   "ozet": "Sayı doğrusu üzerindeki panellerin döndürülmesiyle köşelerin geldiği rasyonel sayılar bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde problem bağlamını uygun temsillere (şekil, sayı doğrusu gibi) dönüştürür.",
+   "yayinevi_kodu": "7.21.4.1.3",
+   "gorsel": "gorsel/yargi-7-si2-a-15.png"
+  },
+  {
+   "id": "yargi-7-si2-a-16",
+   "kaynak": "yargi-7-si2-a",
+   "no": 16,
+   "ozet": "Kare dik prizmanın kesilmesiyle oluşan iki küpün boyanan yüzey alanı hesaplanıyor.",
+   "cikti": "MAT.7.4.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dikdörtgenler prizmalarının yüzey açınımlarından yararlanarak yüzey alanlarını hesaplar.",
+   "yayinevi_kodu": "7.24.2.1.3",
+   "gorsel": "gorsel/yargi-7-si2-a-16.png"
+  },
+  {
+   "id": "yargi-7-si2-a-17",
+   "kaynak": "yargi-7-si2-a",
+   "no": 17,
+   "ozet": "Yakıt göstergesi ve harcanan kesirli miktarlardan depoda kalan yakıt bulunuyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Rasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde istenenler ve seçilen işlemler arasındaki ilişkileri belirler.",
+   "yayinevi_kodu": "7.21.4.1.2",
+   "gorsel": "gorsel/yargi-7-si2-a-17.png"
+  },
+  {
+   "id": "yargi-7-si2-a-18",
+   "kaynak": "yargi-7-si2-a",
+   "no": 18,
+   "ozet": "Uçakların yükseklik değişimlerini gösteren tam sayılarla son konumlar karşılaştırılıyor.",
+   "cikti": "MAT.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Tam Sayıların Gerçek Yaşamda Kullanımı",
+   "yayinevi_kodu": "7.21.8",
+   "not": "Yayınevi etiketi 'Tam Sayıların Gerçek Yaşamda Kullanımı'.",
+   "gorsel": "gorsel/yargi-7-si2-a-18.png"
+  },
+  {
+   "id": "yargi-7-si2-a-19",
+   "kaynak": "yargi-7-si2-a",
+   "no": 19,
+   "ozet": "Uçurtma kuyruğundaki kesirli şerit uzunluklarıyla toplam uzunluk hesaplanıyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Rasyonel Sayılarla Dört İşlem",
+   "yayinevi_kodu": "7.21.20",
+   "not": "Yayınevi etiketi 'Rasyonel Sayılarla Dört İşlem'.",
+   "gorsel": "gorsel/yargi-7-si2-a-19.png"
+  },
+  {
+   "id": "yargi-7-si2-a-20",
+   "kaynak": "yargi-7-si2-a",
+   "no": 20,
+   "ozet": "Uçurtma şeritlerinin rasyonel uzunlukları karşılaştırılıp işlem yapılıyor.",
+   "cikti": "MAT.7.1.4.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Rasyonel Sayılarla Dört İşlem",
+   "yayinevi_kodu": "7.21.20",
+   "not": "Yayınevi etiketi 'Rasyonel Sayılarla Dört İşlem'.",
+   "gorsel": "gorsel/yargi-7-si2-a-20.png"
+  }
+ ]
+}

@@ -1,0 +1,440 @@
+{
+ "ders": "turkce",
+ "sinif": 6,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-6-gi1-a",
+   "deneme": "6. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-6-si2-a",
+   "deneme": "6. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-6-gi1-a-01",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 1,
+   "ozet": "'Çıkarmak' sözcüğünün verilen anlamlarından hiçbiriyle kullanılmadığı cümle bulunuyor.",
+   "cikti": "T.O.6.5.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metnin bağlamından söz varlığı unsurlarının anlamıyla ilgili ipuçlarını belirleyip ön bilgileriyle ilişkilendirir.",
+   "yayinevi_kodu": "6.41.3.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-02",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 2,
+   "ozet": "Unutmanın zihinsel işlevini anlatan metnin konusu soruluyor.",
+   "cikti": "T.O.6.9.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metnin Konusu",
+   "yayinevi_kodu": "6.41.11",
+   "not": "Yayınevi etiketi 'Metnin Konusu'.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-03",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 3,
+   "ozet": "Atasözündeki 'az-çok' zıt anlam ilişkisinin benzerinin bulunduğu cümle seçiliyor.",
+   "cikti": "T.D.6.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dinlediğinde/izlediğinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "yayinevi_kodu": "6.31.1.4",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-04",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 4,
+   "ozet": "Numaralanmış cümlelerin örtük anlam, karşılaştırma ve zıtlık işlevlerine dair söylenemeyecek ifade bulunuyor.",
+   "cikti": "T.O.6.18.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metinde Yardımcı Fikirler",
+   "yayinevi_kodu": "6.41.6",
+   "not": "Yayınevi etiketi 'Metinde Yardımcı Fikirler'.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-05",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 5,
+   "ozet": "Görseldeki kavramların kavram alanına girmeyen altı çizili sözcük bulunuyor.",
+   "cikti": "T.O.6.5.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Söz varlığı unsurlarının anlamına ilişkin mantıklı tahminde bulunur.",
+   "yayinevi_kodu": "6.41.3.1.2",
+   "not": "Yayınevi metni T.D.6.4 b ile T.O.6.5 b'de ortak; okuma sorusu olduğu için T.O.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-06",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 6,
+   "ozet": "Yabancı sözcüklerin Türkçe karşılıklarından yanlış verileni bulunuyor.",
+   "cikti": "T.O.6.20.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Belirlenen söz varlığı unsurlarının anlam ilişkilerini inceler.",
+   "yayinevi_kodu": "6.31.1.20.2",
+   "not": "Yayınevi metni T.D/T.O.6.20 b'de ortak; okuma sorusu → T.O.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-07",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 7,
+   "ozet": "Balıkçı ile torununu anlatan parçanın hikâye unsurlarından yanlış verileni bulunuyor.",
+   "cikti": "T.O.6.13.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Şahıs/varlık kadrosunu, mekânı, zamanı ve olay örgüsünü belirler.",
+   "yayinevi_kodu": "6.41.13.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-08",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 8,
+   "ozet": "Âşık Veysel'in dizelerinde ana duygu, ses benzerliği ve mahlasa dair söylenemeyecek ifade bulunuyor.",
+   "cikti": "T.O.6.17.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Okuduğu şiirin biçim özelliklerini belirler.",
+   "yayinevi_kodu": "6.41.18.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-09",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 9,
+   "ozet": "Virgülün kullanılmamasının anlamı değiştireceği cümle bulunuyor.",
+   "cikti": "T.Y.6.18.",
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Noktalama işaretlerini uygun biçimde kullanır.",
+   "yayinevi_kodu": "6.61.6.1.5",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-10",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 10,
+   "ozet": "Dedeyle konuşmadan yola çıkan metnin derin anlamı soruluyor.",
+   "cikti": "T.O.6.9.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metnin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme",
+   "yayinevi_kodu": "6.41.6.2",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-11",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 11,
+   "ozet": "Metinde anlatılan durumun ilişkilendirilebileceği atasözü seçiliyor.",
+   "cikti": "T.O.6.20.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Atasözleri, Deyimler ve Özdeyişler (Vecizeler)",
+   "yayinevi_kodu": "6.61.4",
+   "not": "Yayınevi etiketi 'Atasözleri, Deyimler ve Özdeyişler'.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-12",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 12,
+   "ozet": "'ki'nin yazımında yanlışlık yapılan cümle bulunuyor.",
+   "cikti": "T.Y.6.18.",
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "“ki”leri kendinden önceki kelimeye ayrı ya da bitişik yazılma durumuna ayırır,cümleye kattığı anlamları bilir.",
+   "yayinevi_kodu": "6.61.6.1.3",
+   "not": "Yayınevi metni 'ki' yazım kuralı (serbest etiket).",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-13",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 13,
+   "ozet": "Verilen geçiş ve bağlantı ifadesi işlevlerinin hepsini içeren metin seçiliyor.",
+   "cikti": "T.Y.6.17.",
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Uygun geçiş ve bağlantı ifadelerini kullanabilme",
+   "yayinevi_kodu": "6.61.5.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-14",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 14,
+   "ozet": "Karikatürdeki boşluklara getirilecek kalıplaşmış sözlerle (dua, tebrik) ilgili yanlış ifade bulunuyor.",
+   "cikti": "T.K.6.16.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Karşısındakinin konuşmasını inceleyerek varsa tutarsız ve geçersiz görüş ve bilgiyi tespit eder.",
+   "yayinevi_kodu": "6.51.2.4.2",
+   "not": "Yayınevi metni T.K.6.16 b'ye yakın ('karşısındakinin konuşmasını inceleyerek…').",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-15",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 15,
+   "ozet": "Lehçe, şive ve ağzı açıklayan metnin derin anlamı soruluyor.",
+   "cikti": "T.O.6.9.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metnin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme",
+   "yayinevi_kodu": "6.41.6.2",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-15.png"
+  },
+  {
+   "id": "yargi-6-si2-a-01",
+   "kaynak": "yargi-6-si2-a",
+   "no": 1,
+   "ozet": "Mecaz anlam açıklamasına göre altı çizili sözcüğün mecaz anlamda kullanıldığı cümle bulunuyor.",
+   "cikti": "T.O.6.5.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Gerçek Anlam, Mecaz Anlam, Terim Anlam",
+   "yayinevi_kodu": "6.41.31",
+   "not": "Yayınevi etiketi 'Gerçek Anlam, Mecaz Anlam, Terim Anlam'.",
+   "gorsel": "gorsel/yargi-6-si2-a-01.png"
+  },
+  {
+   "id": "yargi-6-si2-a-02",
+   "kaynak": "yargi-6-si2-a",
+   "no": 2,
+   "ozet": "Tarihî binada rehberi anlatan metindeki altı çizili sözcüklerin anlamları eşleştiriliyor.",
+   "cikti": "T.O.6.5.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "yayinevi_kodu": "6.41.3.1",
+   "gorsel": "gorsel/yargi-6-si2-a-02.png"
+  },
+  {
+   "id": "yargi-6-si2-a-03",
+   "kaynak": "yargi-6-si2-a",
+   "no": 3,
+   "ozet": "Yazarın son kitabıyla ilgili cümleden çıkarılabilecek yargılar seçiliyor.",
+   "cikti": "T.O.6.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Cümle Yorumlama",
+   "yayinevi_kodu": "6.41.27",
+   "not": "Yayınevi etiketi 'Cümle Yorumlama'.",
+   "gorsel": "gorsel/yargi-6-si2-a-03.png"
+  },
+  {
+   "id": "yargi-6-si2-a-04",
+   "kaynak": "yargi-6-si2-a",
+   "no": 4,
+   "ozet": "Ezber ve iletişim temelli dil öğretimini anlatan numaralı cümlelerde bağlantı ifadeleri değerlendiriliyor.",
+   "cikti": "T.Y.6.17.",
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Uygun geçiş ve bağlantı ifadelerini kullanabilme",
+   "yayinevi_kodu": "6.61.5.1",
+   "gorsel": "gorsel/yargi-6-si2-a-04.png"
+  },
+  {
+   "id": "yargi-6-si2-a-05",
+   "kaynak": "yargi-6-si2-a",
+   "no": 5,
+   "ozet": "Çiftlik üretim oranı grafiklerinden çıkarılabilecek yargılar seçiliyor.",
+   "cikti": "T.O.6.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Görselle iletilen anlamı belirleyebilme",
+   "yayinevi_kodu": "6.41.5.1",
+   "gorsel": "gorsel/yargi-6-si2-a-05.png"
+  },
+  {
+   "id": "yargi-6-si2-a-06",
+   "kaynak": "yargi-6-si2-a",
+   "no": 6,
+   "ozet": "Hazır yemeklerle ilgili iki cümle anlamı bozmadan birleştiriliyor.",
+   "cikti": "T.Y.6.17.",
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Cümle Oluşturma, Tamamlama, Birleştirme",
+   "yayinevi_kodu": "6.41.26",
+   "not": "Yayınevi etiketi 'Cümle Oluşturma, Tamamlama, Birleştirme'.",
+   "gorsel": "gorsel/yargi-6-si2-a-06.png"
+  },
+  {
+   "id": "yargi-6-si2-a-07",
+   "kaynak": "yargi-6-si2-a",
+   "no": 7,
+   "ozet": "Açlığın ruh hâline etkisini anlatan metindeki boşluğa uygun cümle getiriliyor.",
+   "cikti": "T.O.6.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Cümle Oluşturma, Tamamlama, Birleştirme",
+   "yayinevi_kodu": "6.41.26",
+   "not": "Yayınevi etiketi 'Cümle Oluşturma, Tamamlama, Birleştirme'.",
+   "gorsel": "gorsel/yargi-6-si2-a-07.png"
+  },
+  {
+   "id": "yargi-6-si2-a-08",
+   "kaynak": "yargi-6-si2-a",
+   "no": 8,
+   "ozet": "'-mı/-mi' soru ekinin yanlış yazıldığı cümle bulunuyor.",
+   "cikti": "T.Y.6.18.",
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "“mı, mi, mu, mü”nün kendilerinden önceki kelimeye bitişik mi yoksa o kelimeden ayrı mı yazılmış bunu bilir.",
+   "yayinevi_kodu": "6.61.6.1.2",
+   "not": "Yayınevi metni 'mı, mi…' yazım kuralı (serbest etiket).",
+   "gorsel": "gorsel/yargi-6-si2-a-08.png"
+  },
+  {
+   "id": "yargi-6-si2-a-09",
+   "kaynak": "yargi-6-si2-a",
+   "no": 9,
+   "ozet": "Kişisel gelişim kurslarına dair iki kişinin görüşleri incelenip çıkarım yapılıyor.",
+   "cikti": "T.O.6.12.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metindeki olay, konu, durum vb.ni inceler.",
+   "yayinevi_kodu": "6.41.11.1.1",
+   "not": "Yayınevi metni T.O.6.12 a'ya yakın ('Metindeki olay, … vb.ni inceler').",
+   "gorsel": "gorsel/yargi-6-si2-a-09.png"
+  },
+  {
+   "id": "yargi-6-si2-a-10",
+   "kaynak": "yargi-6-si2-a",
+   "no": 10,
+   "ozet": "Ayraçla belirtilen yerlerden nokta getirilemeyecek olan bulunuyor.",
+   "cikti": "T.Y.6.18.",
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Nokta,virgül ve kısa çizginin işlevlerini bilir ve uygun biçimde kullanır.",
+   "yayinevi_kodu": "6.61.6.1.6",
+   "not": "Yayınevi metni 'Nokta, virgül ve kısa çizginin işlevleri' (serbest etiket).",
+   "gorsel": "gorsel/yargi-6-si2-a-10.png"
+  },
+  {
+   "id": "yargi-6-si2-a-11",
+   "kaynak": "yargi-6-si2-a",
+   "no": 11,
+   "ozet": "Aile içi değerleri gösteren görselden söylenebilecek yargı seçiliyor.",
+   "cikti": "T.O.6.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Görselle iletilen anlamı belirleyebilme",
+   "yayinevi_kodu": "6.41.5.1",
+   "gorsel": "gorsel/yargi-6-si2-a-11.png"
+  },
+  {
+   "id": "yargi-6-si2-a-12",
+   "kaynak": "yargi-6-si2-a",
+   "no": 12,
+   "ozet": "Profesyonel çeviri sürecini anlatan metnin yapısından önemli bilgiler belirleniyor.",
+   "cikti": "T.O.6.14.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metin yapısından hareketle önemli bilgileri belirler.",
+   "yayinevi_kodu": "6.41.15.1.1",
+   "gorsel": "gorsel/yargi-6-si2-a-12.png"
+  },
+  {
+   "id": "yargi-6-si2-a-13",
+   "kaynak": "yargi-6-si2-a",
+   "no": 13,
+   "ozet": "Açıklayıcı metin yapısına uygun yazılmış metin seçiliyor.",
+   "cikti": "T.O.6.14.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metnin Yapısı",
+   "yayinevi_kodu": "6.41.15",
+   "not": "Yayınevi etiketi 'Metnin Yapısı'.",
+   "gorsel": "gorsel/yargi-6-si2-a-13.png"
+  },
+  {
+   "id": "yargi-6-si2-a-14",
+   "kaynak": "yargi-6-si2-a",
+   "no": 14,
+   "ozet": "Fedakârlığı anlatan metin yorumlanıyor (ilk soru).",
+   "cikti": "T.O.6.12.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metni yorumlayabilme",
+   "yayinevi_kodu": "6.41.10.1",
+   "gorsel": "gorsel/yargi-6-si2-a-14.png"
+  },
+  {
+   "id": "yargi-6-si2-a-15",
+   "kaynak": "yargi-6-si2-a",
+   "no": 15,
+   "ozet": "Fedakârlığı anlatan metin yorumlanıyor (ikinci soru).",
+   "cikti": "T.O.6.12.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metni yorumlayabilme",
+   "yayinevi_kodu": "6.41.10.1",
+   "gorsel": "gorsel/yargi-6-si2-a-15.png"
+  }
+ ]
+}

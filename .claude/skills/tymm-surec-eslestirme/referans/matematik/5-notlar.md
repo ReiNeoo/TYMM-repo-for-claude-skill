@@ -45,3 +45,13 @@ Bu notlar, yayınevi kazanım tablosuyla doğrulanmış örneklerden çıkarılm
 
 ### MAT.5.3.3
 - Açıölçerle açı ölçüsü okuma → MAT.5.3.3 c (Açı ölçmek için uygun araç ve teknolojiyi kullanır).
+
+## İşleyen Zeka 5. Sınıf Gelişim İzleme 1'den (çıktı düzeyinde tablo)
+
+Yayınevleri aynı tür soruyu farklı çıktılara bağlayabiliyor; aşağıdakiler bu yayınevinin tercihleridir.
+- Kâğıt katlayıp keserek oluşan çokgenlerin kenar sayısı → **MAT.5.3.5** (çokgen oluşturma), MAT.5.3.6 değil.
+- Dik açı ölçüsünden farkları verilen açılardan hangisinin dik olduğu → **MAT.5.3.4**.
+- Bütünler/tümler/ters açı sembolleriyle üçgende bilinmeyen açı → **MAT.5.3.4** (üçgen iç açıları olsa da).
+- Pergel açıklığından çemberin yarıçap/çap ifadeleri → bu yayınevi **MAT.5.3.7**; Eksen benzerini MAT.5.3.1 c
+  etiketledi. Çember özelliği soruluyorsa iki aday da düşünülmeli → güven düşük.
+- Kesişen eş çemberlerle kurulan üçgen (radar, KOM, ABC çevresi, KML açısı) → MAT.5.3.7.

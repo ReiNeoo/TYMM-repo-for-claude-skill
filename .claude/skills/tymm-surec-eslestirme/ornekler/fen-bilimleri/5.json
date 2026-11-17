@@ -1,0 +1,229 @@
+{
+ "ders": "fen-bilimleri",
+ "sinif": 5,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-5-gi1-a",
+   "deneme": "5. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 5,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "5.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-5-gi1-a-01",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 1,
+   "ozet": "Çıplak gözle görülen Güneş lekesi fotoğrafından lekelerin gözlemlenme yollarına dair yanlış yorum bulunuyor.",
+   "cikti": "FB.5.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Güneş’in yapısı ve dönme hareketi ile ilgili bilgileri toplayabilme",
+   "yayinevi_kodu": "5.21.1.1",
+   "yakin_ifade": "programda: '… ilgili bilgi toplayabilme'",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-02",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 2,
+   "ozet": "Ay yüzeyi görüntüsünden ayak izleri, kraterler ve atmosfer yokluğuna dair yorumlar değerlendiriliyor.",
+   "cikti": "FB.5.1.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın özellikleri, dönme ve dolanma hareketleri ile ilgili bilimsel çıkarım yapabilme",
+   "yayinevi_kodu": "5.21.2.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-03",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 3,
+   "ozet": "Ay takviminden evrelerin görüldüğü günlere ve aydınlık alanın değişimine dair ifadeler değerlendiriliyor.",
+   "cikti": "FB.5.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın evrelerini temsil eden bilimsel model oluşturabilme",
+   "yayinevi_kodu": "5.21.2.2",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-04",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 4,
+   "ozet": "Güneş, Dünya ve Ay'ın çap ve uzaklıklarını temsil eden görselden öğrenci yorumları değerlendiriliyor.",
+   "cikti": "FB.5.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Güneş, Dünya ve Ay’ın birbirlerine göre hareketlerini ve hacimsel büyüklüklerini temsil eden bilimsel model oluşturabilme",
+   "yayinevi_kodu": "5.21.3.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-05",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 5,
+   "ozet": "Kuvvetin etkileri, yer çekimi ve dinamometre birimiyle ilgili ifadelerin değerlendirmeleri sınanıyor.",
+   "cikti": "FB.5.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kuvveti büyüklüğü ile operasyonel tanımlayabilme",
+   "yayinevi_kodu": "5.22.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-06",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 6,
+   "ozet": "Ay'ın dönme ve dolanma hareketlerine dair gözlem notlarından doğru çıkarım seçiliyor.",
+   "cikti": "FB.5.1.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın özellikleri, dönme ve dolanma hareketleri ile ilgili bilimsel çıkarım yapabilme",
+   "yayinevi_kodu": "5.21.2.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-07",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 7,
+   "ozet": "Ay'ın dönme ve dolanma hareketlerinin ortak özellikleri (yön, süre, mesafe) belirleniyor.",
+   "cikti": "FB.5.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın özellikleri, dönme ve dolanma hareketleri ile ilgili bilimsel çıkarım yapabilme",
+   "yayinevi_kodu": "5.21.2.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-08",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 8,
+   "ozet": "Güneş-Dünya-Ay modelinden büyüklükler ve dolanma hareketlerine dair doğru öğrenci yorumu seçiliyor.",
+   "cikti": "FB.5.1.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Güneş, Dünya ve Ay’ın birbirlerine göre hareketlerini ve hacimsel büyüklüklerini temsil eden bilimsel model oluşturabilme",
+   "yayinevi_kodu": "5.21.3.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-09",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 9,
+   "ozet": "Ay'ın görünen aydınlık alan grafiğinden evrelere dair yanlış yorum bulunuyor.",
+   "cikti": "FB.5.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın evrelerini temsil eden bilimsel model oluşturabilme",
+   "yayinevi_kodu": "5.21.2.2",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-10",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 10,
+   "ozet": "Ay evrelerinin oluşmasında temel etken (Ay'ın Dünya etrafında dolanması) soruluyor.",
+   "cikti": "FB.5.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın evrelerini temsil eden bilimsel model oluşturabilme",
+   "yayinevi_kodu": "5.21.2.2",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-11",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 11,
+   "ozet": "Ay fotoğraf takviminden Ay'ın Dünya ile Güneş arasında olduğu (yeni ay) tarih bulunuyor.",
+   "cikti": "FB.5.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın evrelerini temsil eden bilimsel model oluşturabilme",
+   "yayinevi_kodu": "5.21.2.2",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-12",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 12,
+   "ozet": "Dinamometreye bir ve iki kitap asılan deneyden kuvvet ile yay uzaması ilişkisine dair sonuç çıkarılıyor.",
+   "cikti": "FB.5.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kuvveti büyüklüğü ile operasyonel tanımlayabilme",
+   "yayinevi_kodu": "5.22.1.1",
+   "ipucu": "Dinamometre deneyinden kuvvet-uzama sonucu, 'dinamometre tasarlıyor' dense de → yayınevi FB.5.2.1 (FB.5.2.2 değil).",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-13",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 13,
+   "ozet": "Özdeş dinamometrelerdeki ölçümlerden cisimlerin uyguladığı kuvvetlere dair doğru yorum seçiliyor.",
+   "cikti": "FB.5.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kuvveti büyüklüğü ile operasyonel tanımlayabilme",
+   "yayinevi_kodu": "5.22.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-14",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 14,
+   "ozet": "Ana ve ara evreler arası süreden yaklaşık iki hafta geçen evre çiftleri belirleniyor.",
+   "cikti": "FB.5.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Ay’ın evrelerini temsil eden bilimsel model oluşturabilme",
+   "yayinevi_kodu": "5.21.2.2",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-15",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 15,
+   "ozet": "Farklı kapasiteli dinamometrelerdeki bölme sayılarından cisimlerin kuvvetleri sıralanıyor.",
+   "cikti": "FB.5.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Kuvveti büyüklüğü ile operasyonel tanımlayabilme",
+   "yayinevi_kodu": "5.22.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-15.png"
+  }
+ ]
+}

@@ -10,6 +10,15 @@
    "kitapcik": "A",
    "tarih": null,
    "tablo_dosyasi": "data.xlsx"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a",
+   "deneme": "5. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 5,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "5.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
   }
  ],
  "sorular": [
@@ -218,6 +227,221 @@
    "yayinevi_metni": "Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar.",
    "ipucu": "Harflerde dik doğru parçası var mı (çizimin özelliğinden çıkarım) → MAT.5.3.2 b; MAT.5.3.4 değil.",
    "gorsel": "gorsel/eksen-5-sd1-a-15.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-01",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 1,
+   "ozet": "Kareli zemindeki mahalle krokisinde doğru parçalarının uzunluk, paralellik ve diklik ifadelerinden yanlışı bulunuyor.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme",
+   "yayinevi_kodu": "5.23.2.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-02",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 2,
+   "ozet": "Katlanıp kesilen kâğıt açılınca oluşan dış ve iç çokgenlerin kenar sayıları farkı soruluyor.",
+   "cikti": "MAT.5.3.5.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şekiller olarak yorumlayabilme",
+   "yayinevi_kodu": "5.23.5.1",
+   "ipucu": "Kâğıdı katlayıp keserek oluşan çokgenlerin kenar sayısı → yayınevi MAT.5.3.5 (çokgen oluşturma), MAT.5.3.6 değil.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-03",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 3,
+   "ozet": "Kalp biçimli çikolatadaki çokgensel bölgelerin kenar, köşe ve köşegen özelliklerine dair doğru ifade seçiliyor.",
+   "cikti": "MAT.5.3.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme",
+   "yayinevi_kodu": "5.23.6.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-04",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 4,
+   "ozet": "Doğru parçası, ışın, doğru ve noktanın sembolle gösterimleri ile tanımlarından doğru olanlar seçiliyor.",
+   "cikti": "MAT.5.3.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme",
+   "yayinevi_kodu": "5.23.2.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-05",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 5,
+   "ozet": "Cetvel üzerinde açıklığı ayarlanan pergelle çizilen çemberin yarıçap, çap ve merkez uzaklığı ifadelerinden yanlışı bulunuyor.",
+   "cikti": "MAT.5.3.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.7.1",
+   "ipucu": "Pergel açıklığından çemberin yarıçap/çapına dair ifadeler → yayınevi MAT.5.3.7 dedi; Eksen benzer pergel sorusunu MAT.5.3.1 c etiketledi (yayınevleri ayrışıyor).",
+   "not": "Bileşen Claude: MAT.5.3.7 bileşenleri kesişen çember üçgenleri içindir; soruya en yakın b seçildi.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-06",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 6,
+   "ozet": "Dik açıdan farkları verilen panel ayağı açılarından hangisinin çatıya dik olduğu bulunuyor.",
+   "cikti": "MAT.5.3.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.4.1",
+   "ipucu": "Dik açı ölçüsünden hareketle açıları belirleme → yayınevi MAT.5.3.4.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-07",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 7,
+   "ozet": "Kesişen iki lazer ışınının oluşturduğu dar açıdan geniş açının ölçüsü hesaplanıyor.",
+   "cikti": "MAT.5.3.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.4.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-08",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 8,
+   "ozet": "Kesişen iki doğrunun oluşturduğu dört açıdan üçünün toplamı verilip açılardan biri bulunuyor.",
+   "cikti": "MAT.5.3.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.4.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-09",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 9,
+   "ozet": "Kesişimde dört açı eşit olduğunda iki doğrunun birbirine göre durumu (dik kesişen) soruluyor.",
+   "cikti": "MAT.5.3.4.",
+   "bilesenler": [
+    "ç"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.4.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-10",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 10,
+   "ozet": "İki iç açısı verilen üçgen yelkenin dar/dik/geniş açılı oluşuna göre teknenin hız değişimi bulunuyor.",
+   "cikti": "MAT.5.3.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme",
+   "yayinevi_kodu": "5.23.6.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-11",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 11,
+   "ozet": "Açı ve kenar özellikleri verilen üçgenlerin türlerine dair ifadelerden yanlışı bulunuyor.",
+   "cikti": "MAT.5.3.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme",
+   "yayinevi_kodu": "5.23.6.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-12",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 12,
+   "ozet": "Bütünler, tümler ve ters açı sembolleriyle verilen üçgenlerde bilinmeyen açıların toplamı hesaplanıyor.",
+   "cikti": "MAT.5.3.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.4.1",
+   "ipucu": "Bütünler/tümler/ters açı hesabı içeren soru, üçgen iç açıları olsa da → yayınevi MAT.5.3.4.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-13",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 13,
+   "ozet": "Eş yarıçaplı iki radarın merkezleri ve kesişim noktasıyla oluşan üçgenin özelliklerinden yanlışı bulunuyor.",
+   "cikti": "MAT.5.3.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.7.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-14",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 14,
+   "ozet": "Kesişen iki eş çemberin merkezleri ve kesişim noktasıyla oluşan eşkenar üçgenin çevresi hesaplanıyor.",
+   "cikti": "MAT.5.3.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.7.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-15",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 15,
+   "ozet": "Kesişen eş çemberlerle oluşan şekilde verilen açıdan KML açısının ölçüsü bulunuyor.",
+   "cikti": "MAT.5.3.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme",
+   "yayinevi_kodu": "5.23.7.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-15.png"
   }
  ]
 }

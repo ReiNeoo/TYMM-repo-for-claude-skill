@@ -50,9 +50,23 @@ Tablo bu biçimde değilse (PDF tablo, görsel, farklı sütunlar, kod içeren t
 `ortak.metin_esle` kullanılabilir.
 
 Kontrol: tablodaki ders başına soru sayısı kitapçıktakiyle aynı mı? Kitapçık harfi doğru sütun mu?
+Soru no sütunu yoksa (ör. Yargı tabloları) numara ders içindeki satır sırasından verilir. **Satır kayması**
+olabilir (İşleyen Zeka 6 Fen 2-5): kırptıktan sonra her satırın metnini soruyla karşılaştır; kaymışsa satırları
+içeriğe göre hizala (etiketi değiştirmeden) ve `not` yaz.
 
 ## 3. Soruları kırp
-Her PDF için ayrı blok klasörü:
+**Metin katmanlı PDF (önce bunu dene):** sayfa/blok önizlemesi gerekmez. Her ders için:
+```bash
+$PY $S/soru_kirp.py harita-metin <kitapçık.pdf> tmp/ornek/<id>/harita-<pdf-adı>.json     --ders <ders> --sayfalar <ilk-son> --soru-sayisi <n>
+$PY $S/soru_kirp.py kes <kitapçık.pdf> - tmp/ornek/<id>/harita-<pdf-adı>.json tmp/ornek/<id>/soru
+$PY $S/soru_kirp.py pano tmp/ornek/<id>/soru tmp/ornek/<id>/pano-<ders>.png --onek <ders>   # tek görselde kontrol
+$PY $S/soru_metni.py <kitapçık.pdf> tmp/ornek/<id>/harita-<pdf-adı>.json --onek <ders>       # soru metinleri
+```
+Numaralar sütun ya da satır düzeninde olabilir; "N ve M. soruları…" / "Answer the questions …" kökleri
+ilgili sorulara eklenir; eğik filigran ve "6. Sınıf" sayfa başlığı ayıklanır. "EKSİK" uyarısı veren ya da
+panoda kesik görünen soruyu haritada elle düzelt (`{"sayfa", "kutu"}`).
+
+**Taranmış PDF:** her PDF için ayrı blok klasörü:
 ```bash
 $PY $S/soru_kirp.py bloklar <kitapçık.pdf> tmp/ornek/<id>/<pdf-adı> [--sayfalar 2-8]
 ```
@@ -112,6 +126,9 @@ tekrar eklenirse eski kayıtların yerine geçer.
 ```bash
 $PY $S/degerlendir.py tmp/ornek/<id>/tahmin.json --kaynak <id>
 ```
+Ölçüm: `yayinevi` satırlarında çıktı + bileşen, `yayinevi+claude` satırlarında yalnızca çıktı ölçülür;
+`claude` satırları ölçülmez. Tahminde tablo satırını önceden gördüğün soruyu `"sizinti": true` ile işaretle.
+Sonucu `tmp/ornek/OLCUMLER.md` günlüğüne ekle.
 Yanlış etiketlenen sorulardan genellenebilir bir ayrım kuralı çıkıyorsa
 `referans/<ders>/<sınıf>-notlar.md`'ye ekle ve ilgili örneğin `ipucu` alanına yaz. Doğruluğu
 kullanıcıya ders bazında bildir (yayınevi etiketli / Claude tamamlamış ayrı).

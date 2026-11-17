@@ -20,8 +20,9 @@ PDF + yayınevi tablosu olarak verir; `tymm-ornek-ekle` skill'i bunları bankaya
   - `referans/<ders>/<sınıf>.json` — çıktılar, süreç bileşenleri, plan haftaları (şema: `referans/README.md`)
   - `ornekler/<ders>/<sınıf>.json` — örnek bankası etiketleri (şema: `ornekler/README.md`);
   `ornekler/<ders>/gorsel/` — kırpılmış soru görselleri, **git dışında** (yayınevi içeriği)
-  - `scripts/` — skill'in kullandığı betikler: `sayfa_goruntule.py`, `soru_kirp.py` (bloklar/kes),
-  `yayinevi_tablo.py` (xlsx → tablo.json), `ornek_ekle.py`, `ornek_bul.py`, `degerlendir.py`, `ortak.py`
+  - `scripts/` — skill'in kullandığı betikler: `sayfa_goruntule.py`, `soru_kirp.py` (bloklar / harita-metin /
+  kes / pano), `soru_metni.py` (soru başına metin), `kapsam.py` (aday çıktı listesi), `yayinevi_tablo.py`
+  (xlsx → tablo.json), `ornek_ekle.py`, `ornek_bul.py`, `degerlendir.py`, `ortak.py`
 - `.claude/skills/tymm-ornek-ekle/` — PDF + yayınevi tablosunu bankaya ekleme skill'i (betikleri yukarıdakilerdir).
 - `data/` — kullanıcının verdiği deneme PDF'leri (`pdf_dosyalari/`) ve yayınevi kazanım tabloları
   (`excel_dosyalari/`); **git dışında**, salt okunur.
@@ -30,8 +31,7 @@ PDF + yayınevi tablosu olarak verir; `tymm-ornek-ekle` skill'i bunları bankaya
 ## Kaynak dosya kuralları
 
 - `tymm_programmes/` altındaki PDF ve zip dosyaları **salt okunurdur**; değiştirme, taşıma, silme.
-- Zip'leri ve PDF metin çıktılarını yalnızca `tmp/` altına çıkar (`.gitignore`'da tanımlı, co,
-- mmit'lenmez).
+- Zip'leri ve PDF metin çıktılarını yalnızca `tmp/` altına çıkar (`.gitignore`'da tanımlı, commit'lenmez).
 - Bazı dosya adlarında boşluk/parantez var (`... (2).pdf`); komutlarda yolları tırnakla.
 - Türkçe arşivindeki `2026-2027 Türkçe 8 Hecce Yayınları Çerçeve Yıllık Plan.xlsx` bir yayınevi
 planıdır, **kullanılmaz**. Yalnızca `TÜRKÇE (5-8. SINIFLAR) TASLAK ÇERÇEVE YILLIK PLAN+++.xlsx` esas alınır.
@@ -101,8 +101,8 @@ beceri alanlarında olabilir; sayfanın "ALAN BECERİSİ" başlığıyla ayırt 
 bazı satırlarda pdftotext boşlukları kaybediyor (FB.5.3.1.) → PyMuPDF ile onarılıyor.
 - Kaynakta eksikler `kaynak_notlari`'na yazılır, uydurulmaz: ör. ENG.7.5.W7. listede yok; bazı Türkçe
 çıktılarda (Akıcı okuyabilme vb.) süreç bileşeni verilmemiş.
-- **2026-2027 taslak planında 7. sınıf İngilizce eski programla** (E7.x kodları) hazırlanmış; TYMM ENG.7
-referansı var ama kullanmadan önce kullanıcıya sorulmalı.
+- **2026-2027 taslak planında 7. sınıf İngilizce eski programla** (E7.x kodları) hazırlanmış. Kullanıcı
+kararı (2026-11-17): 7. sınıf İngilizce de **TYMM'ye (ENG.7) göre** eşlenir; plan haftaları kullanılamaz.
 - Doğrulama: Matematik/Fen/Sosyal/Türkçe için tema bazında çıktı sayıları ve ders saatleri PDF'teki
 özet tablolarla birebir tutuyor (5–7). Plan haftaları: tüm kodlar planda bulundu (İngilizce 7 hariç).
 
@@ -115,8 +115,13 @@ referansı var ama kullanmadan önce kullanıcıya sorulmalı.
 
 ## Sonraki adımlar
 
-1. `eksen-5-sd1-a`'nın diğer derslerini (Fen, Türkçe, Sosyal, İngilizce) bankaya ekle
-
-   (`tmp/sayısal.pdf`, `tmp/sosyal.pdf`, `tmp/test/data.xlsx`; tablo.json hazır, yalnızca Matematik eklendi).
-2. Kullanıcının vereceği yeni denemeleri "önce ölç, sonra ekle" düzeniyle işle; doğruluğu ders bazında izle.
-3. Açık soruları netleştir.
+Bankada (2026-11-17): eksen-5 (yalnız Mat), İşleyen Zeka Gelişim İzleme 1 (5, 6, 7), Yargı Süreç İzleme 2
+(6, 7). Ölçüm günlüğü: `tmp/ornek/OLCUMLER.md` (git dışında). Bekleyenler:
+1. Yargı 5 (`data/`): sabit test seti olarak ayrıldı; bankaya eklenmeden ölçülecek. Bu oturumda tablosu
+   görüldüğü için ölçüm yeni bir oturumda yapılmalı.
+2. eksen-5-sd1-a'nın diğer dersleri (`tmp/sayısal.pdf`, `tmp/sosyal.pdf`, tablo.json hazır).
+3. Yargı kırpımlarından bazıları eksik (ör. yargi-6 fen-01/02); pano ile gözden geçirip haritayı elle düzelt.
+4. Bileşen doğruluğu düşük ve yayınevine bağlı: notlardaki kuralları yayınevi adıyla yaz; `ornek_bul`
+   çıktısında aynı yayınevinin örneklerini öne almak düşünülebilir.
+5. İngilizce: yayınevi etiketleri tahmin edilemiyor / eski program; ölçümden ayrı tutulmalı.
+6. Açık soruları netleştir (8. sınıf, Din Kültürü).

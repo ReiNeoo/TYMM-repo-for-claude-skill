@@ -1,0 +1,600 @@
+{
+ "ders": "turkce",
+ "sinif": 7,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-7-gi1-a",
+   "deneme": "7. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-7-si2-a",
+   "deneme": "7. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-7-gi1-a-01",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 1,
+   "ozet": "'Görmek' sözcüğünün ayraç içindeki anlamına uygun kullanılmadığı cümle bulunuyor.",
+   "cikti": "T.O.7.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metnin bağlamından söz varlığı unsurlarının anlamıyla ilgili ipuçlarını belirleyip ön bilgileriyle ilişkilendirir.",
+   "yayinevi_kodu": "7.41.3.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-02",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 2,
+   "ozet": "Sebep-sonuç metin yapısı açıklanıp bu yapıya uygun paragraf/cümle seçiliyor.",
+   "cikti": "T.O.7.13.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Neden-Sonuç Cümleleri",
+   "yayinevi_kodu": "7.41.28",
+   "not": "Yayınevi etiketi 'Neden-Sonuç Cümleleri'.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-03",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 3,
+   "ozet": "İyi bir gezgini anlatan paragrafın başındaki boşluğa getirilecek cümle bulunuyor.",
+   "cikti": "T.O.7.25.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metinde yer alan olay ya da durumu problem biçiminde tanımlar.",
+   "yayinevi_kodu": "7.41.24.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-04",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 4,
+   "ozet": "Dizelerdeki söz sanatına (abartma/kişileştirme) benzer sanatın kullanıldığı dizeler seçiliyor.",
+   "cikti": "T.O.7.18.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Benzetme, Kişileştirme ve Konuşturma",
+   "yayinevi_kodu": "7.41.35",
+   "not": "Yayınevi etiketi 'Benzetme, Kişileştirme ve Konuşturma'.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-05",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 5,
+   "ozet": "Mimarın binayı tasarlarken gözetmesi gerekenleri anlatan metnin derin anlamı soruluyor.",
+   "cikti": "T.O.7.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metnin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme",
+   "yayinevi_kodu": "7.41.6.1",
+   "not": "Yayınevi metni T.O.7.7 çıktısına yakın ('basit çıkarımlar').",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-06",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 6,
+   "ozet": "Ahmet Usta'yı anlatan metinde numaralı yerlere getirilecek noktalama işaretleri bulunuyor.",
+   "cikti": "T.Y.7.19.",
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Noktalama işaretlerini uygun biçimde kullanır.",
+   "yayinevi_kodu": "7.61.6.1.5",
+   "not": "Yayınevi metni 'Noktalama işaretlerini uygun biçimde kullanır.'",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-07",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 7,
+   "ozet": "'Herkesin üç kişiliği vardır' sözüyle çelişen ifade bulunuyor.",
+   "cikti": "T.O.7.9.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Belirlenen özelliklerden hareketle farklılıkları listeler.",
+   "yayinevi_kodu": "7.41.8.1.3",
+   "not": "Yayınevi metni T.O.7.9 c'ye yakın ('farklılıkları listeler').",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-08",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 8,
+   "ozet": "Hayvanların savunma mekanizmalarını anlatan metinde kullanılan düşünceyi geliştirme yolları belirleniyor.",
+   "cikti": "T.O.7.17.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme",
+   "yayinevi_kodu": "7.41.19.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-09",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 9,
+   "ozet": "Verilen anlama karşılık gelen atasözü seçiliyor.",
+   "cikti": "T.O.7.20.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Atasözleri, Deyimler ve Özdeyişler (Vecizeler)",
+   "yayinevi_kodu": "7.61.4",
+   "not": "Yayınevi etiketi 'Atasözleri, Deyimler ve Özdeyişler'.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-10",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 10,
+   "ozet": "Çocuğun annesine yazdığı ikna amaçlı mesajın özellikleri değerlendiriliyor.",
+   "cikti": "T.Y.7.17.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "İletileri açık ve anlaşılır şekilde ifade eder.",
+   "yayinevi_kodu": "7.61.4.1.1",
+   "not": "Yayınevi metni 'İletileri açık ve anlaşılır şekilde ifade eder.' programda yok.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-11",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 11,
+   "ozet": "Sunum metnindeki cümlelerden yazım kuralına uymayanlar bulunuyor.",
+   "cikti": "T.Y.7.19.",
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Yazım Kuralları ve Noktalama İşaretleri",
+   "yayinevi_kodu": "7.61.6",
+   "not": "Yayınevi etiketi 'Yazım Kuralları ve Noktalama İşaretleri'.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-12",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 12,
+   "ozet": "Aynı feneri anlatan iki metin karşılaştırılıp ulaşılan yargı soruluyor.",
+   "cikti": "T.O.7.9.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Karşılaştırma sonucunda ulaştığı yargıyı yazısında kullanır.",
+   "yayinevi_kodu": "7.61.1.13.4",
+   "not": "Yayınevi metni ('Karşılaştırma sonucunda ulaştığı yargıyı yazısında kullanır') 7. sınıf programında yok (6. sınıf T.Y.6.7 ç); okuma karşılaştırması T.O.7.9 seçildi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-13",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 13,
+   "ozet": "Tablosuna boya dökülen ressamın hikâyesinde farklı bölümlerdeki duygu değişimi soruluyor.",
+   "cikti": "T.O.7.9.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metnin farklı bölümlerindeki karşılaştırılabilir unsurlara (duygu, düşünce, görüş, kahraman, dil kullanımı vb.) ilişkin özellikleri belirler.",
+   "yayinevi_kodu": "7.41.8.1.1",
+   "not": "Yayınevi metni 'Metnin farklı bölümlerindeki karşılaştırılabilir unsurlara…' (karşılaştırma).",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-14",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 14,
+   "ozet": "Güvenlik kamerasının dört anlık görüntüsünden kesin olarak ulaşılabilecek yargı bulunuyor.",
+   "cikti": "T.O.7.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Görselde doğrudan ve/veya örtük olarak iletilen mesajı belirler.",
+   "yayinevi_kodu": "7.41.5.1.2",
+   "not": "Yayınevi metni T.O.7.6 b'ye yakın ('görselde iletilen mesajı belirler').",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-15",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 15,
+   "ozet": "Beş öğrencinin ders seçimleri koşullarından kesin bilgi çıkarılıyor (sözel mantık).",
+   "cikti": "T.O.7.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "İlişkilendirmeden hareketle çıkarım yapar.",
+   "yayinevi_kodu": "7.41.6.2.2",
+   "not": "Yayınevi metni 'İlişkilendirmeden hareketle çıkarım yapar.' programda yok.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-15.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-16",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 16,
+   "ozet": "Geleneksel ahşap oymacılığını anlatan metne getirilebilecek en uygun başlık soruluyor.",
+   "cikti": "T.O.7.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Matnin Başlığı",
+   "yayinevi_kodu": "7.41.2",
+   "not": "Yayınevi etiketi 'Metnin Başlığı'.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-16.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-17",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 17,
+   "ozet": "Geri dönüştürülmüş plastik kullanan teknoloji firmasının konuşmasından yüzey anlamı soruluyor.",
+   "cikti": "T.O.7.5.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metnin yüzey anlamını belirleyebilme",
+   "yayinevi_kodu": "7.41.3.2",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-17.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-18",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 18,
+   "ozet": "Firma konuşmasındaki bir sözcüğün bağlamdaki anlamı tahmin ediliyor.",
+   "cikti": "T.O.7.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "yayinevi_kodu": "7.41.3.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-18.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-19",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 19,
+   "ozet": "Yalova çiçekçiliği görselindeki bilgilerden ulaşılabilecek yargı bulunuyor.",
+   "cikti": "T.O.7.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Görselle iletilen anlamı belirleyebilme",
+   "yayinevi_kodu": "7.41.5.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-19.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-20",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 20,
+   "ozet": "Yalova görselinde kullanılan anlatım/söz sanatı ya da düşünceyi geliştirme yolu belirleniyor.",
+   "cikti": "T.O.7.18.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme",
+   "yayinevi_kodu": "7.41.20.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-20.png"
+  },
+  {
+   "id": "yargi-7-si2-a-01",
+   "kaynak": "yargi-7-si2-a",
+   "no": 1,
+   "ozet": "'Geri' sözcüğünün 'bir şeyin sonu, sonucu' anlamında kullanıldığı cümle bulunuyor.",
+   "cikti": "T.O.7.4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "yayinevi_kodu": "7.41.3.1",
+   "gorsel": "gorsel/yargi-7-si2-a-01.png"
+  },
+  {
+   "id": "yargi-7-si2-a-02",
+   "kaynak": "yargi-7-si2-a",
+   "no": 2,
+   "ozet": "Basketbol takımıyla ilgili cümleden çıkarılabilecek yargılar seçiliyor.",
+   "cikti": "T.O.7.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Cümle Yorumlama",
+   "yayinevi_kodu": "7.41.27",
+   "not": "Yayınevi etiketi 'Cümle Yorumlama'.",
+   "gorsel": "gorsel/yargi-7-si2-a-02.png"
+  },
+  {
+   "id": "yargi-7-si2-a-03",
+   "kaynak": "yargi-7-si2-a",
+   "no": 3,
+   "ozet": "Hata yapma kaygısına dair Selin ve Kaan'ın görüşleri yorumlanıyor.",
+   "cikti": "T.O.7.11.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metni yorumlayabilme",
+   "yayinevi_kodu": "7.41.10.1",
+   "gorsel": "gorsel/yargi-7-si2-a-03.png"
+  },
+  {
+   "id": "yargi-7-si2-a-04",
+   "kaynak": "yargi-7-si2-a",
+   "no": 4,
+   "ozet": "Problemi parçalara ayırarak çözmeyi anlatan cümlelerde kavram ve duygular belirleniyor.",
+   "cikti": "T.O.7.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Cümlede Kavram ve Duygular",
+   "yayinevi_kodu": "7.41.25",
+   "not": "Yayınevi etiketi 'Cümlede Kavram ve Duygular'.",
+   "gorsel": "gorsel/yargi-7-si2-a-04.png"
+  },
+  {
+   "id": "yargi-7-si2-a-05",
+   "kaynak": "yargi-7-si2-a",
+   "no": 5,
+   "ozet": "Üç aşamalı yüzme turnuvası tablosundan kesin yargıya ulaşılıyor (sözel mantık).",
+   "cikti": "T.O.7.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Sözel Mantık ve Muhakeme",
+   "yayinevi_kodu": "7.41.24",
+   "not": "Yayınevi etiketi 'Sözel Mantık ve Muhakeme'.",
+   "gorsel": "gorsel/yargi-7-si2-a-05.png"
+  },
+  {
+   "id": "yargi-7-si2-a-06",
+   "kaynak": "yargi-7-si2-a",
+   "no": 6,
+   "ozet": "Futbol kursu için anne-babaya yazılan ikna mektubunun yapısı değerlendiriliyor.",
+   "cikti": "T.O.7.13.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metnin Yapısı",
+   "yayinevi_kodu": "7.41.15",
+   "not": "Yayınevi etiketi 'Metnin Yapısı'.",
+   "gorsel": "gorsel/yargi-7-si2-a-06.png"
+  },
+  {
+   "id": "yargi-7-si2-a-07",
+   "kaynak": "yargi-7-si2-a",
+   "no": 7,
+   "ozet": "Akran ilişkilerinin sağlıksız kurulmasını anlatan metinde sorun belirleniyor.",
+   "cikti": "T.O.7.25.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metinde yer alan olay ya da durumu problem biçiminde tanımlar.",
+   "yayinevi_kodu": "7.41.24.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-07.png"
+  },
+  {
+   "id": "yargi-7-si2-a-08",
+   "kaynak": "yargi-7-si2-a",
+   "no": 8,
+   "ozet": "Plastik şişelerle ilgili numaralı cümlelerden oluşan metnin konusu soruluyor.",
+   "cikti": "T.O.7.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metnin Konusu",
+   "yayinevi_kodu": "7.41.11.1",
+   "not": "Yayınevi etiketi 'Metnin Konusu'.",
+   "gorsel": "gorsel/yargi-7-si2-a-08.png"
+  },
+  {
+   "id": "yargi-7-si2-a-09",
+   "kaynak": "yargi-7-si2-a",
+   "no": 9,
+   "ozet": "Ayraçla belirtilen yere noktalı virgül getirilmesi gereken cümle bulunuyor.",
+   "cikti": "T.Y.7.19.",
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Noktalama işaretlerini uygun biçimde kullanır.",
+   "yayinevi_kodu": "7.61.6.1.5",
+   "not": "Yayınevi metni 'Noktalama işaretlerini uygun biçimde kullanır.'",
+   "gorsel": "gorsel/yargi-7-si2-a-09.png"
+  },
+  {
+   "id": "yargi-7-si2-a-10",
+   "kaynak": "yargi-7-si2-a",
+   "no": 10,
+   "ozet": "Zorluklar karşısındaki iki tip insanı anlatan metindeki sözcük/söz öbeğinin anlamı tahmin ediliyor.",
+   "cikti": "T.O.7.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme",
+   "yayinevi_kodu": "7.41.3.1",
+   "gorsel": "gorsel/yargi-7-si2-a-10.png"
+  },
+  {
+   "id": "yargi-7-si2-a-11",
+   "kaynak": "yargi-7-si2-a",
+   "no": 11,
+   "ozet": "Demir yollarını anlatan metinde kullanılan düşünceyi geliştirme yolları belirleniyor.",
+   "cikti": "T.O.7.17.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Yazarın başvurduğu düşünceyi geliştirme yollarını belirler.",
+   "yayinevi_kodu": "7.41.19.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-11.png"
+  },
+  {
+   "id": "yargi-7-si2-a-12",
+   "kaynak": "yargi-7-si2-a",
+   "no": 12,
+   "ozet": "Metinlerde başvurulan ikna tekniklerinden yanlış verileni bulunuyor.",
+   "cikti": "T.O.7.19.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metinde kullanılan ikna etme tekniklerini belirlemeye yönelik çözümleme yapabilme",
+   "yayinevi_kodu": "7.41.21.1",
+   "yakin_ifade": "programda: 'Metinde kullanılan ikna tekniklerini belirlemeye yönelik çözümleme yapabilme' (benzerlik 0.97)",
+   "gorsel": "gorsel/yargi-7-si2-a-12.png"
+  },
+  {
+   "id": "yargi-7-si2-a-13",
+   "kaynak": "yargi-7-si2-a",
+   "no": 13,
+   "ozet": "Yazım yanlışı bulunan cümle bulunuyor.",
+   "cikti": "T.Y.7.19.",
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Yazım kurallarını uygular.",
+   "yayinevi_kodu": "7.61.6.1.4",
+   "not": "Yayınevi metni 'Yazım kurallarını uygular.'",
+   "gorsel": "gorsel/yargi-7-si2-a-13.png"
+  },
+  {
+   "id": "yargi-7-si2-a-14",
+   "kaynak": "yargi-7-si2-a",
+   "no": 14,
+   "ozet": "Yetersiz su tüketiminin etkilerini anlatan metnin konusu soruluyor.",
+   "cikti": "T.O.7.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metnin Konusu",
+   "yayinevi_kodu": "7.41.11.1",
+   "not": "Yayınevi etiketi 'Metnin Konusu'.",
+   "gorsel": "gorsel/yargi-7-si2-a-14.png"
+  },
+  {
+   "id": "yargi-7-si2-a-15",
+   "kaynak": "yargi-7-si2-a",
+   "no": 15,
+   "ozet": "Bir metnin giriş cümlesi olamayacak cümle bulunuyor.",
+   "cikti": "T.O.7.15.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme",
+   "yayinevi_kodu": "7.41.17.1",
+   "gorsel": "gorsel/yargi-7-si2-a-15.png"
+  },
+  {
+   "id": "yargi-7-si2-a-16",
+   "kaynak": "yargi-7-si2-a",
+   "no": 16,
+   "ozet": "Zeynep, Can ve kedi Pamuk'un hikâyesinde hikâye unsurları belirleniyor.",
+   "cikti": "T.O.7.12.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Öyküleyici metinlerdeki hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme",
+   "yayinevi_kodu": "7.41.13.1",
+   "gorsel": "gorsel/yargi-7-si2-a-16.png"
+  },
+  {
+   "id": "yargi-7-si2-a-17",
+   "kaynak": "yargi-7-si2-a",
+   "no": 17,
+   "ozet": "Sanatın toplumsal dönüşümdeki rolünü anlatan numaralı cümlelerde neden-sonuç ilişkisi belirleniyor.",
+   "cikti": "T.O.7.13.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Neden-Sonuç Cümleleri",
+   "yayinevi_kodu": "7.41.28",
+   "not": "Yayınevi etiketi 'Neden-Sonuç Cümleleri'.",
+   "gorsel": "gorsel/yargi-7-si2-a-17.png"
+  },
+  {
+   "id": "yargi-7-si2-a-18",
+   "kaynak": "yargi-7-si2-a",
+   "no": 18,
+   "ozet": "Vecihi Hürkuş'un hayat kronolojisinden bağlama dair bilgi çıkarılıyor.",
+   "cikti": "T.O.7.5.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metin ve varsa ona eşlik eden görsellerden hareketle bağlama/konuya dair ipuçlarını bulup ön bilgileriyle bağlantı kurar.",
+   "yayinevi_kodu": "7.41.3.2.1",
+   "not": "Yayınevi metni T.O.7.5 a'ya yakın ('Metin ve varsa ona eşlik eden görsellerden … bağlama').",
+   "gorsel": "gorsel/yargi-7-si2-a-18.png"
+  },
+  {
+   "id": "yargi-7-si2-a-19",
+   "kaynak": "yargi-7-si2-a",
+   "no": 19,
+   "ozet": "Kriz yönetimini anlatan metinden yargıya ulaşılıyor (ilk soru).",
+   "cikti": "T.O.7.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Bir yargıya vararak gerektiğinde tepki verir.",
+   "yayinevi_kodu": "7.41.6.1.3",
+   "not": "Yayınevi metni 'Bir yargıya vararak gerektiğinde tepki verir.' 7. sınıf programında yok.",
+   "gorsel": "gorsel/yargi-7-si2-a-19.png"
+  },
+  {
+   "id": "yargi-7-si2-a-20",
+   "kaynak": "yargi-7-si2-a",
+   "no": 20,
+   "ozet": "Kriz yönetimini anlatan metinden yargıya ulaşılıyor (ikinci soru).",
+   "cikti": "T.O.7.5.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Bir yargıya vararak gerektiğinde tepki verir.",
+   "yayinevi_kodu": "7.41.6.1.3",
+   "not": "Yayınevi metni 'Bir yargıya vararak gerektiğinde tepki verir.' 7. sınıf programında yok.",
+   "gorsel": "gorsel/yargi-7-si2-a-20.png"
+  }
+ ]
+}

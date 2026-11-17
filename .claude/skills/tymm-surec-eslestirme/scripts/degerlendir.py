@@ -13,7 +13,9 @@ dışarıda bırakılarak) üretilmiş olmalıdır.
 Ölçütler (ders bazında ve toplam):
 - Çıktı doğruluğu: öğrenme çıktısı kodu aynı mı.
 - Birincil bileşen doğruluğu: çıktı + ilk bileşen aynı mı.
-- Yayınevi etiketli sorular ile Claude'un tamamladığı sorular ayrı raporlanır.
+- Yayınevi etiketli sorular (çıktı + bileşen) ile bileşeni Claude'un tamamladığı sorular (yalnızca çıktı)
+  ayrı raporlanır; etiketi tamamen Claude'un olan sorular ölçülmez.
+- Tahminde "sizinti": true işaretli sorular (tablo önceden görülmüş) ölçüm dışıdır.
 - Güven düzeyine göre çıktı doğruluğu (kalibrasyon).
 """
 import argparse
@@ -38,10 +40,12 @@ def main():
     if not kaynak or not sinif:
         sys.exit("--kaynak ve --sinif gerekli (ya da tahmin.json içinde)")
 
-    tahmin = {(s["ders"], s["no"]): s for s in t["sorular"]}
+    sizinti = sorted((s["ders"], s["no"]) for s in t["sorular"] if s.get("sizinti"))
+    tahmin = {(s["ders"], s["no"]): s for s in t["sorular"] if not s.get("sizinti")}
     dersler = sorted({d for d, _ in tahmin})
     ozet = defaultdict(lambda: defaultdict(lambda: [0, 0]))  # ders -> grup -> [doğru, toplam]
     guven = defaultdict(lambda: [0, 0])
+    atlanan = []
     print(f"{'Ders':<16}{'No':>3}  {'Beklenen':<14}{'Tahmin':<14}{'Güven':<8} Sonuç")
     for ders in dersler:
         beklenen = {x["no"]: x for x in ortak.banka(ders, sinif)["sorular"] if x["kaynak"] == kaynak}
@@ -49,26 +53,41 @@ def main():
             print(f"{ders:<16} bankada '{kaynak}' kaynağına ait soru yok")
             continue
         for no in sorted(beklenen):
+            if (ders, no) in sizinti:
+                continue
             b = beklenen[no]
-            grup = "yayınevi" if b["etiket_kaynagi"] == "yayinevi" else "tamamlanan"
+            ek = b["etiket_kaynagi"]
+            # Ölçülebilen: yayinevi -> çıktı + bileşen; yayinevi+claude -> yalnızca çıktı (bileşeni Claude
+            # seçti, onunla karşılaştırmak döngüsel olur); claude -> ölçülmez (etiketin tamamı Claude'un).
+            if ek == "claude":
+                atlanan.append(f"{ders} {no}")
+                continue
+            grup = "yayınevi" if ek == "yayinevi" else "tamamlanan"
             s = tahmin.get((ders, no))
             if s is None:
-                print(f"{ders:<16}{no:>3}  {b['cikti'] + ''.join(b['bilesenler']):<14}{'-- yok --'}")
+                print(f"{ders:<16}{no:>3}  {b['cikti'] + ''.join(b.get("bilesenler", [])):<14}{'-- yok --'}")
                 ozet[ders][grup + "_cikti"][1] += 1
-                ozet[ders][grup + "_bilesen"][1] += 1
+                if grup == "yayınevi":
+                    ozet[ders][grup + "_bilesen"][1] += 1
                 continue
             ok = s["cikti"] == b["cikti"]
-            bok = ok and s.get("bilesenler", [])[:1] == b["bilesenler"][:1]
-            for anahtar, deger in ((grup + "_cikti", ok), (grup + "_bilesen", bok)):
-                ozet[ders][anahtar][0] += deger
-                ozet[ders][anahtar][1] += 1
+            bok = ok and s.get("bilesenler", [])[:1] == b.get("bilesenler", [])[:1]
+            ozet[ders][grup + "_cikti"][0] += ok
+            ozet[ders][grup + "_cikti"][1] += 1
+            if grup == "yayınevi":
+                ozet[ders][grup + "_bilesen"][0] += bok
+                ozet[ders][grup + "_bilesen"][1] += 1
             g = s.get("guven", "?")
             guven[g][0] += ok
             guven[g][1] += 1
-            sonuc = ("✓" if ok else "✗ çıktı") + ("" if not ok else (" ✓ bileşen" if bok else " ✗ bileşen"))
-            print(f"{ders:<16}{no:>3}  {b['cikti'] + ''.join(b['bilesenler']):<14}"
-                  f"{s['cikti'] + ''.join(s.get('bilesenler', [])):<14}{g:<8} {sonuc}"
-                  + ("" if grup == "yayınevi" else "  (etiket Claude tamamladı)"))
+            if not ok:
+                sonuc = "✗ çıktı"
+            elif grup == "yayınevi":
+                sonuc = "✓ ✓ bileşen" if bok else "✓ ✗ bileşen"
+            else:
+                sonuc = "✓ (bileşen ölçülmez: tabloda yok)"
+            print(f"{ders:<16}{no:>3}  {b['cikti'] + ''.join(b.get("bilesenler", [])):<14}"
+                  f"{s['cikti'] + ''.join(s.get('bilesenler', [])):<14}{g:<8} {sonuc}")
 
     def yuzde(d, n):
         return f"{d}/{n} ({100 * d // n}%)" if n else "-"
@@ -80,7 +99,7 @@ def main():
         for grup in ("yayınevi", "tamamlanan"):
             c, bl = g[grup + "_cikti"], g[grup + "_bilesen"]
             if c[1]:
-                parcalar.append(f"{grup}: çıktı {yuzde(*c)}, çıktı+bileşen {yuzde(*bl)}")
+                parcalar.append(f"{grup}: çıktı {yuzde(*c)}" + (f", çıktı+bileşen {yuzde(*bl)}" if bl[1] else ""))
             for k in ("_cikti", "_bilesen"):
                 toplam[grup + k][0] += g[grup + k][0]
                 toplam[grup + k][1] += g[grup + k][1]
@@ -89,6 +108,10 @@ def main():
         if toplam[grup + "_cikti"][1]:
             print(f"  TOPLAM {grup}: çıktı {yuzde(*toplam[grup + '_cikti'])}, "
                   f"çıktı+bileşen {yuzde(*toplam[grup + '_bilesen'])}")
+    if atlanan:
+        print(f"Ölçülmeyen (etiketi tamamen Claude'un, {len(atlanan)}): " + ", ".join(atlanan))
+    if sizinti:
+        print("Ölçüm dışı (sizinti): " + ", ".join(f"{d} {n}" for d, n in sizinti))
     print("Güvene göre çıktı doğruluğu: " + ", ".join(f"{g} {yuzde(*v)}" for g, v in sorted(guven.items())))
 
 

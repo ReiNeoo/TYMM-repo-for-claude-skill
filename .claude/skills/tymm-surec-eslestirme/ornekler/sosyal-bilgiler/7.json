@@ -1,0 +1,306 @@
+{
+ "ders": "sosyal-bilgiler",
+ "sinif": 7,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-7-gi1-a",
+   "deneme": "7. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-7-si2-a",
+   "deneme": "7. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-7-gi1-a-01",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 1,
+   "ozet": "İletişimin tanımı ve önemini anlatan metinden etkili iletişime dair çıkarım yapılıyor.",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "d"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemini sorgulayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-02",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 2,
+   "ozet": "'Sen dili' açıklamasından hareketle iletişimi olumsuz etkileyen ifadeler belirleniyor.",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili merak ettiği konuları tanımlar.",
+   "yayinevi_kodu": "7.21.1.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-03",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 3,
+   "ozet": "İletişim kavramları ve açıklamaları tablosunda doğru/yanlış işaretlemeleri değerlendiriliyor.",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "ç"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+   "yayinevi_kodu": "7.21.1.1.4",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-04",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 4,
+   "ozet": "Fırsat eşitliği tanımından anlayışı en doğru ifade eden seçenek bulunuyor.",
+   "cikti": "SB.7.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik benzer girişimleri inceler.",
+   "yayinevi_kodu": "7.21.2.1.2",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-05",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 5,
+   "ozet": "Anayasa'nın eşitlik maddesine göre özel gereksinimli öğrencilere yönelik uygulamalardan uygun olmayan bulunuyor.",
+   "cikti": "SB.7.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmenin önemini fark eder.",
+   "yayinevi_kodu": "7.21.2.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-06",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 6,
+   "ozet": "Alper Gezeravcı'nın uzay misyonuna toplumun ilgisinden millî meselelere tutuma dair çıkarım yapılıyor.",
+   "cikti": "SB.7.1.3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin örnekleri listeler.",
+   "yayinevi_kodu": "7.21.3.1.2",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-07",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 7,
+   "ozet": "Görme yetersizliği olan Emre'ye yönelik okul düzenlemelerinden fırsat eşitliği girişimleri inceleniyor.",
+   "cikti": "SB.7.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik benzer girişimleri inceler.",
+   "yayinevi_kodu": "7.21.2.1.2",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-08",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 8,
+   "ozet": "İnternet ve ulaşımla kültürlerin etkileşimini anlatan metinden küreselleşmeye dair ulaşılamayacak yargı bulunuyor.",
+   "cikti": "SB.7.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi inceler.",
+   "yayinevi_kodu": "7.22.1.1.1",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-09",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 9,
+   "ozet": "Komşu ülkelerdeki kültürel projelerden Türkiye'nin rolüne dair çıkarım yapılıyor.",
+   "cikti": "SB.7.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi bağlamdan kopmadan dönüştürür.",
+   "yayinevi_kodu": "7.22.1.1.2",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-10",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 10,
+   "ozet": "Komşu ülkelerdeki kültürel projelerden küreselleşme ve kültürel etkileşime dair yorum yapılıyor.",
+   "cikti": "SB.7.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi bağlamdan kopmadan dönüştürür.",
+   "yayinevi_kodu": "7.22.1.1.2",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-10.png"
+  },
+  {
+   "id": "yargi-7-si2-a-01",
+   "kaynak": "yargi-7-si2-a",
+   "no": 1,
+   "ozet": "Gezi planı konuşmasında arkadaşlar arasındaki iletişim dilleri değerlendiriliyor.",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemini sorgulayabilme",
+   "yayinevi_kodu": "7.21.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-01.png"
+  },
+  {
+   "id": "yargi-7-si2-a-02",
+   "kaynak": "yargi-7-si2-a",
+   "no": 2,
+   "ozet": "Habere erişimin gazeteden dijital ortama değişimi küreselleşme açısından inceleniyor.",
+   "cikti": "SB.7.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi inceler.",
+   "yayinevi_kodu": "7.22.1.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-02.png"
+  },
+  {
+   "id": "yargi-7-si2-a-03",
+   "kaynak": "yargi-7-si2-a",
+   "no": 3,
+   "ozet": "Genel ağ üzerinden uluslararası proje yürüten Deniz'in durumu iletişim açısından değerlendiriliyor.",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili sorular sorar.",
+   "yayinevi_kodu": "7.21.1.1.2",
+   "gorsel": "gorsel/yargi-7-si2-a-03.png"
+  },
+  {
+   "id": "yargi-7-si2-a-04",
+   "kaynak": "yargi-7-si2-a",
+   "no": 4,
+   "ozet": "15 Temmuz darbe girişimine karşı halkın tutumuna dair örnekler belirleniyor.",
+   "cikti": "SB.7.1.3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin örnekleri listeler.",
+   "yayinevi_kodu": "7.21.3.1.2",
+   "gorsel": "gorsel/yargi-7-si2-a-04.png"
+  },
+  {
+   "id": "yargi-7-si2-a-05",
+   "kaynak": "yargi-7-si2-a",
+   "no": 5,
+   "ozet": "Yapay zekâ destekli tıp sistemi haberinden iletişim ve bilgi paylaşımına dair çıkarım yapılıyor.",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "ç"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+   "yayinevi_kodu": "7.21.1.1.4",
+   "gorsel": "gorsel/yargi-7-si2-a-05.png"
+  },
+  {
+   "id": "yargi-7-si2-a-06",
+   "kaynak": "yargi-7-si2-a",
+   "no": 6,
+   "ozet": "Salgında uzaktan eğitime erişim üzerinden fırsat eşitliği girişimleri inceleniyor.",
+   "cikti": "SB.7.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik benzer girişimleri inceler.",
+   "yayinevi_kodu": "7.21.2.1.2",
+   "gorsel": "gorsel/yargi-7-si2-a-06.png"
+  },
+  {
+   "id": "yargi-7-si2-a-07",
+   "kaynak": "yargi-7-si2-a",
+   "no": 7,
+   "ozet": "Braille kitaplar ve erişilebilir okul düzenlemelerinden fırsat eşitliği girişimleri inceleniyor.",
+   "cikti": "SB.7.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik benzer girişimleri inceler.",
+   "yayinevi_kodu": "7.21.2.1.2",
+   "gorsel": "gorsel/yargi-7-si2-a-07.png"
+  },
+  {
+   "id": "yargi-7-si2-a-08",
+   "kaynak": "yargi-7-si2-a",
+   "no": 8,
+   "ozet": "Ulaşım ve iletişim yeniliklerinin ticareti küreselleştirmesine dair metin inceleniyor.",
+   "cikti": "SB.7.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi inceler.",
+   "yayinevi_kodu": "7.22.1.1.1",
+   "gorsel": "gorsel/yargi-7-si2-a-08.png"
+  },
+  {
+   "id": "yargi-7-si2-a-09",
+   "kaynak": "yargi-7-si2-a",
+   "no": 9,
+   "ozet": "Karagöz ile Hacivat diyaloğundaki iletişim sorunları değerlendiriliyor (ilk soru).",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "ç"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+   "yayinevi_kodu": "7.21.1.1.4",
+   "gorsel": "gorsel/yargi-7-si2-a-09.png"
+  },
+  {
+   "id": "yargi-7-si2-a-10",
+   "kaynak": "yargi-7-si2-a",
+   "no": 10,
+   "ozet": "Karagöz ile Hacivat diyaloğundan etkili iletişime dair çıkarım yapılıyor (ikinci soru).",
+   "cikti": "SB.7.1.1.",
+   "bilesenler": [
+    "ç"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemi ile ilgili topladığı bilgilerin doğruluğunu değerlendirir.",
+   "yayinevi_kodu": "7.21.1.1.4",
+   "gorsel": "gorsel/yargi-7-si2-a-10.png"
+  }
+ ]
+}

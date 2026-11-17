@@ -1,0 +1,456 @@
+{
+ "ders": "fen-bilimleri",
+ "sinif": 6,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-6-gi1-a",
+   "deneme": "6. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-6-si2-a",
+   "deneme": "6. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-6-gi1-a-01",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 1,
+   "ozet": "Güneş sistemi posterinden gezegenlerin sıralaması, büyüklüğü ve halkalı yapısına dair ifadeler değerlendiriliyor.",
+   "cikti": "FB.6.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Güneş sistemindeki gezegenleri niteliklerine göre sınıflandırabilme",
+   "yayinevi_kodu": "6.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-02",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 2,
+   "ozet": "Tohumla ve gövdeden çoğaltılan çilek bitkilerine dair eşeyli/eşeysiz üreme yorumları değerlendiriliyor.",
+   "cikti": "FB.6.3.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Eşeyli ve eşeysiz üremeyi karşılaştırabilme",
+   "yayinevi_kodu": "6.23.1.1",
+   "not": "Tabloda 5. satırdaydı; satırlar kaymış, PDF içeriğine göre hizalandı (etiket değiştirilmedi).",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-03",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 3,
+   "ozet": "Tutulma modeline dair öğrenci görüşlerinden doğru olanlar belirleniyor.",
+   "cikti": "FB.6.1.3.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Güneş ve Ay tutulması ile ilgili bilimsel çıkarım yapabilme | Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme",
+   "yayinevi_kodu": "6.21.2.1,6.21.2.2",
+   "not": "Tabloda 2. satırdaydı; satırlar kaymış, PDF içeriğine göre hizalandı (etiket değiştirilmedi).",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-04",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 4,
+   "ozet": "İplerle çekilen lastikle bardak taşıma etkinliğinde uygulanan kuvvetler ve bileşke kuvvet değerlendiriliyor.",
+   "cikti": "FB.6.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme",
+   "yayinevi_kodu": "6.22.1.1",
+   "not": "Tabloda 3. satırdaydı; satırlar kaymış, PDF içeriğine göre hizalandı (etiket değiştirilmedi).",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-05",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 5,
+   "ozet": "Aynı yolu farklı sürelerde alan araçların süratleri sütun grafiğiyle karşılaştırılıyor.",
+   "cikti": "FB.6.2.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Sürat ve hız kavramlarını karşılaştırabilme",
+   "yayinevi_kodu": "6.22.3.1",
+   "not": "Tabloda 4. satırdaydı; satırlar kaymış, PDF içeriğine göre hizalandı (etiket değiştirilmedi).",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-06",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 6,
+   "ozet": "Çiçeğin kısımlarından eşeyli üreme için bulunması gerekenler belirleniyor.",
+   "cikti": "FB.6.3.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bitkilerde üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme",
+   "yayinevi_kodu": "6.23.1.2",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-07",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 7,
+   "ozet": "Masaya uygulanan zıt yönlü kuvvetlerde bileşkenin yönünü/büyüklüğünü değiştiren yöntemler bulunuyor.",
+   "cikti": "FB.6.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme",
+   "yayinevi_kodu": "6.22.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-08",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 8,
+   "ozet": "Bileşke kuvvet grafiğinden cisimler dengelenmiş/dengelenmemiş kuvvet etkisine göre sınıflandırılıyor.",
+   "cikti": "FB.6.2.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dengelenmiş ve dengelenmemiş kuvvetlerin etkisi altındaki bir cismin hareketine yönelik deney yapabilme",
+   "yayinevi_kodu": "6.22.2.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-09",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 9,
+   "ozet": "Eşeyli ve eşeysiz üreme türleri listesinden yapılan genellemeler değerlendiriliyor.",
+   "cikti": "FB.6.3.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Eşeyli ve eşeysiz üremeyi karşılaştırabilme",
+   "yayinevi_kodu": "6.23.1.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-10",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 10,
+   "ozet": "Gezegenlerin konum görselinden Güneş'e uzaklık ve büyüklük sıralamalarına dair ifadeler değerlendiriliyor.",
+   "cikti": "FB.6.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Güneş sistemi ile ilgili bilimsel model oluşturabilme",
+   "yayinevi_kodu": "6.21.1.2",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-11",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 11,
+   "ozet": "Güneş, Dünya ve Ay'ın dizilişine göre tutulma olaylarına dair ulaşılamayacak ifade bulunuyor.",
+   "cikti": "FB.6.1.3.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Güneş ve Ay tutulması ile ilgili bilimsel çıkarım yapabilme | Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme",
+   "yayinevi_kodu": "6.21.2.1,6.21.2.2",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-12",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 12,
+   "ozet": "Aynı ölçekli haritalardaki oryantiring rotalarından alınan yolların uzunlukları karşılaştırılıyor.",
+   "cikti": "FB.6.2.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Sürat ve hız kavramlarını karşılaştırabilme",
+   "yayinevi_kodu": "6.22.3.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-13",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 13,
+   "ozet": "Aynı sürede farklı yol alan iki öğrencinin süratleri karşılaştırılıyor.",
+   "cikti": "FB.6.2.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Sürat ve hız kavramlarını karşılaştırabilme",
+   "yayinevi_kodu": "6.22.3.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-14",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 14,
+   "ozet": "Oyuncak arabaya uygulanan kuvvet durumlarında net kuvvet ve hareket ilişkisine dair doğru açıklama seçiliyor.",
+   "cikti": "FB.6.2.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dengelenmiş ve dengelenmemiş kuvvetlerin etkisi altındaki bir cismin hareketine yönelik deney yapabilme",
+   "yayinevi_kodu": "6.22.2.1",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-15",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 15,
+   "ozet": "Eşeysiz üremeyi açıklayan doğru bilgi seçiliyor.",
+   "cikti": "FB.6.3.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Bitkilerde üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme",
+   "yayinevi_kodu": "6.23.1.2",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-15.png"
+  },
+  {
+   "id": "yargi-6-si2-a-01",
+   "kaynak": "yargi-6-si2-a",
+   "no": 1,
+   "ozet": "Dört gezegenin özelliklerine göre gruplandırılmasında doğru gruplama seçiliyor.",
+   "cikti": "FB.6.1.1.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Güneş sistemindeki gezegenleri niteliklerine göre gruplandırır.",
+   "yayinevi_kodu": "6.21.1.1.3",
+   "gorsel": "gorsel/yargi-6-si2-a-01.png"
+  },
+  {
+   "id": "yargi-6-si2-a-02",
+   "kaynak": "yargi-6-si2-a",
+   "no": 2,
+   "ozet": "Güneş'e en yakın dört gezegenin sıra ve büyüklük modelindeki hata/geliştirme belirleniyor.",
+   "cikti": "FB.6.1.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Güneş sistemi ile ilgili hazırladığı modelini geliştirir.",
+   "yayinevi_kodu": "6.21.1.2.2",
+   "not": "Yayınevi metni FB.6.1.2 b'ye yakın ('modelini geliştirir' ~ 'yeni kanıtlarla yeniler').",
+   "gorsel": "gorsel/yargi-6-si2-a-02.png"
+  },
+  {
+   "id": "yargi-6-si2-a-03",
+   "kaynak": "yargi-6-si2-a",
+   "no": 3,
+   "ozet": "Yeni ay evresinde Güneş tutulmasının olup olmadığı gözlemlerinden ulaşılabilecek çıkarım seçiliyor.",
+   "cikti": "FB.6.1.3.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Güneş ve Ay tutulmasını değerlendirir.",
+   "yayinevi_kodu": "6.21.2.1.3",
+   "gorsel": "gorsel/yargi-6-si2-a-03.png"
+  },
+  {
+   "id": "yargi-6-si2-a-04",
+   "kaynak": "yargi-6-si2-a",
+   "no": 4,
+   "ozet": "Kutuya zıt yönde çeken dinamometre düzeneklerinde kutunun hareket durumları karşılaştırılıyor.",
+   "cikti": "FB.6.2.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Deney ile ilgili ölçme ve veri analizi yapar.",
+   "yayinevi_kodu": "6.22.2.1.2",
+   "not": "Yayınevi metni birden çok çıktıda ortak ('Deney ile ilgili ölçme ve veri analizi yapar'); konu → FB.6.2.2.",
+   "gorsel": "gorsel/yargi-6-si2-a-04.png"
+  },
+  {
+   "id": "yargi-6-si2-a-05",
+   "kaynak": "yargi-6-si2-a",
+   "no": 5,
+   "ozet": "Sandığa aynı doğrultuda uygulanan üç kuvvetin bileşkesi hesaplanıyor.",
+   "cikti": "FB.6.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri yapılandırarak bileşke kuvveti açıklar.",
+   "yayinevi_kodu": "6.22.1.1.2",
+   "not": "Yayınevi metni FB.6.2.1 a+b birleşik yazılmış ('ilişkileri yapılandırarak bileşke kuvveti açıklar').",
+   "gorsel": "gorsel/yargi-6-si2-a-05.png"
+  },
+  {
+   "id": "yargi-6-si2-a-06",
+   "kaynak": "yargi-6-si2-a",
+   "no": 6,
+   "ozet": "Ay tutulmasını gösteren modelin Güneş tutulmasını gösterecek şekilde nasıl yenileneceği soruluyor.",
+   "cikti": "FB.6.2.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri yapılandırarak bileşke kuvveti açıklar.",
+   "yayinevi_kodu": "6.22.1.1.2",
+   "not": "Tablo bu satıra kuvvet (FB.6.2.1) yazmış ama soru tutulma modeli (FB.6.1.4 b); tablo hatası olabilir, etiket korunmuştur.",
+   "gorsel": "gorsel/yargi-6-si2-a-06.png"
+  },
+  {
+   "id": "yargi-6-si2-a-07",
+   "kaynak": "yargi-6-si2-a",
+   "no": 7,
+   "ozet": "Oyuncak arabaya uygulanan kuvvet deneylerinin tablosundan dengelenmiş/dengelenmemiş kuvvet sonucu çıkarılıyor.",
+   "cikti": "FB.6.2.2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Deney ile ilgili ölçme ve veri analizi yapar.",
+   "yayinevi_kodu": "6.22.2.1.2",
+   "not": "Yayınevi metni birden çok çıktıda ortak; konu → FB.6.2.2.",
+   "gorsel": "gorsel/yargi-6-si2-a-07.png"
+  },
+  {
+   "id": "yargi-6-si2-a-08",
+   "kaynak": "yargi-6-si2-a",
+   "no": 8,
+   "ozet": "Dairesel pistte başladığı noktaya dönen sporcunun sürat ve hızı karşılaştırılıyor.",
+   "cikti": "FB.6.2.3.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Sürat ve hız kavramlarını karşılaştırabilme",
+   "yayinevi_kodu": "6.22.3.1",
+   "gorsel": "gorsel/yargi-6-si2-a-08.png"
+  },
+  {
+   "id": "yargi-6-si2-a-09",
+   "kaynak": "yargi-6-si2-a",
+   "no": 9,
+   "ozet": "Aynı anda kalkıp varan, farklı rotalı iki uçangözün sürat ve hızları karşılaştırılıyor.",
+   "cikti": "FB.6.2.3.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Sürat ve hız kavramlarını karşılaştırabilme",
+   "yayinevi_kodu": "6.22.3.1",
+   "gorsel": "gorsel/yargi-6-si2-a-09.png"
+  },
+  {
+   "id": "yargi-6-si2-a-10",
+   "kaynak": "yargi-6-si2-a",
+   "no": 10,
+   "ozet": "Eşeysiz üremenin özelliklerine uygun üreme örneği seçiliyor.",
+   "cikti": "FB.6.3.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Eşeyli ve eşeysiz üreme ile ilgili özellikleri belirler.",
+   "yayinevi_kodu": "6.23.1.1.1",
+   "gorsel": "gorsel/yargi-6-si2-a-10.png"
+  },
+  {
+   "id": "yargi-6-si2-a-11",
+   "kaynak": "yargi-6-si2-a",
+   "no": 11,
+   "ozet": "Elma ağacının kalıtsal özelliklerini korumak için uygun çoğaltma yöntemi seçiliyor.",
+   "cikti": "FB.6.3.1.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Eşeyli ve eşeysiz üremeyi karşılaştırabilme",
+   "yayinevi_kodu": "6.23.1.1",
+   "gorsel": "gorsel/yargi-6-si2-a-11.png"
+  },
+  {
+   "id": "yargi-6-si2-a-12",
+   "kaynak": "yargi-6-si2-a",
+   "no": 12,
+   "ozet": "Renkli, kokulu çiçeklere arı ve kelebeklerin konmasından bitki üremesine dair çıkarım yapılıyor.",
+   "cikti": "FB.6.3.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ilişkin verileri yorumlar ve değerlendirir.",
+   "yayinevi_kodu": "6.23.1.2.3",
+   "gorsel": "gorsel/yargi-6-si2-a-12.png"
+  },
+  {
+   "id": "yargi-6-si2-a-13",
+   "kaynak": "yargi-6-si2-a",
+   "no": 13,
+   "ozet": "Işık alan ve almayan saksı bitkilerinin büyümesinden etkili faktör belirleniyor.",
+   "cikti": "FB.6.3.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörleri tanımlar.",
+   "yayinevi_kodu": "6.23.1.2.1",
+   "yakin_ifade": "programda: 'Bitkilerde üreme, büyüme ve gelişmeye etki eden temel faktörlere ait nitelikleri tanımlar.' (benzerlik 0.90)",
+   "gorsel": "gorsel/yargi-6-si2-a-13.png"
+  },
+  {
+   "id": "yargi-6-si2-a-14",
+   "kaynak": "yargi-6-si2-a",
+   "no": 14,
+   "ozet": "Çimlenme düzeneklerinde değişkenler ve kontrol edilen değişken belirleniyor.",
+   "cikti": "FB.6.3.3.",
+   "bilesenler": [
+    "ç"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Tohumun çimlenmesine etki eden faktörlere ait belirlediği değişkenleri kontrol eder.",
+   "yayinevi_kodu": "6.23.1.3.4",
+   "gorsel": "gorsel/yargi-6-si2-a-14.png"
+  },
+  {
+   "id": "yargi-6-si2-a-15",
+   "kaynak": "yargi-6-si2-a",
+   "no": 15,
+   "ozet": "Çimlenme düzenekleri tablosundan değişkenlerin kontrolüne dair çıkarım yapılıyor.",
+   "cikti": "FB.6.3.3.",
+   "bilesenler": [
+    "ç"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Tohumun çimlenmesine etki eden faktörlere ait belirlediği değişkenleri kontrol eder.",
+   "yayinevi_kodu": "6.23.1.3.4",
+   "gorsel": "gorsel/yargi-6-si2-a-15.png"
+  }
+ ]
+}

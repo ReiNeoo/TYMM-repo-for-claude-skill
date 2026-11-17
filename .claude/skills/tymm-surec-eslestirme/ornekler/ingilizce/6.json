@@ -1,0 +1,326 @@
+{
+ "ders": "ingilizce",
+ "sinif": 6,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-6-gi1-a",
+   "deneme": "6. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-6-si2-a",
+   "deneme": "6. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 6,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "6. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-6-gi1-a-01",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 1,
+   "ozet": "Elif'in Antalya tatil planını anlatan metne göre doğru ifade seçiliyor.",
+   "cikti": "ENG.6.1.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Family Members’ Hobbies And Activities",
+   "yayinevi_kodu": "5.24.9",
+   "not": "Yayınevi etiketi 'Family Members' Hobbies And Activities' (konu adı).",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-02",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 2,
+   "ozet": "Diyalogda cevapları verilen sorulardan Tom'un sormadığı bulunuyor.",
+   "cikti": "ENG.6.1.W1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students can get ready for the writing-expression process about the current content on “personal life with basic body parts and physical features; clothes; daily routines and activities”.",
+   "yayinevi_kodu": "5.23.6.1",
+   "not": "Yayınevi metni W1 (writing hazırlık) ama tema içeriği farklı yazıldığı için eşleşmedi.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-03",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 3,
+   "ozet": "Cumhuriyet Bayramı hazırlık diyaloğundaki boşluklara uygun soru sözcükleri seçiliyor.",
+   "cikti": "ENG.6.1.R1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can get ready for the reading-comprehension process about the current content on “school life with roles, and responsibilities at school; school routines; national days and celebrations”.",
+   "yayinevi_kodu": "6.21.3.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu; etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-04",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 4,
+   "ozet": "Tema 1 kelime kartlarındaki boşluklardan hiçbirine yazılamayacak ifade bulunuyor.",
+   "cikti": "ENG.6.1.V1.",
+   "bilesenler": [
+    "f"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can select and use the target vocabulary of the current content about “school life with roles, and responsibilities at school; school routines; national days and celebrations” accurately, authentically, spontaneously, and naturally and use it appropriately and effectively when communicating with others.",
+   "yayinevi_kodu": "6.21.4.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu; etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-05",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 5,
+   "ozet": "There is / There are işaretlemelerine göre Mehmet'in aldığı puan hesaplanıyor.",
+   "cikti": "ENG.6.1.G1.",
+   "bilesenler": [
+    "g"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "There is / There are",
+   "yayinevi_kodu": "6.21.18",
+   "not": "Yayınevi etiketi 'There is / There are' (dil yapısı).",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-06",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 6,
+   "ozet": "Doğru ifadeleri takip ederek Duru'nun en sevdiği bayram bulunuyor.",
+   "cikti": "ENG.6.1.S1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can get ready for speaking-expression process about the current content on “school life with roles, and responsibilities at school; school routines; national days and celebrations”.",
+   "yayinevi_kodu": "6.21.7.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu; etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-07",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 7,
+   "ozet": "Öğretmenin Cumhuriyet Bayramı konuşmasında uyumsuz cümle bulunuyor.",
+   "cikti": "ENG.6.1.R1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can get ready for the reading-comprehension process about the current content on “school life with roles, and responsibilities at school; school routines; national days and celebrations”.",
+   "yayinevi_kodu": "6.21.3.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu; etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-08",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 8,
+   "ozet": "Laboratuvar, yemekhane ve konferans salonundaki öğrencilerin etkinlikleriyle boşluklar dolduruluyor; uymayan bulunuyor.",
+   "cikti": "ENG.6.1.V1.",
+   "bilesenler": [
+    "f"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can select and use the target vocabulary of the current content about “school life with roles, and responsibilities at school; school routines; national days and celebrations” accurately, authentically, spontaneously, and naturally and use it appropriately and effectively when communicating with others.",
+   "yayinevi_kodu": "6.21.4.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu; etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-09",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 9,
+   "ozet": "Elif'in okul rutinini anlatan metinde cevabı bulunan soru sayısı hesaplanıyor.",
+   "cikti": "ENG.6.1.L2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can bring information about the current content on “school life with roles, and responsibilities at school; school routines; national days and celebrations” together through significant details and main components while listening/watching it.",
+   "yayinevi_kodu": "6.21.1.2",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu; etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-6-gi1-a-10",
+   "kaynak": "isleyenzeka-6-gi1-a",
+   "no": 10,
+   "ozet": "Elif'in okul rutinini anlatan metinde bahsedilmeyen durum görselleri arasından bulunuyor.",
+   "cikti": "ENG.6.1.W1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can get ready for the writing-expression process about the current content on “school life with roles, and responsibilities at school; school routines; national days and celebrations”.",
+   "yayinevi_kodu": "6.21.6.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu; etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-6-gi1-a-10.png"
+  },
+  {
+   "id": "yargi-6-si2-a-01",
+   "kaynak": "yargi-6-si2-a",
+   "no": 1,
+   "ozet": "Panodaki dört öğrenciden okul sorumluluğunu yerine getireni bulunuyor.",
+   "cikti": "ENG.6.1.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students carefully read the current content silently and carefully to find significant details and components belonging to the theme.",
+   "yayinevi_kodu": "6.21.3.2.3",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-01.png"
+  },
+  {
+   "id": "yargi-6-si2-a-02",
+   "kaynak": "yargi-6-si2-a",
+   "no": 2,
+   "ozet": "Sarah'ın okul etkinliklerini anlatan metne göre doğru ifade seçiliyor.",
+   "cikti": "ENG.6.1.R4.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students produce new products related to the current reading-comprehension content and process by revising their personal work carefully after participating in reflective activities.",
+   "yayinevi_kodu": "6.21.3.4.3",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-02.png"
+  },
+  {
+   "id": "yargi-6-si2-a-03",
+   "kaynak": "yargi-6-si2-a",
+   "no": 3,
+   "ozet": "Cumhuriyet Bayramı programından David'in katılması gereken etkinlik bulunuyor.",
+   "cikti": "ENG.6.1.S3.",
+   "bilesenler": [
+    "d"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students organise supplementary audio/visual/written materials for prepared/or unprepared speaking situations, appropriate to age and language level, as provided in the model/sample content.",
+   "yayinevi_kodu": "6.21.7.3.4",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-03.png"
+  },
+  {
+   "id": "yargi-6-si2-a-04",
+   "kaynak": "yargi-6-si2-a",
+   "no": 4,
+   "ozet": "Kütüphanede ne yapıldığı sorusuna uygun cevapla diyalog tamamlanıyor.",
+   "cikti": "ENG.6.1.S4.",
+   "bilesenler": [
+    "d"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students express the message about the current content clearly to the reader by using all supplementary elements and body language in an appropriate and accurate way in context for prepared and/or unprepared speaking situations.",
+   "yayinevi_kodu": "6.21.7.4.4",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-04.png"
+  },
+  {
+   "id": "yargi-6-si2-a-05",
+   "kaynak": "yargi-6-si2-a",
+   "no": 5,
+   "ozet": "Linda'nın voleybol oynamak için gitmesi gereken okul yeri bulunuyor.",
+   "cikti": "ENG.6.1.S4.",
+   "bilesenler": [
+    "d"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students express the message about the current content clearly to the reader by using all supplementary elements and body language in an appropriate and accurate way in context for prepared and/or unprepared speaking situations.",
+   "yayinevi_kodu": "6.21.7.4.4",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-05.png"
+  },
+  {
+   "id": "yargi-6-si2-a-06",
+   "kaynak": "yargi-6-si2-a",
+   "no": 6,
+   "ozet": "Steven'ın anlattığı okul etkinliği bulunuyor.",
+   "cikti": "ENG.6.1.S4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students use target pronunciation, vocabulary, language chunks, and forms of discourse related to the current content effectively by selecting them accurately and appropriately for prepared/unprepared speaking situations.",
+   "yayinevi_kodu": "6.21.7.4.1",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-06.png"
+  },
+  {
+   "id": "yargi-6-si2-a-07",
+   "kaynak": "yargi-6-si2-a",
+   "no": 7,
+   "ozet": "Ryan'ın okul rutinlerine göre doğru ifade seçiliyor.",
+   "cikti": "ENG.6.1.S4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students present individually prepared content in an accurate and efficient way as presented in the model/example for prepared speaking situations clearly, efficiently, and appropriately.",
+   "yayinevi_kodu": "6.21.7.4.2",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-07.png"
+  },
+  {
+   "id": "yargi-6-si2-a-08",
+   "kaynak": "yargi-6-si2-a",
+   "no": 8,
+   "ozet": "Mia'nın öğle yemeği için gitmesi gereken yer bulunuyor.",
+   "cikti": "ENG.6.1.S4.",
+   "bilesenler": [
+    "d"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students express the message about the current content clearly to the reader by using all supplementary elements and body language in an appropriate and accurate way in context for prepared and/or unprepared speaking situations.",
+   "yayinevi_kodu": "6.21.7.4.4",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-08.png"
+  },
+  {
+   "id": "yargi-6-si2-a-09",
+   "kaynak": "yargi-6-si2-a",
+   "no": 9,
+   "ozet": "Sınıf başkanı kurallarına uyan öğrenci tablodan bulunuyor.",
+   "cikti": "ENG.6.1.R4.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students produce new products related to the current reading-comprehension content and process by revising their personal work carefully after participating in reflective activities.",
+   "yayinevi_kodu": "6.21.3.4.3",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-09.png"
+  },
+  {
+   "id": "yargi-6-si2-a-10",
+   "kaynak": "yargi-6-si2-a",
+   "no": 10,
+   "ozet": "Bilgi kartına göre şiir okuyan öğrenci bulunuyor.",
+   "cikti": "ENG.6.1.S3.",
+   "bilesenler": [
+    "d"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Students organise supplementary audio/visual/written materials for prepared/or unprepared speaking situations, appropriate to age and language level, as provided in the model/sample content.",
+   "yayinevi_kodu": "6.21.7.3.4",
+   "not": "Yayınevi bileşen metnini tema belirtmeden yazmış; soru okul yaşamı içerikli → tema 1 seçildi.",
+   "gorsel": "gorsel/yargi-6-si2-a-10.png"
+  }
+ ]
+}

@@ -56,11 +56,19 @@ Sayfaları (iki sütunluysa yarıları) Read ile oku. PDF'ler çoğunlukla taran
 tablo ve metinleri görsel olarak oku. Ortak kök/görsel ("3 ve 4. soruları … göre") her iki soruya da
 aittir. Kapaktaki soru sayısıyla bulunan sayı farklıysa belirt.
 
-Uzun kitapçıkta soruları tek tek görmek gerekirse `soru_kirp.py` ile kırp (kullanım:
-`tymm-ornek-ekle` skill'inin 3. adımı).
+**Metin katmanlı PDF'lerde** (çoğu yeni deneme) soruları sütun sırası karışmadan okumak için önce
+haritala, sonra her sorunun metnini kendi bölgesinden çıkar; şekil/grafik gerekiyorsa kırpımı aç:
+```bash
+$PY $S/soru_kirp.py harita-metin <kitapçık.pdf> tmp/test/<ad>/harita.json --ders matematik --sayfalar 18-24 --soru-sayisi 15
+$PY $S/soru_metni.py <kitapçık.pdf> tmp/test/<ad>/harita.json --onek matematik
+$PY $S/soru_kirp.py kes <kitapçık.pdf> - tmp/test/<ad>/harita.json tmp/test/<ad>/soru   # gerekirse görseller
+```
+Taranmış PDF'de `soru_kirp.py bloklar` akışı kullanılır (`tymm-ornek-ekle` 3. adım).
 
 ### 3. Referansı yükle, kapsamı daralt
-Her ders için ana dosyayı oku; varsa `<sınıf>-notlar.md`'yi de oku. Tarih verildiyse
+Her ders için aday çıktıları kısa listeyle gör (`$PY $S/kapsam.py <ders> <sınıf> [--hafta N]`); varsa
+`<sınıf>-notlar.md`'yi de oku. Notlardaki kurallar çoğu zaman **yayınevine özgüdür** (yanında yayınevi adı
+yazar); farklı yayınevinin denemesinde kuralı kesin değil, aday olarak kullan. Tarih verildiyse
 `plan.haftalar` ile haftayı bul; `plan_haftalari` o haftaya kadar olan çıktıları öncelikli aday say.
 Tarih yoksa sınav adından tahmin et ("Süreç Değerlendirme – 1" → yılın ilk haftaları) ve varsayımı
 raporda belirt.
@@ -122,8 +130,8 @@ Kitapçık bankadaysa: `$PY $S/degerlendir.py tmp/test/<ad>/tahmin.json --kaynak
   üzerinden sorulan sorular için önce Okuma (T.O) çıktılarını değerlendir.
 - **İngilizce:** Kodlar `ENG.<sınıf>.<tema>.<beceri><no>.`; beceri harfleri ana dosyadaki
   `beceri_harfleri`'nde. Önce temayı bul, sonra o temanın dosyasını aç. Çıktı ve bileşen metinlerini
-  programdaki gibi **İngilizce** yaz; gerekçe Türkçe. 7. sınıf için `kaynak_notlari`'ndaki uyarıya bak
-  (2026-2027'de 7. sınıf İngilizce eski programla okutuluyor olabilir; eşleştirmeden önce kullanıcıya sor).
+  programdaki gibi **İngilizce** yaz; gerekçe Türkçe. 7. sınıf da TYMM'ye (ENG.7) göre eşlenir
+  (kullanıcı kararı); taslak plan eski programla olduğu için hafta daraltması yapılamaz.
 
 ## Çıktı formatı
 

@@ -1,0 +1,167 @@
+{
+ "ders": "ingilizce",
+ "sinif": 5,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-5-gi1-a",
+   "deneme": "5. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 5,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "5.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-5-gi1-a-01",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 1,
+   "ozet": "Meslek-iş yeri tablosunda boş kalan 'What?' hücreleri uygun cümlelerle tamamlanıyor.",
+   "cikti": "ENG.5.1.R1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "ENG.4.4.R1. Pupils can get ready for the reading-comprehension process about the current content on “family life and life in the neighbourhood with family members’ jobs; family members’ long-lasting habits; family members’ errands; places for services in the neighbourhood; comparisons”.",
+   "yayinevi_kodu": "4.17.3.1",
+   "not": "Yayınevi 4. sınıf kodu yazmış (ENG.4.4.R1); okuma hazırlık (R1) becerisi 5. sınıf tema 1'e taşındı.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-02",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 2,
+   "ozet": "Bayraklardan ülke adları bulmacaya yazılıp gizli kelimedeki ülkenin bayrağı seçiliyor.",
+   "cikti": "ENG.5.1.L2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can bring information about the current content on “school life with people, places and rules at school; school clubs; countries; national days and celebrations” together through significant details and main components while listening/watching it.",
+   "yayinevi_kodu": "5.21.1.2",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu (ör. okuma sorusuna W6/S6); etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-03",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 3,
+   "ozet": "Ulusal ve dinî bayramlar tablosundaki boşluklara uygun günler seçiliyor.",
+   "cikti": "ENG.5.1.R1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can get ready for the reading-comprehension process about the current content on “school life with people, places and rules at school; school clubs; countries; national days and celebrations”.",
+   "yayinevi_kodu": "5.21.3.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu (ör. okuma sorusuna W6/S6); etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-04",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 4,
+   "ozet": "Tom'un okul kuralları çizelgesinde doğru yazılmış kural sayısı bulunuyor.",
+   "cikti": "ENG.5.1.R4.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can convey their knowledge, experiences, thoughts, and feelings related to the reading-comprehension process about the current content, “school life with people, places and rules at school; school clubs; countries; national days and celebrations” in relation to themselves or others, both individually and/or with others.",
+   "yayinevi_kodu": "5.21.3.4",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu (ör. okuma sorusuna W6/S6); etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-05",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 5,
+   "ozet": "Konuşma sınavı kartları ile öğrencilerin cevapları eşleştirilip uymayan cevap bulunuyor.",
+   "cikti": "ENG.5.1.V1.",
+   "bilesenler": [
+    "f"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can select and use the target vocabulary of the current content about “school life with people, places and rules at school; school clubs; countries; national days and celebrations” accurately, authentically, spontaneously, and naturally and use it appropriately and effectively when communicating with others.",
+   "yayinevi_kodu": "5.21.4.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu (ör. okuma sorusuna W6/S6); etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-06",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 6,
+   "ozet": "Tom'un ilgi alanlarına göre arkadaşlarından hangisinin kulübüne katılmak istemeyeceği bulunuyor.",
+   "cikti": "ENG.5.1.W1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can get ready for the writing-expression process about the current content on “school life with people, places and rules at school; school clubs; countries; national days and celebrations”.",
+   "yayinevi_kodu": "5.21.6.1",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu (ör. okuma sorusuna W6/S6); etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-07",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 7,
+   "ozet": "Emily'nin sanat kulübünü anlatan metne göre doğru olmayan ifade bulunuyor.",
+   "cikti": "ENG.5.1.W6.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can reflect on their knowledge, experiences, thoughts, and feelings related to the writing-expression process about the current content, “school life with people, places and rules at school; school clubs; countries; national days and celebrations” in relation to themselves or others, both individually and/or with others.",
+   "yayinevi_kodu": "5.21.6.6",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu (ör. okuma sorusuna W6/S6); etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-08",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 8,
+   "ozet": "Diyalogda cevapları verilen soruların hangisinin sorulmadığı bulunuyor (favourite lesson, why, when).",
+   "cikti": "ENG.5.1.S6.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Students can convey their knowledge, experiences, thoughts, and feelings related to the speaking-expression process about the current content, “school life with people, places and rules at school; school clubs; countries; national days and celebrations” to communicate with other people in relation to themselves or others, both individually and/or with others.",
+   "yayinevi_kodu": "5.21.7.6",
+   "not": "Yayınevi İngilizce çıktıları soru türüyle zayıf uyumlu (ör. okuma sorusuna W6/S6); etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-09",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 9,
+   "ozet": "Zeynep'in okul kuralları bölümündeki işaretlemelerine göre alacağı puan hesaplanıyor.",
+   "cikti": "ENG.5.1.G1.",
+   "bilesenler": [
+    "h"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Mustn't / Can't",
+   "yayinevi_kodu": "5.21.17",
+   "not": "Yayınevi etiketi 'Mustn't / Can't' (dil yapısı).",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-10",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 10,
+   "ozet": "Görsellerden okul kurallarına göre bahsedilmeyen kural bulunuyor.",
+   "cikti": "ENG.5.1.V1.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "School rules",
+   "yayinevi_kodu": "5.21.15",
+   "not": "Yayınevi etiketi 'School rules' (konu adı).",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-10.png"
+  }
+ ]
+}

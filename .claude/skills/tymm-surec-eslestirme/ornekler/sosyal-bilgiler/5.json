@@ -1,0 +1,161 @@
+{
+ "ders": "sosyal-bilgiler",
+ "sinif": 5,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-5-gi1-a",
+   "deneme": "5. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 5,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "5.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-5-gi1-a-01",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 1,
+   "ozet": "Mert'in apartman, takım ve sınıftaki rollerinden hareketle söylenemeyecek ifade bulunuyor.",
+   "cikti": "SB.5.1.1.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Dâhil olduğu gruplar ve bu gruplardaki rolleri arasındaki ilişkileri çözümleyebilme",
+   "yayinevi_kodu": "5.21.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-02",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 2,
+   "ozet": "Yardımlaşma ve dayanışma faaliyeti yürüten sivil toplum kuruluşları arasında gösterilemeyecek kurum bulunuyor.",
+   "cikti": "SB.5.1.3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine katkı sağlayabilme",
+   "yayinevi_kodu": "5.21.3.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-03",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 3,
+   "ozet": "Türkiye ile KKTC arasındaki ortak kültürel özelliklerden biri olarak gösterilemeyecek ifade bulunuyor.",
+   "cikti": "SB.5.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini örnekler üzerinden belirler.",
+   "yayinevi_kodu": "5.21.2.1.1",
+   "yakin_ifade": "programda: 'Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini örnekler üzerinden inceler.' (benzerlik 0.96)",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-04",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 4,
+   "ozet": "Türk ve Hint kültürlerinde misafir ağırlama gelenekleri karşılaştırılıp söylenemeyecek ifade bulunuyor.",
+   "cikti": "SB.5.1.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini ifade eder.",
+   "yayinevi_kodu": "5.21.2.1.3",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-05",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 5,
+   "ozet": "Mahalle dayanışma etkinliğine dair ifadelerden hangilerine ulaşılabileceği soruluyor.",
+   "cikti": "SB.5.1.3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetleri için birlikte çalışabileceği grup üyeleriyle iletişim kurar.",
+   "yayinevi_kodu": "5.21.3.1.2",
+   "not": "Yayınevi metni programda yok ('…grup üyeleriyle iletişim kurar', kod 5.21.3.1.2); SB.5.1.3 b (sosyal temas) en yakın.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-06",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 6,
+   "ozet": "Tekâlif-i Millîye emirlerinden Türk milletinin dayanışmasına dair yargılardan ulaşılabilecekler seçiliyor.",
+   "cikti": "SB.5.1.2.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini örnekler üzerinden belirler.",
+   "yayinevi_kodu": "5.21.2.1.1",
+   "yakin_ifade": "programda: 'Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini örnekler üzerinden inceler.' (benzerlik 0.96)",
+   "not": "Yayınevi SB.5.1.2 a dedi; içerik yardımlaşma-dayanışma (SB.5.1.3) da olabilir.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-07",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 7,
+   "ozet": "Zeynep'in dâhil olduğu gruplar ve rollerinden hareketle söylenebilecek ifadeler seçiliyor.",
+   "cikti": "SB.5.1.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Dâhil olduğu grupları ve bu gruplardaki rollerini belirler.",
+   "yayinevi_kodu": "5.21.1.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-08",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 8,
+   "ozet": "Millî bayram kutlamalarını anlatan parçadan ulaşılamayacak yargı bulunuyor.",
+   "cikti": "SB.5.1.2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini ifade eder.",
+   "yayinevi_kodu": "5.21.2.1.3",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-09",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 9,
+   "ozet": "Ege bölgesi haritasında Manisa'nın göreceli konumuna dair ulaşılamayacak bilgi bulunuyor.",
+   "cikti": "SB.5.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Yaşadığı ilin göreceli konum özelliklerini belirler.",
+   "yayinevi_kodu": "5.22.1.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-10",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 10,
+   "ozet": "Haritadan Manisa'dan Muğla'ya yolculuğun yönü ve illerin konum ilişkisine dair doğru bilgi seçiliyor.",
+   "cikti": "SB.5.2.1.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Yaşadığı ilin göreceli konum özelliklerini belirler.",
+   "yayinevi_kodu": "5.22.1.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-10.png"
+  }
+ ]
+}

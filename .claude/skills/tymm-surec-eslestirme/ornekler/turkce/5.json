@@ -1,0 +1,231 @@
+{
+ "ders": "turkce",
+ "sinif": 5,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-5-gi1-a",
+   "deneme": "5. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 5,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "5.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-5-gi1-a-01",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 1,
+   "ozet": "Metindeki altı çizili sözcüklerin bağlamdaki eş ve zıt anlamlıları seçiliyor.",
+   "cikti": "T.O.5.5.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metnin bağlamından söz varlığı unsurlarının anlamıyla ilgili ipuçlarını belirleyip ön bilgileriyle ilişkilendirir.",
+   "yayinevi_kodu": "5.41.3.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-02",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 2,
+   "ozet": "Yapay zekânın sağlıktaki rolünü anlatan metnin yüzey anlamlarından biri olmayan ifade bulunuyor.",
+   "cikti": "T.O.5.6.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metnin yüzey anlamını belirleyebilme",
+   "yayinevi_kodu": "5.41.3.2",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-03",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 3,
+   "ozet": "Cümlelerdeki altı çizili sözcüklerden aynı kavram alanına girmeyenler bulunuyor.",
+   "cikti": "T.O.5.20.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Söz ve Söz Öbeklerinin Anlamı",
+   "yayinevi_kodu": "5.41.3",
+   "not": "Yayınevi etiketi 'Söz ve Söz Öbeklerinin Anlamı' (serbest etiket).",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-04",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 4,
+   "ozet": "Sözcük grupları anlamlı ve kurallı cümle olacak biçimde sıralanıp baştan üçüncüsü bulunuyor.",
+   "cikti": "T.O.5.20.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Söz ve Söz Öbeklerinin Anlamı",
+   "yayinevi_kodu": "5.41.3",
+   "not": "Yayınevi etiketi 'Söz ve Söz Öbeklerinin Anlamı'; soru cümle kurma/sıralama, programda doğrudan karşılığı zayıf.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-05",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 5,
+   "ozet": "Görsele bağlı kalınarak yazılmış betimleyici paragraf olma özelliği taşımayan metin bulunuyor.",
+   "cikti": "T.O.5.4.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metnin içeriği veya sonraki bölümleriyle ilgili mantıklı tahminde bulunur.",
+   "yayinevi_kodu": "5.41.2.1.2",
+   "not": "Yayınevi T.O.5.4 b (tahmin) dedi; soru görsel-metin uyumu (T.O.5.7) gibi duruyor. Etiket korunmuştur.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-06",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 6,
+   "ozet": "İsim tanımı verilip metindeki altı çizili sözcüklerden isim olmayan bulunuyor.",
+   "cikti": "T.O.5.11.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "İsim-Fiil Kavramı",
+   "yayinevi_kodu": "5.71.1.1",
+   "not": "Yayınevi etiketi 'İsim-Fiil Kavramı'; programda dil bilgisi çıktısı yok, en yakın sınıflandırma (T.O.5.11 c) seçildi. Kontrol edilmeli.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-07",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 7,
+   "ozet": "'Saygı, korku vb. ile bir şeyi yapmaktan kaçınmak' anlamındaki sözcüğün kullanıldığı cümle bulunuyor.",
+   "cikti": "T.Y.5.13.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Söz varlığı unsurlarını bağlama uygun kullanır.",
+   "yayinevi_kodu": "5.51.2.9.3",
+   "yakin_ifade": "programda: 'Söz varlığı unsurlarını bağlama uygun şekilde yazısında kullanır.'",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-08",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 8,
+   "ozet": "Zonguldak maden kaynakları grafiğinden çıkarılamayacak yargı bulunuyor.",
+   "cikti": "T.O.5.7.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Görselle iletilen anlamı belirleyebilme",
+   "yayinevi_kodu": "5.41.5.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-09",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 9,
+   "ozet": "Okul bahçesinde ipucu arayan çocukların hikâyesinde unsurlarla ilgili yanlış ifade bulunuyor.",
+   "cikti": "T.O.5.13.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Öyküleyici metinlerdeki hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme",
+   "yayinevi_kodu": "5.41.13.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-10",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 10,
+   "ozet": "Diyalogdaki boşluklara getirilemeyecek tahmin işlevli sözcük bulunuyor.",
+   "cikti": "T.O.5.20.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Söz ve Söz Öbeklerinin Anlamı",
+   "yayinevi_kodu": "5.41.3",
+   "not": "Yayınevi etiketi 'Söz ve Söz Öbeklerinin Anlamı'.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-10.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-11",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 11,
+   "ozet": "Atatürk'ün oyuna bakışını anlatan metnin konusu soruluyor.",
+   "cikti": "T.O.5.9.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Metnin Konusu",
+   "yayinevi_kodu": "5.41.11",
+   "not": "Yayınevi etiketi 'Metnin Konusu'.",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-11.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-12",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 12,
+   "ozet": "Satır sonuna sığmayan sözcüğün yanlış bölündüğü cümle bulunuyor.",
+   "cikti": "T.Y.5.16.",
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Noktalama işaretlerini uygun biçimde kullanır.",
+   "yayinevi_kodu": "5.61.6.1.2",
+   "not": "Yayınevi 'Noktalama işaretlerini uygun biçimde kullanır' yazmış; soru satır sonu hece bölmesi (yazım).",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-12.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-13",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 13,
+   "ozet": "Geleneksel çocuk oyunlarını anlatan metnin anahtar kelimeleri seçiliyor.",
+   "cikti": "T.O.5.15.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "yayinevi",
+   "yayinevi_metni": "Metnin içeriğini yansıtan anahtar kelimeleri belirler.",
+   "yayinevi_kodu": "5.41.16.1.1",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-13.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-14",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 14,
+   "ozet": "Kullanılmayan eşyaları değerlendirmeyi anlatan metnin ana fikri (derin anlamı) soruluyor.",
+   "cikti": "T.O.5.8.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Metnin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme",
+   "yayinevi_kodu": "5.41.6.1",
+   "yakin_ifade": "programda: 'Basit çıkarımlar yoluyla metnin derin anlamını belirleyebilme'",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-14.png"
+  },
+  {
+   "id": "isleyenzeka-5-gi1-a-15",
+   "kaynak": "isleyenzeka-5-gi1-a",
+   "no": 15,
+   "ozet": "Noktanın kullanım kuralları verilip noktanın yanlış kullanıldığı cümle bulunuyor.",
+   "cikti": "T.Y.5.16.",
+   "etiket_kaynagi": "yayinevi+claude",
+   "yayinevi_metni": "Noktalama işaretlerini uygun biçimde kullanır.",
+   "yayinevi_kodu": "5.61.6.1.2",
+   "yakin_ifade": "yayınevi: 'Noktalama işaretlerini uygun biçimde kullanır.' → T.Y.5.16 (programda bileşen yok)",
+   "gorsel": "gorsel/isleyenzeka-5-gi1-a-15.png"
+  }
+ ]
+}

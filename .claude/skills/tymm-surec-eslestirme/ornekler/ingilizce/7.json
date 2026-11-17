@@ -1,0 +1,326 @@
+{
+ "ders": "ingilizce",
+ "sinif": 7,
+ "kaynaklar": [
+  {
+   "id": "isleyenzeka-7-gi1-a",
+   "deneme": "7. Sınıf Gelişim İzleme 1",
+   "yayinevi": "İşleyen Zeka",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7.SINIF_GELISIM_IZLEME_1_KAZANIM_TABLOSU_CEVAP_ANAHTARLI.xlsx"
+  },
+  {
+   "id": "yargi-7-si2-a",
+   "deneme": "7. Sınıf Süreç İzleme 2 (Kurumsal Deneme 2)",
+   "yayinevi": "Yargı (Ders Arkadaşım)",
+   "sinif": 7,
+   "kitapcik": "A",
+   "tarih": null,
+   "tablo_dosyasi": "7. snf Sfr Tolerans Serisi Sre zleme-2-KAZANIM.xlsx"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "isleyenzeka-7-gi1-a-01",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 1,
+   "ozet": "Kerem'in annesinin sporları ve sıklık zarflarıyla boşluklar dolduruluyor.",
+   "cikti": "ENG.7.4.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to recognize frequency adverbs in simple oral texts.",
+   "yayinevi_kodu": "7.2.1.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-01.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-02",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 2,
+   "ozet": "Sophia ve kardeşinin görünüş karşılaştırmasını anlatan metne göre doğru ifade seçiliyor.",
+   "cikti": "ENG.7.4.R3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to talk about other people's appearances and personalities.",
+   "yayinevi_kodu": "7.1.2.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-02.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-03",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 3,
+   "ozet": "Selin ve Elsa'nın kişilik özellikleri tablosuna göre doğru karşılaştırma cümlesi seçiliyor.",
+   "cikti": "ENG.7.4.R3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to understand a simple text about appearances, personalities, and comparisons including explanations and reasons.",
+   "yayinevi_kodu": "7.1.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-03.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-04",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 4,
+   "ozet": "Görünüş ve kişilik kelimeleri gruplamasında yanlış gruptaki kelimeler bulunuyor.",
+   "cikti": "ENG.7.4.V1.",
+   "bilesenler": [
+    "e"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to write simple pieces to compare people.",
+   "yayinevi_kodu": "7.1.5.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-04.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-05",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 5,
+   "ozet": "Lionel Messi biyografisinde bahsedilmeyen bilgi bulunuyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to recognize frequency adverbs in simple oral texts.",
+   "yayinevi_kodu": "7.2.1.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-05.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-06",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 6,
+   "ozet": "100 gencin sevdiği sporlar anketinin sonuçlarına uygun grafik seçiliyor.",
+   "cikti": "ENG.7.6.R3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to understand short and simple texts on sports.",
+   "yayinevi_kodu": "7.2.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-06.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-07",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 7,
+   "ozet": "Leo, Ada, Mia ve Tom'un spor planlarına göre tablodan doğru eşleştirme bulunuyor.",
+   "cikti": "ENG.7.6.R3.",
+   "bilesenler": [
+    "d"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to ask questions related to the frequency of events.",
+   "yayinevi_kodu": "7.2.2.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-07.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-08",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 8,
+   "ozet": "Yakın arkadaşı anlatan diyalogda sorulmayan soru bulunuyor.",
+   "cikti": "ENG.7.4.G1.",
+   "bilesenler": [
+    "h"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Questions about Personality and Appearance",
+   "yayinevi_kodu": "7.1.14",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-08.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-09",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 9,
+   "ozet": "Spor kulübü broşürüne göre doğru ifade seçiliyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to write pieces about routines/daily activities by using frequency adverbs.",
+   "yayinevi_kodu": "7.2.5.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-09.png"
+  },
+  {
+   "id": "isleyenzeka-7-gi1-a-10",
+   "kaynak": "isleyenzeka-7-gi1-a",
+   "no": 10,
+   "ozet": "Naim Süleymanoğlu'nun hayatındaki dönüm noktalarına göre doğru ifade seçiliyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to talk about past events with definite time.",
+   "yayinevi_kodu": "7.3.2.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/isleyenzeka-7-gi1-a-10.png"
+  },
+  {
+   "id": "yargi-7-si2-a-01",
+   "kaynak": "yargi-7-si2-a",
+   "no": 1,
+   "ozet": "Görünüş ve kişilik tarifleriyle en iyi arkadaşların eşleştirilmesi yapılıyor.",
+   "cikti": "ENG.7.4.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to talk about other people's appearances and personalities.",
+   "yayinevi_kodu": "7.1.2.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-01.png"
+  },
+  {
+   "id": "yargi-7-si2-a-02",
+   "kaynak": "yargi-7-si2-a",
+   "no": 2,
+   "ozet": "Spor kulübü programına göre Emma'nın katılabileceği spor bulunuyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to understand short and simple texts on sports.",
+   "yayinevi_kodu": "7.2.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-02.png"
+  },
+  {
+   "id": "yargi-7-si2-a-03",
+   "kaynak": "yargi-7-si2-a",
+   "no": 3,
+   "ozet": "Alex ve kardeşinin sevdiği sporları anlatan metne göre doğru ifade seçiliyor.",
+   "cikti": "ENG.7.6.R3.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to understand short and simple texts on sports.",
+   "yayinevi_kodu": "7.2.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-03.png"
+  },
+  {
+   "id": "yargi-7-si2-a-04",
+   "kaynak": "yargi-7-si2-a",
+   "no": 4,
+   "ozet": "Marie Curie bilgi kartında cevabı olmayan soru bulunuyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to spot specific information about names and dates in past events in written texts.",
+   "yayinevi_kodu": "7.3.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-04.png"
+  },
+  {
+   "id": "yargi-7-si2-a-05",
+   "kaynak": "yargi-7-si2-a",
+   "no": 5,
+   "ozet": "Kuzenin görünüşünü soran diyaloğa uygun cevap seçiliyor.",
+   "cikti": "ENG.7.4.G1.",
+   "bilesenler": [
+    "h"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to report on apperances and personalities of other people.",
+   "yayinevi_kodu": "7.1.3.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-05.png"
+  },
+  {
+   "id": "yargi-7-si2-a-06",
+   "kaynak": "yargi-7-si2-a",
+   "no": 6,
+   "ozet": "Dört kişinin spor tercihlerine göre eşleştirme yapılıyor.",
+   "cikti": "ENG.7.6.R3.",
+   "bilesenler": [
+    "a"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to ask questions related to the frequency of events.",
+   "yayinevi_kodu": "7.2.2.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-06.png"
+  },
+  {
+   "id": "yargi-7-si2-a-07",
+   "kaynak": "yargi-7-si2-a",
+   "no": 7,
+   "ozet": "Serena Williams zaman çizelgesine göre doğru ifade seçiliyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to spot specific information about names and dates in past events in written texts.",
+   "yayinevi_kodu": "7.3.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-07.png"
+  },
+  {
+   "id": "yargi-7-si2-a-08",
+   "kaynak": "yargi-7-si2-a",
+   "no": 8,
+   "ozet": "Ethan'ın görünüşünü soran diyaloğa uygun cevap seçiliyor.",
+   "cikti": "ENG.7.4.G1.",
+   "bilesenler": [
+    "h"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to talk about other people's appearances and personalities.",
+   "yayinevi_kodu": "7.1.2.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-08.png"
+  },
+  {
+   "id": "yargi-7-si2-a-09",
+   "kaynak": "yargi-7-si2-a",
+   "no": 9,
+   "ozet": "Spor etkinliği afişine göre doğru ifade seçiliyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "b"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to understand short and simple texts on sports.",
+   "yayinevi_kodu": "7.2.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-09.png"
+  },
+  {
+   "id": "yargi-7-si2-a-10",
+   "kaynak": "yargi-7-si2-a",
+   "no": 10,
+   "ozet": "Thomas Edison'un hayatını anlatan metne göre doğru ifade seçiliyor.",
+   "cikti": "ENG.7.6.R2.",
+   "bilesenler": [
+    "c"
+   ],
+   "etiket_kaynagi": "claude",
+   "yayinevi_metni": "Students will be able to spot specific information about names and dates in past events in written texts.",
+   "yayinevi_kodu": "7.3.4.1",
+   "not": "Yayınevi eski program kazanımı yazmış ('Students will be able to…'); soru eski program temasında, TYMM'ye Claude eşledi.",
+   "gorsel": "gorsel/yargi-7-si2-a-10.png"
+  }
+ ]
+}
