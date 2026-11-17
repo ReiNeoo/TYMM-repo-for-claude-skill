@@ -23,6 +23,8 @@ PDF + yayınevi tablosu olarak verir; `tymm-ornek-ekle` skill'i bunları bankaya
   - `scripts/` — skill'in kullandığı betikler: `sayfa_goruntule.py`, `soru_kirp.py` (bloklar/kes),
   `yayinevi_tablo.py` (xlsx → tablo.json), `ornek_ekle.py`, `ornek_bul.py`, `degerlendir.py`, `ortak.py`
 - `.claude/skills/tymm-ornek-ekle/` — PDF + yayınevi tablosunu bankaya ekleme skill'i (betikleri yukarıdakilerdir).
+- `data/` — kullanıcının verdiği deneme PDF'leri (`pdf_dosyalari/`) ve yayınevi kazanım tabloları
+  (`excel_dosyalari/`); **git dışında**, salt okunur.
 - `scripts/` — yalnızca referans üretimi betikleri.
 
 ## Kaynak dosya kuralları

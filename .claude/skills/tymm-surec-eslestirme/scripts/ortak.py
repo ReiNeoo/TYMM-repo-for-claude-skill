@@ -14,8 +14,12 @@ DERSLER = ("turkce", "matematik", "fen-bilimleri", "sosyal-bilgiler", "ingilizce
 DERS_ADI = {
     "TÜRKÇE": "turkce", "MATEMATİK": "matematik", "FEN BİLİMLERİ": "fen-bilimleri",
     "SOSYAL BİLGİLER": "sosyal-bilgiler", "İNGİLİZCE": "ingilizce",
-    "DİN KÜLTÜRÜ VE AHLAK BİLGİSİ": None, "T.C. İNKILAP TARİHİ VE ATATÜRKÇÜLÜK": None,
+    "FEN": "fen-bilimleri", "SOSYAL": "sosyal-bilgiler",
+    "DİN KÜLTÜRÜ VE AHLAK BİLGİSİ": None, "DİN K.VE A.B.": None, "DİN": None,
+    "T.C. İNKILAP TARİHİ VE ATATÜRKÇÜLÜK": None,
 }
+# Bazı yayınevleri 5-7. sınıf Sosyal Bilgiler'i "Tarih" diye yazar; 8. sınıfta "Tarih" İnkılap Tarihi'dir.
+TARIH_ADLARI = {"TARİH", "TARIH"}
 
 
 def utf8():
@@ -35,12 +39,15 @@ def yaz(yol, veri):
         f.write("\n")
 
 
-def ders_klasoru(ad):
-    """'MATEMATİK', 'matematik', 'Fen Bilimleri' -> 'matematik' / 'fen-bilimleri'; bilinmiyorsa None."""
+def ders_klasoru(ad, sinif=None):
+    """'MATEMATİK', 'matematik', 'Fen Bilimleri' -> 'matematik' / 'fen-bilimleri'; bilinmiyorsa None.
+    'Tarih' yalnızca sınıf 5-7 verilirse Sosyal Bilgiler sayılır."""
     s = ad.strip()
     if s in DERSLER:
         return s
     buyuk = s.replace("i", "İ").replace("ı", "I").upper()
+    if buyuk in TARIH_ADLARI:
+        return "sosyal-bilgiler" if sinif and sinif < 8 else None
     if buyuk in DERS_ADI:
         return DERS_ADI[buyuk]
     kucuk = s.replace("İ", "i").replace("I", "ı").lower().replace(" ", "-")

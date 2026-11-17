@@ -27,14 +27,26 @@ import ortak  # noqa: E402
 KOD_DESENI = re.compile(r"^(MAT|FB|SB|ENG|T\.[DOKY])\.\d+\.")
 
 
+def baslik_bul(satirlar):
+    """Başlık satırı: 'Ders' hücresini içeren ilk satır (üstte yayınevi/sınav adı satırları olabilir)."""
+    for i, r in enumerate(satirlar[:15]):
+        if any(str(h or "").strip().lower() == "ders" for h in r):
+            return i
+    sys.exit("başlık satırı bulunamadı ('Ders' sütunu yok)")
+
+
 def sutunlar(baslik, kitapcik):
+    """Döndürür: ders, soru no (yoksa None), kitapçık filtresi (yoksa None), metin ve kod sütunları.
+    Soru no sütunu: '<harf>' ya da '<harf> Soru'. Kitapçık sütunu varsa yalnızca o harfin satırları alınır."""
     b = [str(h or "").strip() for h in baslik]
     kucuk = [h.lower() for h in b]
     i_ders = kucuk.index("ders")
-    i_kitapcik = b.index(kitapcik)
+    adaylar = [i for i, h in enumerate(b) if h == kitapcik or h.lower() == f"{kitapcik.lower()} soru"]
+    i_no = adaylar[0] if adaylar else None
+    i_filtre = kucuk.index("kitapçık") if "kitapçık" in kucuk else None
     metinler = [i for i, h in enumerate(kucuk) if h.startswith("kazanım") and "kod" not in h]
     kodlar = [i for i, h in enumerate(kucuk) if "kod" in h]
-    return i_ders, i_kitapcik, metinler, kodlar
+    return i_ders, i_no, i_filtre, metinler, kodlar
 
 
 def main():
@@ -53,17 +65,27 @@ def main():
     wb = openpyxl.load_workbook(a.xlsx, data_only=True)
     ws = wb[a.sayfa] if a.sayfa else wb.worksheets[0]
     satirlar_ham = list(ws.iter_rows(values_only=True))
-    i_ders, i_no, i_metin, i_kod = sutunlar(satirlar_ham[0], a.kitapcik)
+    ib = baslik_bul(satirlar_ham)
+    i_ders, i_no, i_filtre, i_metin, i_kod = sutunlar(satirlar_ham[ib], a.kitapcik)
+    if i_no is None:
+        print(f"UYARI: '{a.kitapcik}' / '{a.kitapcik} Soru' sütunu yok; soru no ders içindeki satır sırasından "
+              "verildi. Kitapçıkla karşılaştırarak doğrula.")
 
-    ref, satirlar = {}, []
-    for r in satirlar_ham[1:]:
-        if not r[i_ders] or r[i_no] in (None, ""):
+    ref, satirlar, sayac = {}, [], {}
+    for r in satirlar_ham[ib + 1:]:
+        if not r[i_ders]:
+            continue
+        if i_filtre is not None and str(r[i_filtre] or "").strip() != a.kitapcik:
             continue
         ders_ad = str(r[i_ders]).strip()
-        ders = ortak.ders_klasoru(ders_ad)
+        sayac[ders_ad] = sayac.get(ders_ad, 0) + 1
+        if i_no is not None and r[i_no] in (None, ""):
+            continue
+        no = int(r[i_no]) if i_no is not None else sayac[ders_ad]
+        ders = ortak.ders_klasoru(ders_ad, a.sinif)
         metinler = [str(r[i]).strip() for i in i_metin if r[i]]
         kodlar = [str(r[i]).strip() for i in i_kod if r[i]]
-        s = {"ders": ders or ders_ad, "no": int(r[i_no]), "yayinevi_metni": " | ".join(metinler)}
+        s = {"ders": ders or ders_ad, "no": no, "yayinevi_metni": " | ".join(metinler)}
         if kodlar:
             s["yayinevi_kodu"] = " | ".join(kodlar)
         if ders is None:

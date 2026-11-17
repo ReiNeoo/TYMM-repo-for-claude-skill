@@ -19,3 +19,6 @@ __pycache__/
 # Örnek bankası soru görselleri (yayınevi içeriği; git'e girmez — yalnızca etiket JSON'ları commit'lenir)
 .claude/skills/tymm-surec-eslestirme/ornekler/**/gorsel/
 .claude/settings.local.json
+
+# Kullanıcının verdiği deneme PDF + kazanım tabloları (yayınevi içeriği)
+data/
