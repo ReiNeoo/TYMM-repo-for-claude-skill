@@ -37,7 +37,7 @@ PY=".venv/Scripts/python.exe -I"; S=.claude/skills/tymm-surec-eslestirme/scripts
 | Çıktılar + bileşenler (Mat, Fen, Sosyal) | `referans/<ders>/<sınıf>.json` → `temalar[].ciktilar[]` |
 | Türkçe | ana dosya `ciktilar[]`; bileşenler `bilesen_dosyasi` → `<sınıf>/okuma.json` vb. |
 | İngilizce | ana dosya `temalar[]`; bileşenler `bilesen_dosyasi` → `<sınıf>/tema-N.json` |
-| Doğrulanmış ayrım kuralları | `referans/<ders>/<sınıf>-notlar.md` (varsa; genel değerlendirmenin önüne geçer) |
+| Ayrım notları (program metnine dayalı) | `referans/<ders>/<sınıf>-notlar.md` ya da `referans/<ders>/notlar-genel.md` |
 | Örnek bankası | `ornekler/<ders>/<sınıf>.json` (etiketler) + `ornekler/<ders>/gorsel/` (git dışında) |
 
 Ders klasörleri: `turkce`, `matematik`, `fen-bilimleri`, `sosyal-bilgiler`, `ingilizce`.
@@ -67,8 +67,7 @@ Taranmış PDF'de `soru_kirp.py bloklar` akışı kullanılır (`tymm-ornek-ekle
 
 ### 3. Referansı yükle, kapsamı daralt
 Her ders için aday çıktıları kısa listeyle gör (`$PY $S/kapsam.py <ders> <sınıf> [--hafta N]`); varsa
-`<sınıf>-notlar.md`'yi de oku. Notlardaki kurallar çoğu zaman **yayınevine özgüdür** (yanında yayınevi adı
-yazar); farklı yayınevinin denemesinde kuralı kesin değil, aday olarak kullan. Tarih verildiyse
+`<sınıf>-notlar.md` / `notlar-genel.md`'yi de oku (komşu çıktıların program metnine göre ayrımı). Tarih verildiyse
 `plan.haftalar` ile haftayı bul; `plan_haftalari` o haftaya kadar olan çıktıları öncelikli aday say.
 Tarih yoksa sınav adından tahmin et ("Süreç Değerlendirme – 1" → yılın ilk haftaları) ve varsayımı
 raporda belirt.
@@ -90,15 +89,28 @@ $PY $S/ornek_bul.py <ders> <sınıf>                        # bankanın kapsam �
   yana değerlendir. Soru başına ~6 görseli geçme.
 - Birden çok tutarlı örnek tek örnekten güçlüdür. `yayinevi` etiketli örnekler, Claude'un tamamladığı
   (`yayinevi+claude`, `claude`) örneklerden güçlüdür.
-- Örnek bir kanıttır, kural değil: yayınevi etiketlerinde küçük hatalar olabilir. Örnekle program
-  metni açıkça çelişiyorsa program metnine uy ve bunu gerekçede belirt.
+- Örnek bir kanıttır, kural değil. **Karar program metnine göre verilir.** Yayınevleri aynı tür soruyu
+  farklı çıktı/bileşenlere bağlayabiliyor; programla açıklanamayan yayınevi tercihlerini (alışkanlıklarını)
+  kural yapma. Örnekle program metni çelişiyorsa program metnine uy ve bunu gerekçede belirt.
 - Hiç örneği olmayan çıktı/bileşen için yalnızca program metni ve notlarla karar ver; güveni buna göre düşür.
 
 **Test modu:** Kitapçık bankada zaten varsa (değerlendirme amaçlı yeniden etiketleme), kendi
 örneklerini dışarıda bırak: `--haric <kaynak-id>`. Aksi hâlde sonuç anlamsızdır.
 
 ### 6. Karar ver
-Her soru için:
+Önce şu dört adımı her soru için uygula (geçmiş ölçümlerdeki hataların çoğu bunlar atlandığı için oldu):
+1. **Sorunun tamamını gör.** Kök, öncüller ve tüm seçenekler; şekil, grafik, tablo varsa ya da metinde
+   kesir/sembol bozuk çıkmışsa (ör. "2 6 5", "4,5µ4") kırpımı aç. Kesilmiş metinle karar verme.
+2. **Görevi tek cümleyle yaz:** öğrenci ne yapıyor? (ör. "sözcüğün metindeki anlamını buluyor",
+   "modeldeki hatayı düzeltiyor", "enerji türünü belirliyor"). Konu kelimesine ("model", "enerji",
+   "çember") değil bu göreve göre seç.
+3. **Komşu çıktıları ele:** aynı temadaki yakın çıktıları (kapsam listesinden) yan yana koy; program
+   metnindeki fiil ve kapsam farkıyla ele (notlardaki ayrımlar). Hataların çoğu doğru temada yanlış komşu
+   çıktıdır.
+4. **Bileşeni fiille eşleştir:** görevdeki eylemi bileşen fiilleriyle karşılaştır (tanır / belirler /
+   kullanır; varsayımda bulunur / inceler / sınar / önerme sunar; özetler / yeniler / kontrol eder …).
+
+Sonra her soru için:
 - En uygun **öğrenme çıktısı**.
 - O çıktının bileşenlerinden **tek birincil bileşen** (yayınevleri soru başına tek bileşen atar);
   gerçekten gerekiyorsa bir ikincil bileşeni "ikincil" diye ayrıca belirt.

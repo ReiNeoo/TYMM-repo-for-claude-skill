@@ -129,6 +129,9 @@ $PY $S/degerlendir.py tmp/ornek/<id>/tahmin.json --kaynak <id>
 Ölçüm: `yayinevi` satırlarında çıktı + bileşen, `yayinevi+claude` satırlarında yalnızca çıktı ölçülür;
 `claude` satırları ölçülmez. Tahminde tablo satırını önceden gördüğün soruyu `"sizinti": true` ile işaretle.
 Sonucu `tmp/ornek/OLCUMLER.md` günlüğüne ekle.
-Yanlış etiketlenen sorulardan genellenebilir bir ayrım kuralı çıkıyorsa
-`referans/<ders>/<sınıf>-notlar.md`'ye ekle ve ilgili örneğin `ipucu` alanına yaz. Doğruluğu
+Yanlış etiketlenen her soruyu sınıflandır: (1) **kendi hatası** — program metnine göre yayınevi etiketi
+daha doğru (soruyu tam okumama, konu kelimesine takılma, komşu çıktıyı elememe, bileşen fiilini
+eşleştirmeme); (2) **yayınevi tercihi** — program metniyle açıklanamayan ya da iki çıktının da savunulabildiği
+durum. Yalnızca (1)'den çıkan, program metnine dayanan ayrımları `referans/<ders>/<sınıf>-notlar.md`
+(ya da `notlar-genel.md`) dosyasına ve ilgili örneğin `ipucu` alanına yaz; yayınevi alışkanlıklarını kural yapma. Doğruluğu
 kullanıcıya ders bazında bildir (yayınevi etiketli / Claude tamamlamış ayrı).

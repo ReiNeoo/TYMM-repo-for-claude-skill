@@ -1,13 +1,8 @@
-# Fen Bilimleri 5. sınıf – eşleştirme notları
+# Fen Bilimleri 5. sınıf – ayrım notları (program metnine göre)
 
-Yayınevi tablolarıyla doğrulanmış örneklerden çıkarılmıştır. `5.json` ile birlikte oku.
-
-## Gökyüzündeki Komşularımız ve Biz (FB.5.1.)
-- Ay evreleriyle ilgili her türlü soru (takvim, grafik, evreler arası süre, evrelerin nedeni, yeni ayın
-  tarihi) → **FB.5.1.3** (yayınevleri "model" ifadesi geçmese de evre sorularını buraya bağlıyor).
-- Ay'ın yüzeyi, atmosferi, dönme-dolanma hareketleri → FB.5.1.2.
-- Güneş-Dünya-Ay büyüklük/uzaklık modeli → FB.5.1.4.
-
-## Kuvveti Tanıyalım (FB.5.2.)
-- Dinamometre deneyi/ölçümü ve kuvvet-uzama sonucu, "dinamometre tasarlıyor" dense bile → **FB.5.2.1**
-  (İşleyen Zeka). FB.5.2.2 yalnızca modelin tasarlanması/yenilenmesi sorulunca.
+- Güneş'in yapısı/dönmesi, gözlem araçları → FB.5.1.1 (araç belirleme a). Ay'ın yüzeyi, atmosferi, dönme-
+  dolanması → FB.5.1.2. Ay evreleri (takvim, grafik, evreler arası süre, nedeni) → FB.5.1.3 (evrelerle ilgili
+  tek çıktı). Güneş-Dünya-Ay büyüklük/hareket modeli → FB.5.1.4.
+- Dinamometreyle ölçüm, okuma, kuvvet–uzama ilişkisi → FB.5.2.1 b. Dinamometre *modeli tasarlama/yenileme*
+  açıkça isteniyorsa → FB.5.2.2.
+- Konu kelimesine değil görev fiiline bak: "model" kelimesi geçse de soru olayı yorumlatıyorsa model çıktısı değildir.

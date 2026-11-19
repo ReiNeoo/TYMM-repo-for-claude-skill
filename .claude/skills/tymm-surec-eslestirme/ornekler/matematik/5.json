@@ -254,7 +254,7 @@
    "etiket_kaynagi": "yayinevi+claude",
    "yayinevi_metni": "Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şekiller olarak yorumlayabilme",
    "yayinevi_kodu": "5.23.5.1",
-   "ipucu": "Kâğıdı katlayıp keserek oluşan çokgenlerin kenar sayısı → yayınevi MAT.5.3.5 (çokgen oluşturma), MAT.5.3.6 değil.",
+   "ipucu": "Kâğıdı katlayıp keserek çokgen oluşturma → MAT.5.3.5 (çokgenin oluşumu); hazır çokgenin özellikleri → 5.3.6.",
    "gorsel": "gorsel/isleyenzeka-5-gi1-a-02.png"
   },
   {
@@ -297,8 +297,7 @@
    "etiket_kaynagi": "yayinevi+claude",
    "yayinevi_metni": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme",
    "yayinevi_kodu": "5.23.7.1",
-   "ipucu": "Pergel açıklığından çemberin yarıçap/çapına dair ifadeler → yayınevi MAT.5.3.7 dedi; Eksen benzer pergel sorusunu MAT.5.3.1 c etiketledi (yayınevleri ayrışıyor).",
-   "not": "Bileşen Claude: MAT.5.3.7 bileşenleri kesişen çember üçgenleri içindir; soruya en yakın b seçildi.",
+   "not": "Etiket (MAT.5.3.7) program kapsamıyla zayıf uyumlu: 5.3.7 iki kesişen çemberle kurulan üçgenler içindir; tek çemberin yarıçap/çapı 5.3.1 c ya da 5.3.2 b'ye daha yakın.",
    "gorsel": "gorsel/isleyenzeka-5-gi1-a-05.png"
   },
   {
@@ -313,7 +312,7 @@
    "etiket_kaynagi": "yayinevi+claude",
    "yayinevi_metni": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
    "yayinevi_kodu": "5.23.4.1",
-   "ipucu": "Dik açı ölçüsünden hareketle açıları belirleme → yayınevi MAT.5.3.4.",
+   "ipucu": "Açı ölçüsünden (dik açıdan fark) açıları belirleme → MAT.5.3.4 b.",
    "gorsel": "gorsel/isleyenzeka-5-gi1-a-06.png"
   },
   {
@@ -398,7 +397,7 @@
    "etiket_kaynagi": "yayinevi+claude",
    "yayinevi_metni": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
    "yayinevi_kodu": "5.23.4.1",
-   "ipucu": "Bütünler/tümler/ters açı hesabı içeren soru, üçgen iç açıları olsa da → yayınevi MAT.5.3.4.",
+   "ipucu": "Bütünler/tümler/ters açı ilişkileri → MAT.5.3.4 (doğruların oluşturduğu açılar), üçgen içinde verilse de.",
    "gorsel": "gorsel/isleyenzeka-5-gi1-a-12.png"
   },
   {

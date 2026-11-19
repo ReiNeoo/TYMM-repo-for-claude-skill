@@ -1,57 +1,19 @@
-# Matematik 5. sınıf – eşleştirme notları
+# Matematik 5. sınıf – ayrım notları (program metnine göre)
 
-Bu notlar, yayınevi kazanım tablosuyla doğrulanmış örneklerden çıkarılmıştır
-(5. Sınıf Süreç Değerlendirme – 1, A ve B kitapçıkları). `5.json` ile birlikte oku.
-
-## Genel
-
-- Yayınevi her soruya **tek bir süreç bileşeni** atar. Her soru için tek birincil bileşen seç;
-  gerçekten gerekiyorsa ikinciyi "ikincil" olarak ayrıca belirt.
+Yayınevi etiketleri yayınevine göre değişebilir; aşağıdakiler yalnızca program metninden çıkan ayrımlardır.
 
 ## Geometrik Şekiller (MAT.5.3.)
-
-### MAT.5.3.1 mi, MAT.5.3.2 mi?
-- Sorunun odağı **aracın kendisi** ise (aracı tanıma, göreve uygun aracı seçme, aracı kullanarak
-  çizim/ölçme yapma ya da yapılan bir araç kullanımını değerlendirme) → **MAT.5.3.1**.
-- Soru **çizimlerin/şekillerin özelliklerinden çıkarım** istiyorsa → **MAT.5.3.2**; araçla yapılmış
-  bir çizim üzerinden olsa bile. Örnek: pergelle ışın üzerinde ardışık eşit doğru parçaları kesilmiş,
-  uzunluklardan hangisi yanlıştır → MAT.5.3.2 b (program da bu inşa çalışmasını MAT.5.3.2'de anlatır).
-- Okunuşu verilen doğru/doğru parçası/ışının çizimini bulma, kolları ve köşesi verilen açının
-  çizimini bulma, **açının** sembolle gösteriminden yanlışı bulma → MAT.5.3.2 b.
-
-### MAT.5.3.1 bileşenleri
-- **a) tanır:** Bir nesnenin/aracın çizim-ölçme işlevini görüp göremeyeceğini tanıma.
-  - "Hangi eşya çizgeç yerine kullanılamaz?" → a
-  - "Kaç eşyada cetvelle ölçülebilecek doğru parçası modeli vardır?" → a
-- **b) belirler:** Bir göreve uygun araç(lar)ı veya gösterimi seçenekler arasından seçme.
-  - "Logoyu aynı ölçülerde çizmek için hangi araçlar yeterlidir?" → b
-  - Görev kartları ile araç eşleştirme → b
-  - Cetvelle ölçülen uzunluğun doğru sembolle gösterimini seçme (|AB| = 5 cm) → b
-- **c) kullanır:** Aracın fiilen kullanımı veya kullanım sonucunun değerlendirilmesi.
-  - Cetvel üzerinde açıklığı gösterilen pergelle çizilebilecek çember → c
-  - Gönye ile çizilen dikmelerden hangilerinin doğru olduğu → c
-
-### MAT.5.3.2 bileşenleri
-- **a) deneyimlerini gözden geçirir:** Yapılmış bir tasarımda/çizimde hangi temel şekillerin
-  kullanıldığını gözden geçirme. Örnek: "İsim tasarımında hangi şeklin kullanıldığı söylenemez?" → a
-- **b) özelliklerine yönelik çıkarım yapar:** Çizimin/gösterimin doğru olup olmadığına, şekiller
-  arası ilişkiye dair çıkarım. Diğer MAT.5.3.2 sorularının çoğu → b
-
-### Paralel ve dik doğrular
-- Paralellik/diklik ilişkisi sorulan sorular (ör. "s // t, p ⊥ s ifadelerinden hangisi yanlış",
-  "hangi harflerde dik doğru parçaları kullanılmamış") → **MAT.5.3.2 b**, MAT.5.3.4 değil.
-- **MAT.5.3.4** yalnızca soru, kesişen doğruların **oluşturduğu açılara** (sayısı, ölçüleri, ters/
-  komşu/tümler/bütünler açılar) dayanıyorsa kullanılır.
-
-### MAT.5.3.3
-- Açıölçerle açı ölçüsü okuma → MAT.5.3.3 c (Açı ölçmek için uygun araç ve teknolojiyi kullanır).
-
-## İşleyen Zeka 5. Sınıf Gelişim İzleme 1'den (çıktı düzeyinde tablo)
-
-Yayınevleri aynı tür soruyu farklı çıktılara bağlayabiliyor; aşağıdakiler bu yayınevinin tercihleridir.
-- Kâğıt katlayıp keserek oluşan çokgenlerin kenar sayısı → **MAT.5.3.5** (çokgen oluşturma), MAT.5.3.6 değil.
-- Dik açı ölçüsünden farkları verilen açılardan hangisinin dik olduğu → **MAT.5.3.4**.
-- Bütünler/tümler/ters açı sembolleriyle üçgende bilinmeyen açı → **MAT.5.3.4** (üçgen iç açıları olsa da).
-- Pergel açıklığından çemberin yarıçap/çap ifadeleri → bu yayınevi **MAT.5.3.7**; Eksen benzerini MAT.5.3.1 c
-  etiketledi. Çember özelliği soruluyorsa iki aday da düşünülmeli → güven düşük.
-- Kesişen eş çemberlerle kurulan üçgen (radar, KOM, ABC çevresi, KML açısı) → MAT.5.3.7.
+- **5.3.1 ↔ 5.3.2:** Soru *aracın kendisine* dayanıyorsa (aracı tanıma, göreve uygun aracı seçme, araçla
+  çizim/ölçme ya da yapılmış bir araç kullanımını değerlendirme) → 5.3.1. Çizimin/şeklin *özelliklerinden*
+  çıkarım isteniyorsa → 5.3.2 (araçla yapılmış çizim üzerinden olsa bile).
+  - 5.3.1 a tanır (nesnenin çizim/ölçme işlevi), b belirler (göreve uygun araç/gösterim seçme), c kullanır
+    (aracın kullanım sonucu: pergel açıklığı → çember, gönyeyle çizilen dikme).
+  - 5.3.2 a: yapılmış bir tasarımda hangi temel şekillerin kullanıldığını gözden geçirme; b: gösterimin
+    doğruluğu, şekiller arası ilişki (paralellik, diklik, sembol–tanım eşleşmesi).
+- **5.3.2 ↔ 5.3.4:** Doğruların *birbirine göre durumu* (paralel, dik) → 5.3.2 b. Kesişen doğruların
+  *oluşturduğu açılar* (ölçü, ters/komşu/tümler/bütünler açı, dik açıdan fark) → 5.3.4 (açıları belirler: b).
+- **5.3.5 ↔ 5.3.6:** Çokgenin *oluşması/oluşturulması* (doğruların ardışık kesişmesi, kâğıdı katlayıp
+  keserek çokgen elde etme) → 5.3.5. Var olan çokgenin kenar, açı, köşegen *özellikleri*, üçgen türleri → 5.3.6 b.
+- **5.3.7:** Yalnızca *iki kesişen çemberin* merkezleri ve kesişim noktasıyla kurulan üçgen. Tek çember ve
+  yarıçap/çap → 5.3.7 değil (pergel kullanımı → 5.3.1 c, çember özelliği → 5.3.2 b).
+- **5.3.3:** Açıölçerle ölçü okuma → c (kullanır).

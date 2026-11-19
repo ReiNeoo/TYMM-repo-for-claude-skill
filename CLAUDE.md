@@ -12,8 +12,13 @@ PDF + yayınevi tablosu olarak verir; `tymm-ornek-ekle` skill'i bunları bankaya
 
 ## Repo yapısı
 
-- `tymm_programmes/pdf_files/` — resmi TYMM program PDF'leri (Fen, Matematik, Türkçe, Sosyal Bilgiler,
-İngilizce 2–8, İnkılap Tarihi 8). PDF'ler metin tabanlı; `pdftotext -layout` ile temiz çıkıyor.
+- `tymm_programmes/pdf_files/` — resmi program PDF'leri (kaynak ve PID listesi: `KAYNAK.md`). PDF'ler metin
+tabanlı; `pdftotext -layout` ile temiz çıkıyor.
+  - kök: TYMM ortaokul (Fen, Matematik, Türkçe, Sosyal Bilgiler, İngilizce 2–8, İnkılap Tarihi 8,
+  Din Kültürü 4–8) + `ortak-metin.pdf`
+  - `lise/`: TYMM lise (9–12) programları
+  - `eski-program/ortaokul/`, `eski-program/lise/`: 2018 programları (8. ve 12. sınıfta hâlâ geçerli; LGS/YKS).
+  Eski programlarda **süreç bileşeni yok**, yalnızca kazanım var (kod biçimi farklı, ör. `M.8.1.1.1.`).
 - `tymm_programmes/taslak_plans/` — 2026-2027 taslak çerçeve yıllık planları (zip içinde xlsx).
 - `.claude/skills/tymm-surec-eslestirme/` — etiketleme skill'i.
   - `SKILL.md` — iş akışı (frontmatter: `name`, `description`)
@@ -24,8 +29,22 @@ PDF + yayınevi tablosu olarak verir; `tymm-ornek-ekle` skill'i bunları bankaya
   kes / pano), `soru_metni.py` (soru başına metin), `kapsam.py` (aday çıktı listesi), `yayinevi_tablo.py`
   (xlsx → tablo.json), `ornek_ekle.py`, `ornek_bul.py`, `degerlendir.py`, `ortak.py`
 - `.claude/skills/tymm-ornek-ekle/` — PDF + yayınevi tablosunu bankaya ekleme skill'i (betikleri yukarıdakilerdir).
-- `data/` — kullanıcının verdiği deneme PDF'leri (`pdf_dosyalari/`) ve yayınevi kazanım tabloları
-  (`excel_dosyalari/`); **git dışında**, salt okunur.
+- `data/` — deneme verisi; **git dışında**, içerikler salt okunur (yayınevi içeriği, **dağıtılmaz**).
+Ayrıntı `data/README.md`. İki üst klasör:
+  - `data/kullanilacak/` — her deneme bir kazanım tablosu (`dt2_*.xlsx|.xls`) + kitapçık (`dt3_*.pdf`) çifti.
+  Okulizyon setleri `<set>/<yayınevi>/<yıl>/<sınav no>_<ad>/` düzeninde; Okulizyon hesabı sahibinin izniyle
+  indirildi (araç ve arşiv listeleri: `tmp/okulizyon/`).
+    - `5-7_tymm/` — 245 (5: 152, 6: 76, 7: 17); TYMM, süreç bileşeni dahil. İşleyen Zeka 2026–27 Gelişim
+    İzleme 1 (5/6/7) zaten bankada.
+    - `8_lgs/` — 153; **eski (2018) programa** göre, yalnızca kazanım (kullanıcı kararı 2026-11-17). 5–7 ile
+    karıştırılmaz.
+    - `9-11_tymm/` — 218; TYMM. 10'u 2026–27 "MAARİF" serisi (sınıf düzeyi incelenmedi).
+    - `yks/` — 349 TYT/AYT/YDT/MSÜ (2025–26, 2026–27); **eski (2018) lise programına** göre, yalnızca kazanım
+    (kullanıcı kararı 2026-11-17).
+    - `kullanici/` — kullanıcının verdiği dosyalar (`pdf_dosyalari/`, `excel_dosyalari/`): Yargı Sıfır Tolerans
+    Süreç İzleme-2 ve İşleyen Zeka Gelişim İzleme 1 (5–8). 5–7 olanlar bankada; **Yargı 5 sabit test seti**.
+  - `data/kullanilmayacak/` — `iskarta/<set>/` (eksik/uygunsuz çiftler, nedenleri `NEDEN.txt`) ve `kullanici/`
+  (kitapçığı olmayan Bilgi Sarmal Maarif ve Hız ve Renk TYT; PDF'leri yalnızca cevap anahtarı).
 - `scripts/` — yalnızca referans üretimi betikleri.
 
 ## Kaynak dosya kuralları
@@ -68,7 +87,9 @@ Tabloda eksik olan çıktı/bileşeni Claude tamamlar ve `etiket_kaynagi` ile i�
 görselleri git'e girmez; yalnızca etiket JSON'ları commit'lenir.
 - Aynı denemenin A/B kitapçıklarından yalnızca biri bankaya eklenir.
 - Yeni deneme bankaya eklenmeden önce tabloya bakılmadan etiketlenir ve ölçülür (önce test, sonra örnek).
-- Doğrulanmış ayrım kuralları `referans/<ders>/<sınıf>-notlar.md` içine yazılır.
+- Ayrım notları `referans/<ders>/<sınıf>-notlar.md` ya da `notlar-genel.md` içine yazılır ve **yalnızca program
+metnine dayanır**. Kullanıcı kararı (2026-11-17): yayınevi alışkanlıkları (programla açıklanamayan, yayınevine
+özgü çıktı/bileşen tercihleri) görmezden gelinir; etiketleme kararı program metnine göre verilir.
 - MEB örnek soruları şu an yok.
 
 ## Test iş akışı (Claude Code'da)
@@ -108,20 +129,34 @@ kararı (2026-11-17): 7. sınıf İngilizce de **TYMM'ye (ENG.7) göre** eşleni
 
 ## Açık sorular
 
-1. 8. sınıf aşaması: 2026-2027'de 4, 8 ve 12. sınıflarda hâlâ eski program uygulanıyor. 8. sınıf
-
-   denemeleri TYMM'ye mi, eski programa mı göre eşlenecek? (5–7 tamamlandıktan sonra netleştirilecek.)
-2. Din Kültürü ve Ahlak Bilgisi programı repoda yok; LGS denemeleri için gerekirse eklenmeli.
+1. 8. sınıf: karar verildi (2026-11-17) — eski (2018) programa göre, yalnızca kazanım. Eski program referans
+   çıkarıcısı henüz yazılmadı.
+2. Lise / YKS: kapsama alındı (2026-11-17): 9–11 TYMM'ye, YKS eski programa göre. TYMM lisede 9 (2024–25),
+   10 (2025–26), 11 (2026–27) sınıflarda yürürlükte. Referansları henüz üretilmedi; sıralaması (8. sınıf,
+   lise, YKS) netleşmedi.
 
 ## Sonraki adımlar
 
 Bankada (2026-11-17): eksen-5 (yalnız Mat), İşleyen Zeka Gelişim İzleme 1 (5, 6, 7), Yargı Süreç İzleme 2
 (6, 7). Ölçüm günlüğü: `tmp/ornek/OLCUMLER.md` (git dışında). Bekleyenler:
-1. Yargı 5 (`data/`): sabit test seti olarak ayrıldı; bankaya eklenmeden ölçülecek. Bu oturumda tablosu
+1. Yargı 5 (`data/kullanilacak/kullanici/`): sabit test seti olarak ayrıldı; bankaya eklenmeden ölçülecek. Bu oturumda tablosu
    görüldüğü için ölçüm yeni bir oturumda yapılmalı.
 2. eksen-5-sd1-a'nın diğer dersleri (`tmp/sayısal.pdf`, `tmp/sosyal.pdf`, tablo.json hazır).
 3. Yargı kırpımlarından bazıları eksik (ör. yargi-6 fen-01/02); pano ile gözden geçirip haritayı elle düzelt.
-4. Bileşen doğruluğu düşük ve yayınevine bağlı: notlardaki kuralları yayınevi adıyla yaz; `ornek_bul`
-   çıktısında aynı yayınevinin örneklerini öne almak düşünülebilir.
+4. Yayınevi alışkanlıkları görmezden gelinir. Ölçümde yayınevi tercihinden kaynaklanan farklar "kendi hatası"
+   sayılmaz; hata analizi `tmp/ornek/OLCUMLER.md`'de. Yeni karar yöntemi (SKILL.md 6. adım) yeni bir denemeyle ölçülmeli.
 5. İngilizce: yayınevi etiketleri tahmin edilemiyor / eski program; ölçümden ayrı tutulmalı.
-6. Açık soruları netleştir (8. sınıf, Din Kültürü).
+6. Açık soruları netleştir (8. sınıf, lise/YKS). Din Kültürü programları (TYMM 4–8 ve 9–12, 2018 4–8 ve 9–12)
+   artık repoda.
+7. `data/kullanilacak/5-7_tymm/` (245 sınav) bankaya eklenmeyi bekliyor. 12'sinin tablosu eski `.xls` biçiminde (GO, MUBA);
+   `yayinevi_tablo.py`'nin bunu okuyup okumadığı kontrol edilmeli. Yargı arşivde yok (Yargı 5 sabit test seti etkilenmez).
+8. **Toplu soru çıkarma** (devam eden iş, ayrıntı: `tmp/pilot/README.md`). Amaç: ~106 bin sorunun (tablolardan
+   sayıldı; ~95 bini dijital kitapçıkta) soru başına kırpım + JSON kaydı (etiket + meta veri) ile bankaya/teste
+   alınması. Durum (2026-11-18):
+   - Kitapçıkların %89'u dijital (metin katmanlı), %11'i görüntü (çoğu Okyanus, GO). Sınıflama: `tmp/pilot/dijital.json`.
+   - Dijital yöntem prototipi (`tmp/pilot/kirp_dijital.py` + `filigran.py`): 9 dijital pilot sınavda soru sayısı
+     tutma %84, panolardan temiz kırpım ~%85–90. Zayıf: Kafa Dengi, Klasman; iç içe gömülü filigran bazı sayfalarda kalıyor.
+   - Kullanıcı tercihi: **PNG üzerinden öğrenen bir soru tespit modeli** (YOLO, RTX 5090 mevcut). Dijital yöntem
+     modele etiket üretir. PyTorch (CUDA 12.8) + Ultralytics kurulumu için **kullanıcı onayı bekleniyor**.
+   - Kullanıcı AV 7467 kontrol görsellerini (`tmp/pilot/7467/kontrol/`) inceliyor; geri bildirimi bekleniyor.
+9. `tmp/okulizyon_cerez.txt` (Okulizyon hesap sahibinin oturum çerezi, kişisel veri) artık gerekmiyor; silinmeli.

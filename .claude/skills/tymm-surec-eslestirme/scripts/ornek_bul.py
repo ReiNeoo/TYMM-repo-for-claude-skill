@@ -24,8 +24,8 @@ def satir(x, ders):
     s = f"    [{x['id']}] ({x['etiket_kaynagi']}) {x['ozet']}\n      görsel: {gorsel}"
     if x.get("ipucu"):
         s += f"\n      ipucu: {x['ipucu']}"
-    if len(x["bilesenler"]) > 1:
-        s += f"\n      bileşenler: {', '.join(x['bilesenler'])}"
+    if len(x.get("bilesenler", [])) > 1:
+        s += f"\n      bileşenler: {', '.join(x.get('bilesenler', []))}"
     return s
 
 
@@ -50,7 +50,7 @@ def main():
               + (f" (hariç: {', '.join(a.haric)})" if a.haric else ""))
         say = {}
         for x in sorular:
-            for h in x["bilesenler"][:1] or ["-"]:
+            for h in x.get("bilesenler", [])[:1] or ["-"]:
                 say.setdefault(x["cikti"], {}).setdefault(h, 0)
                 say[x["cikti"]][h] += 1
         for kod in ref:
@@ -59,7 +59,7 @@ def main():
         print(f"  örneği olmayan çıktılar: {sum(1 for k in ref if k not in say)}/{len(ref)}")
         print("\nTüm örnekler (id | çıktı+bileşen | özet):")
         for x in sorular:
-            print(f"  {x['id']} | {x['cikti']}{''.join(x['bilesenler'])} | {x['ozet']}")
+            print(f"  {x['id']} | {x['cikti']}{''.join(x.get('bilesenler', []))} | {x['ozet']}")
         return
 
     for kod in a.kodlar:
@@ -73,7 +73,7 @@ def main():
                           key=lambda x: (ONCELIK.get(x["etiket_kaynagi"], 9), x["id"]))
         bilesenler = c["surec_bilesenleri"] or [{"harf": None, "metin": "(programda bileşen verilmemiş)"}]
         for bl in bilesenler:
-            grup = [x for x in ornekler if (x["bilesenler"][:1] or [None])[0] == bl["harf"]]
+            grup = [x for x in ornekler if (x.get("bilesenler", [])[:1] or [None])[0] == bl["harf"]]
             print(f"  {bl['harf'] or '-'}) {bl['metin']}  — {len(grup)} örnek")
             for x in grup[:a.bilesen_basina]:
                 print(satir(x, ders))

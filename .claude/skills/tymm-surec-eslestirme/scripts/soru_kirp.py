@@ -500,7 +500,10 @@ def komut_harita_metin(a):
         orta = W / 2
         adaylar = [r for r, t in satirlar if NO_BAS.match(t)]
         sol = min((r.x0 for r in adaylar if r.x0 < orta - 40), default=min(r.x0 for r, _ in satirlar))
-        sag = min((r.x0 for r in adaylar if r.x0 >= orta - 40), default=None)
+        # Sağ sütun soru numarası tek başına bir satırdır ("6."); sağ yarıda başlayan "2. grup: …" gibi
+        # metin satırları sütun kenarı sayılmaz (tek sütunlu sayfa yanlışlıkla ikiye bölünmesin).
+        sag = min((r.x0 for r, t in satirlar if r.x0 >= orta - 40 and NO_BAS.match(t)
+                   and (re.fullmatch(r"\d{1,2}\.", t) or r.x0 <= orta + 25)), default=None)
         sinir = (sag - 3) if sag is not None else W
         x_sol, x_sag = max(0, sol - 8), min(W, W - sol + 8)
         tam_satirlar = [r for r, _ in satirlar if r.x0 < sinir - 20 and r.x1 > sinir + 20]

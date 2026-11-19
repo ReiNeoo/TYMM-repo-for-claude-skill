@@ -19,7 +19,7 @@ def main():
     ap.add_argument("pdf")
     ap.add_argument("harita")
     ap.add_argument("--onek", default="")
-    ap.add_argument("--uzunluk", type=int, default=900, help="soru başına en fazla karakter")
+    ap.add_argument("--uzunluk", type=int, default=0, help="soru başına en fazla karakter (0: tamamı)")
     a = ap.parse_args()
     doc = pymupdf.open(a.pdf)
     for anahtar, bolgeler in ortak.oku(a.harita).items():
@@ -39,7 +39,8 @@ def main():
                     satirlar.append("".join(sp["text"] for sp in ln["spans"]))
             parca.append(" ".join(satirlar))
         metin = re.sub(r"\s+", " ", " ".join(parca)).strip()
-        print(f"[{anahtar}] {metin[:a.uzunluk]}")
+        print(f"[{anahtar}] {metin[:a.uzunluk] if a.uzunluk else metin}
+")
 
 
 if __name__ == "__main__":

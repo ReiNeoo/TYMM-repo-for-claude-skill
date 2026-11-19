@@ -180,7 +180,7 @@
    "etiket_kaynagi": "yayinevi+claude",
    "yayinevi_metni": "Kuvveti büyüklüğü ile operasyonel tanımlayabilme",
    "yayinevi_kodu": "5.22.1.1",
-   "ipucu": "Dinamometre deneyinden kuvvet-uzama sonucu, 'dinamometre tasarlıyor' dense de → yayınevi FB.5.2.1 (FB.5.2.2 değil).",
+   "ipucu": "Dinamometreyle ölçüm ve kuvvet–uzama sonucu → FB.5.2.1 b; FB.5.2.2 yalnızca model tasarlama/yenileme istenirse.",
    "gorsel": "gorsel/isleyenzeka-5-gi1-a-12.png"
   },
   {

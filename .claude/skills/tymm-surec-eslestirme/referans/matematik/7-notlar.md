@@ -1,8 +1,13 @@
-# Matematik 7. sınıf – eşleştirme notları
+# Matematik 7. sınıf – ayrım notları (program metnine göre)
 
-- Tam sayı işlemleri yayınevine göre ayrışıyor: **İşleyen Zeka → MAT.7.1.1** (üslü sayı karşılaştırma,
-  1 – 2 + … – 100, mutlak değer); **Yargı → MAT.7.1.4 c** (asansör konumu gibi bağlamlı tam sayı işlemi,
-  kuvvet işareti). Bağlamlı problem → 7.1.4; sayının kendisini yorumlama (mutlak değer, sayı doğrusu) → 7.1.1.
-- Kesirli değerler arasında "olabilir" türü değer bulma (koli kulesi) → MAT.7.1.4.
-- Birim küplerle doldurulmuş prizmanın hacmi → Yargı MAT.7.4.3 c; açınımdan boyanan yüzey alanı → MAT.7.4.2 c.
-- Devirli ondalık kenarlı şeklin çevresi → Yargı MAT.7.1.2 c (ondalık açılım), 7.1.4 değil.
+- **7.1.1 ↔ 7.1.4:** Sayının kendisini *yorumlama* (tam sayı/rasyonel tanıma, mutlak değer, sayı doğrusunda
+  konum) → 7.1.1 b/c. *İşlem içeren bağlamlı problem* (tam sayılar da rasyoneldir) → 7.1.4. Programda ayrı bir
+  "tam sayılarla işlem" çıktısı yoktur; bağlamlı tam sayı işlemleri 7.1.4'e yakındır. İki aday da makulse
+  güveni düşür.
+- **7.1.2:** Soru *devirli/devirsiz ondalık gösterime* dayanıyorsa (problem içinde olsa bile) → 7.1.2.
+- **7.1.3:** Rasyonel sayıları karşılaştırma/sıralama → b.
+- **7.1.4 bileşeni:** sayı/işlem bileşenleri a; istenen–işlem ilişkisi b ("hangi işlem yapılmalı"); temsile
+  dönüştürme c (sayı doğrusu, şekil); çözme e.
+- **Geometrik nicelikler:** küp yapı ve görünümleri 7.4.1; açınım ve yüzey alanı 7.4.2 (açınımdan yüzey alanı c);
+  eş nesneler/birim küplerle hacim 7.4.3 (birim küp sayısı = hacim c); hacim bağıntısı (taban alanı ×
+  yükseklik) 7.4.4; hacim birimleri 7.4.5; gerçek yaşam problemi (akvaryum, depo) 7.4.6.

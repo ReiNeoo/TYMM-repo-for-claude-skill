@@ -1,8 +1,8 @@
-# Fen Bilimleri 7. sınıf – eşleştirme notları
+# Fen Bilimleri 7. sınıf – ayrım notları (program metnine göre)
 
-- Gözlem uydusunun görev/özelliklerinden aracı bulma → **FB.7.1.2** (uzay gözlem araçları), FB.7.1.1 değil.
-- Gözlemevi/teleskop haberinden çıkarım → yayınevi FB.7.1.1 ve FB.7.1.3 dedi; konu "uzay gözlem aracı"
-  olsa da yayınevleri teknoloji/problem bağlamına bakıyor → güven düşük.
-- Baraj örneğinde enerji türlerini belirleme → FB.7.2.2 (kinetik/potansiyel), dönüşüm/korunum → FB.7.2.3.
-- Yargı: ölçütlere göre gözlem aracı seçme ve uzay sondası modeli → **FB.7.1.1** (teknolojileri karşılaştırma)
-  dedi; İşleyen Zeka gözlem uydusunu FB.7.1.2'ye bağladı. Model *oluşturma/yenileme* açıkça varsa FB.7.1.2.
+- **Uzay çağı:** teknolojilerin özellikleri/karşılaştırılması, ölçütlere göre araç seçme → 7.1.1 (özellik a,
+  fark c). Gözlem aracı *modeli önerme/yenileme* → 7.1.2. Uzay kirliliği → 7.1.3 (problemi yapılandırma a,
+  sonuçlarını özetleme b, çözüme tahmin c, çözüm değerlendirme d). Yıldız yaşamı → 7.1.4; yıldız-galaksi-evren
+  hiyerarşisi → 7.1.5.
+- **Enerji:** enerji *türünü/özelliğini* belirleme veya karşılaştırma → 7.2.2 a. *Dönüşüm* örüntüsü → 7.2.3 a;
+  *korunum* genellemesi → 7.2.3 b. Fiziksel iş → 7.2.1 (kuvvet ve yer değiştirmeye bağlılık c).

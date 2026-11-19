@@ -1,10 +1,10 @@
-# Fen Bilimleri 6. sınıf – eşleştirme notları
+# Fen Bilimleri 6. sınıf – ayrım notları (program metnine göre)
 
-- Gezegen konum/sıralama görselinden ifadeler → yayınevi **FB.6.1.2** (Güneş sistemi modeli) dedi; poster
-  ile nitelik sınıflandırma → FB.6.1.1. Görsel bir "model/gösterim" ise FB.6.1.2'yi aday tut.
-- Tutulma modeline dair öğrenci görüşleri → **FB.6.1.3** (bilimsel çıkarım), FB.6.1.4 değil.
-- Eşeysiz üremeyi açıklayan bilgi → yayınevi **FB.6.3.2** (bitkilerde üreme) dedi; FB.6.3.1 de aday.
-- İşleyen Zeka 6 tablosunda Fen 2–5 satırları kaymıştı; bankada içerikle hizalandı.
-- Yargı: zıt yönlü dinamometre düzeneklerinde hareket durumu → **FB.6.2.2 b** (deney verisi), bileşke
-  hesabı → FB.6.2.1 b. Çimlenme düzeneklerinde değişken → FB.6.3.3 **ç** (değişkenleri kontrol eder).
-- Elma ağacını kalıtsal özellikleri koruyarak çoğaltma → Yargı FB.6.3.1 c (eşeyli/eşeysiz farkı).
+- **Model çıktıları (6.1.2, 6.1.4):** yalnızca model *önerme* (a) ya da modeli *yeni kanıtla yenileme/düzeltme*
+  (b) isteniyorsa. Modeldeki hatayı düzelt → b. Model/görsel üzerinden *olay hakkında* yorum → çıkarım
+  çıktısı (tutulma → 6.1.3 c), gezegen nitelikleri → 6.1.1 (gruplandırma c).
+- **Kuvvet:** bileşke kuvvet hesabı/ilişkisi → 6.2.1 b. Kuvvetler altında cismin *hareket durumu*,
+  dengelenmiş/dengelenmemiş, deney verisi → 6.2.2 b. Sürat–hız (yol–yer değiştirme farkı) → 6.2.3 c.
+- **Üreme:** eşeyli/eşeysiz karşılaştırma, kalıtsal özelliklerin korunması → 6.3.1 (fark c, özellik a).
+  Bitkide üreme yapıları, büyümeye etki eden faktörler (ışık, su) → 6.3.2. Çimlenme deneyi → 6.3.3
+  (değişkenleri belirleme c, kontrol edilen değişken ç, önerme d).
